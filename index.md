@@ -116,3 +116,20 @@ Imprint / Publisher: Anand Kumar Ashodhiya
 ## Connect
 - [LinkedIn]([Your-Link](https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285/))
 - [Twitter]([Your-Link](https://x.com/AnandRagniPoint))
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anand Kumar Ashodhiya",
+  "url": "https://anandkumarashodhiya.github.io",
+  "image": "www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
+  "jobTitle": "Poet and Author",
+  "description": "Anand Kumar Ashodhiya is a renowned Indian poet, author, and cultural envoy known for his contributions to literature and cultural diplomacy.",
+  "sameAs": [
+    "https://www.facebook.com",
+    "https://twitter.com",
+    "https://www.linkedin.com",
+    "https://play.google.com"
+  ]
+}
+</script>
