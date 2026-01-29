@@ -2,6 +2,10 @@
 layout: default
 title: Anand Kumar Ashodhiya | Official Biography
 ---
+---
+layout: default
+title: Published Works of Anand Kumar Ashodhiya
+---
 
 <script type="application/ld+json">
 {
@@ -38,7 +42,7 @@ Anand Kumar Ashodhiya is a distinguished literary figure and a veteran of the **
 ### Literary Works
 *   **SĀKET**: An English Transcreation (ISBN: 9789354698453)
 *   **Antaryātrā**: A Journey Within
-
+[View Full Bibliography](books.html)
 ### Connect with Me
 - [LinkedIn Profile](https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285)
 - [Google Play Author Page](https://play.google.com/store/info/name/Anand_Kumar_Ashodhiya?id=11ymyz5yjr)
