@@ -164,6 +164,6 @@ Imprint / Publisher: Anand Kumar Ashodhiya
 
 
 ## Connect
-- [LinkedIn]([Your-Link](https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285/))
-- [Twitter]([Your-Link](https://x.com/AnandRagniPoint))
+- [LinkedIn](https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285/)
+- [Twitter](https://x.com/AnandRagniPoint)
 
