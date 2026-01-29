@@ -2,10 +2,6 @@
 layout: default
 title: Anand Kumar Ashodhiya | Official Biography
 ---
----
-layout: default
-title: Published Works of Anand Kumar Ashodhiya
----
 
 <script type="application/ld+json">
 {
