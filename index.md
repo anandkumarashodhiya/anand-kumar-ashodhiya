@@ -8,7 +8,7 @@ title: Anand Kumar Ashodhiya - Official Biography
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Anand Kumar Ashodhiya",
-  "url": "https://anandkumarashodhiya.github.io",
+  "url": "[https://anandkumarashodhiya.github.io](https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/)",
   "jobTitle": "Poet and Author",
   "description": "Anand Kumar Ashodhiya is a renowned Indian poet, author, and cultural envoy.",
   "sameAs": [
@@ -22,7 +22,7 @@ title: Anand Kumar Ashodhiya - Official Biography
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Anand Kumar Ashodhiya",
-  "url": "https://anandkumarashodhiya.github.io",
+  "url": "[https://anandkumarashodhiya.github.io](https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/)",
   "hasOccupation": [
     { "@type": "Occupation", "name": "Author" },
     { "@type": "Occupation", "name": "Poet" }
@@ -41,7 +41,13 @@ title: Anand Kumar Ashodhiya - Official Biography
 }
 </script>
 
-
+"sameAs": [
+    "https://www.linkedin.com",
+    "https://play.google.com",
+    "https://www.facebook.com",
+    "https://www.behance.net"
+  ]
+  
 # Anand Kumar Ashodhiya
 **Poet, Author, and Cultural Envoy**
 
