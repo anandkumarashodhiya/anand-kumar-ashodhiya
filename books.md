@@ -1,3 +1,8 @@
+---
+layout: default
+title: Published Works of Anand Kumar Ashodhiya
+---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
