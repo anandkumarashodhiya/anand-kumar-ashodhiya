@@ -23,18 +23,24 @@ title: Anand Kumar Ashodhiya - Official Biography
   "@type": "Person",
   "name": "Anand Kumar Ashodhiya",
   "url": "https://anandkumarashodhiya.github.io",
-  "mainEntityOfPage": "https://www.wikidata.org/wiki/Q137918019",
-  "sameAs": [
-    "https://www.wikidata.org/wiki/Q137918019",
-    "https://play.google.com",
-    "https://www.facebook.com",
-    "https://in.linkedin.com",
-    "https://www.behance.net"
+  "hasOccupation": [
+    { "@type": "Occupation", "name": "Author" },
+    { "@type": "Occupation", "name": "Poet" }
   ],
-  "jobTitle": "Poet, Author, and Cultural Envoy",
-  "description": "Anand Kumar Ashodhiya is an Indian poet, author, and former Warrant Officer of the Indian Air Force."
+  "sameAs": [
+    "https://play.google.com",
+    "https://www.amazon.in"
+  ],
+  "workExample": [
+    {
+      "@type": "CreativeWork",
+      "name": "SĀKET",
+      "isbn": "9789354698453"
+    }
+  ]
 }
 </script>
+
 
 # Anand Kumar Ashodhiya
 **Poet, Author, and Cultural Envoy**
