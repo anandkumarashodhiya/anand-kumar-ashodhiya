@@ -40,7 +40,7 @@ Anand Kumar Ashodhiya is a distinguished literary figure and a veteran of the **
 *   **Antaryātrā**: A Journey Within
 
 ### Connect with Me
-- [LinkedIn Profile](https://www.linkedin.com)
-- [Google Play Author Page](https://play.google.com)
-- [Facebook](https://www.facebook.com)
-- [Behance Portfolio](https://www.behance.net)
+- [LinkedIn Profile](www.linkedin.com/in/anand-kumar-ashodhiya-599248285)
+- [Google Play Author Page](https://play.google.com/store/info/name/Anand_Kumar_Ashodhiya?id=11ymyz5yjr)
+- [Facebook](https://www.facebook.com/ashodhiya)
+- [Behance Portfolio](https://www.behance.net/anandkumarashodhiya)
