@@ -2,6 +2,13 @@
 layout: default
 title: Anand Kumar Ashodhiya | Official Biography
 ---
+# Anand Kumar Ashodhiya
+**Author, Poet, and Cultural Envoy**
+
+### Quick Links:
+[**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Contact**](contact.html)
+
+---
 
 <script type="application/ld+json">
 {
