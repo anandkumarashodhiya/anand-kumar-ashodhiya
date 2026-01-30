@@ -2,5 +2,5 @@ theme: jekyll-theme-architect
 title: Anand Kumar Ashodhiya
 description: Official Biography & Bibliography
 show_downloads: false
-google_analytics: # Leave blank for now
-include: [google36447f783b790ee1.html]
+include:
+  - google36447f783b790ee1.html
