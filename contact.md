@@ -28,13 +28,13 @@ title: Contact | Anand Kumar Ashodhiya
 For professional inquiries regarding **Avikavani Publishers**, literary collaborations, book readings, or cultural research projects, please reach out through the following channels:
 
 ### ✉️ Professional Inquiries
-If you wish to discuss publishing opportunities or literary transcreations, please contact the Avikavani Editorial Team or Anand Kumar Ashodhiya directly via LinkedIn.
+If you wish to discuss publishing opportunities or literary transcreations, please contact the Avikavani Editorial Team or Anand Kumar Ashodhiya directly via [LinkedIn](https://www.linkedin.com).
 
 ### 🌐 Digital Presence
 Stay connected and follow recent updates:
 *   **LinkedIn (Primary):** [Anand Kumar Ashodhiya on LinkedIn](https://www.linkedin.com)
-*   **Behance (Portfolio):** [View Literary Archive](https://www.behance.net)
-*   **Facebook:** [Follow on Facebook](https://www.facebook.com)
+*   **Behance (Portfolio):** [View Literary Archive on Behance](https://www.behance.net/anandkumarashodhiya)
+*   **Facebook:** [Follow on Facebook](https://www.facebook.com/ashodhiya)
 
 ### 📍 Location
 **Based in:** 267, Shahpur Turk, Sector 18, Sonipat, Haryana, India  
