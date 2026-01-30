@@ -3,50 +3,22 @@ layout: default
 title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ImageGallery",
-  "name": "Media Gallery of Anand Kumar Ashodhiya",
-  "author": {
-    "@type": "Person",
-    "name": "Anand Kumar Ashodhiya",
-    "jobTitle": "Author and Veteran Warrant Officer (IAF)",
-    "award": ["Kargil Vijay Samman", "Haryanvi Sahitya Ratna 2025", "Haryana Sanskriti Gaurav Ratna"]
-  },
-  "description": "Visual archive of Anand Kumar Ashodhiya's 32-year IAF service, literary book launches, and cultural diplomatic events.",
-  "hasPart": [
-    {
-      "@type": "ImageObject",
-      "caption": "Warrant Officer Anand Kumar Ashodhiya in IAF Uniform",
-      "contentUrl": "https://anandkumarashodhiya.github.io"
-    },
-    {
-      "@type": "ImageObject",
-      "caption": "Book Launch of SĀKET at Cultural Event",
-      "contentUrl": "https://anandkumarashodhiya.github.io"
-    }
-  ]
-}
-</script>
-
 # Media Gallery & IAF Legacy
 
-## 🇮🇳 Indian Air Force (IAF) Service & Legacy
-Anand Kumar Ashodhiya served with distinction for **32 years** in the Indian Air Force, embodying the motto *"Touch the Sky with Glory."*
+## 🇮🇳 Indian Air Force (IAF) Service
+![Anand Kumar Ashodhiya IAF](anand-kumar-ashodhiya.jpg)
+*Warrant Officer Anand Kumar Ashodhiya during his 32-year tenure.*
 
-*   **Rank Achieved:** Warrant Officer (WO)
-*   **Service Tenure:** 1984 – 2016
-*   **Specialization:** Rajbhasha & Administration
-*   **Key Honors:**
-    *   **Commendation by AOC-in-C SWAC** Commendation by Air Officer Commanding in Chief SWAC.   
-    *   **Kargil Vijay Samman:** Diwyalay Patal Patna awarded Literary Award Kargil Vijay Samman.
-    *   **Paramveer Samman:** Niswarthi Trust Dhana Jhajjhar awarded Paramveer Samman - a Literary Award.
-    *   **Rajbhasha Awards:** Recipient of commendations for the promotion of Hindi within the armed forces.
+## 🏆 Honours & Recognitions
+Recent accolades and literary sammans received for contributions to Indian literature.
 
-> *"A soldier’s discipline is the foundation of a poet’s responsibility."*
-
-## 📚 Book Launches & Literary Events
-Visual highlights from the publication of **SĀKET**, **Antaryātrā**, and various folk epic releases under the **Avikavani Publishers** imprint.
+| Haryanvi Sahitya Ratna | Nav Samvatsar Samman |
+| :---: | :---: |
+| ![Haryanvi Sahitya Ratna](haryanvi-sahitya-ratna.jpg) | ![Nav Samvatsar Samman](nav-samvatsar-samman.jpg) |
 
 ---
+
+## 🇮🇳 Patriotic Spirit
+![Anand Tricolor](anand-tricolor.jpg)
+
+[**Back to Home**](index.html)
