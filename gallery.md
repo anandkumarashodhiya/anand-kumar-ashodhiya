@@ -39,9 +39,10 @@ Anand Kumar Ashodhiya served with distinction for **32 years** in the Indian Air
 *   **Service Tenure:** 1984 – 2016
 *   **Specialization:** Rajbhasha & Administration
 *   **Key Honors:**
-    *   **Kargil Vijay Samman:** Awarded for dedicated service during Operation Vijay.
-    *   **Paramveer Samman:** Recognition of meritorious service and discipline.
-    *   **Rajbhasha Awards:** Eight-time recipient of commendations for the promotion of Hindi within the armed forces.
+    *   **Commendation by AOC-in-C SWAC** Commendation by Air Officer Commanding in Chief SWAC.   
+    *   **Kargil Vijay Samman:** Diwyalay Patal Patna awarded Literary Award Kargil Vijay Samman.
+    *   **Paramveer Samman:** Niswarthi Trust Dhana Jhajjhar awarded Paramveer Samman - a Literary Award.
+    *   **Rajbhasha Awards:** Recipient of commendations for the promotion of Hindi within the armed forces.
 
 > *"A soldier’s discipline is the foundation of a poet’s responsibility."*
 
