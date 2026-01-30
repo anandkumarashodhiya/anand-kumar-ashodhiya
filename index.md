@@ -23,6 +23,10 @@ title: Anand Kumar Ashodhiya | Official Biography
     "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
     "https://www.facebook.com/ashodhiya",
     "https://www.behance.net/anandkumarashodhiya"
+    "https://www.crunchbase.com/person/anand-kumar-ashodhiya", 
+    "https://www.crunchbase.com/organization/avikavani-publishers",
+    "https://filmfreeway.com"
+
   ],
   "hasOccupation": [
     {
