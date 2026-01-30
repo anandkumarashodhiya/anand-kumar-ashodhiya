@@ -3,6 +3,32 @@ layout: default
 title: Published Works | Anand Kumar Ashodhiya
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anand Kumar Ashodhiya",
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Author"
+  },
+  "publishingPrinciples": [
+    {
+      "@type": "CreativeWork",
+      "name": "SĀKET — An English Trans-creation",
+      "isbn": "9789354698453",
+      "publisher": "Avikavani Publishers"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Antaryātrā — The Inner Journey",
+      "isbn": "9789356267497",
+      "publisher": "Avikavani Publishers"
+    }
+  ]
+}
+</script>
+
 # Complete Bibliography
 Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
 
