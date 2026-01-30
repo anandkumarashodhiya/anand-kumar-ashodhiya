@@ -11,21 +11,7 @@ title: Published Works | Anand Kumar Ashodhiya
   "hasOccupation": {
     "@type": "Occupation",
     "name": "Author"
-  },
-  "publishingPrinciples": [
-    {
-      "@type": "CreativeWork",
-      "name": "SĀKET — An English Trans-creation",
-      "isbn": "9789354698453",
-      "publisher": "Avikavani Publishers"
-    },
-    {
-      "@type": "CreativeWork",
-      "name": "Antaryātrā — The Inner Journey",
-      "isbn": "9789356267497",
-      "publisher": "Avikavani Publishers"
-    }
-  ]
+  }
 }
 </script>
 
