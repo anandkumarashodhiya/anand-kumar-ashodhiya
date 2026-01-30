@@ -3,6 +3,29 @@ layout: default
 title: Avikavani Publishers | Literary Imprint of Anand Kumar Ashodhiya
 ---
 
+# Avikavani Publishers
+![Avikavani Banner](avikavani-front-banner.jpg)
+
+### Our Identity
+![Avikavani Logo](avikavani-logo.jpg)
+
+Avikavani Publishers is a dedicated self-publishing imprint established by **Anand Kumar Ashodhiya**.
+
+---
+Use code with caution.
+
+Important Deployment Step:
+Commit these three files.
+Visit Google Search Console.
+Use the URL Inspection Tool for gallery.html.
+Click "Test Live URL" to make sure Google can see the images.
+Click "Request Indexing".
+Pro-Tip: If the images appear too large on the screen, we can add a small piece of CSS code to your _config.yml to automatically resize them to fit the page width.
+Should I provide the CSS code for image resizing next?
+
+
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
