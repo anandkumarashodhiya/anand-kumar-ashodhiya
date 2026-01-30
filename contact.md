@@ -28,11 +28,11 @@ title: Contact | Anand Kumar Ashodhiya
 For professional inquiries regarding **Avikavani Publishers**, literary collaborations, book readings, or cultural research projects, please reach out through the following channels:
 
 ### ✉️ Professional Inquiries
-If you wish to discuss publishing opportunities or literary transcreations, please contact the Avikavani Editorial Team or Anand Kumar Ashodhiya directly via [LinkedIn](www.linkedin.com/in/anand-kumar-ashodhiya-599248285).
+If you wish to discuss publishing opportunities or literary transcreations, please contact the Avikavani Editorial Team or Anand Kumar Ashodhiya directly via [LinkedIn](https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285).
 
 ### 🌐 Digital Presence
 Stay connected and follow recent updates:
-*   **LinkedIn (Primary):** [Anand Kumar Ashodhiya on LinkedIn](www.linkedin.com/in/anand-kumar-ashodhiya-599248285)
+*   **LinkedIn (Primary):** [Anand Kumar Ashodhiya on LinkedIn](https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285)
 *   **Behance (Portfolio):** [View Literary Archive on Behance](https://www.behance.net/anandkumarashodhiya)
 *   **Facebook:** [Follow on Facebook](https://www.facebook.com/ashodhiya)
 
