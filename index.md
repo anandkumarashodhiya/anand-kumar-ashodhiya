@@ -15,9 +15,10 @@ title: Anand Kumar Ashodhiya | Official Biography
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Anand Kumar Ashodhiya",
+  "alternateName": "Kavi Anand Shahpur",
   "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-  "jobTitle": "Author, Poet, and Cultural Envoy",
-  "description": "Anand Kumar Ashodhiya is a former Indian Air Force Warrant Officer and a distinguished Hindi poet and author.",
+  "jobTitle": "Author, Poet, Cultural Envoy & Founder Avikavani Publishers",
+  "description": "Anand Kumar Ashodhiya is a former Indian Air Force Warrant Officer and a distinguished Haryanvi, Hindi & English poet, author.",
   "sameAs": [
     "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
     "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
@@ -41,7 +42,7 @@ title: Anand Kumar Ashodhiya | Official Biography
 }
 </script>
 
-Anand Kumar Ashodhiya is a distinguished literary figure and a veteran of the **Indian Air Force (IAF)**. Known by his pen name **Kavi Anand Shahpur**, his work spans across Hindi and Haryanvi literature, focusing on spiritual, moral, and folk traditions.
+Anand Kumar Ashodhiya is a distinguished literary figure and a veteran of the **Indian Air Force (IAF)**. Known by his pen name **Kavi Anand Shahpur**, his work spans across Hindi, English and Haryanvi literature, focusing on spiritual, moral, and folk traditions.
 
 ### Literary Works
 *   **SĀKET**: An English Transcreation (ISBN: 9789354698453)
