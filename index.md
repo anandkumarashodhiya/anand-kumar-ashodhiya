@@ -1,9 +1,14 @@
----
 layout: default
 title: Anand Kumar Ashodhiya | Official Biography
 ---
-# Anand Kumar Ashodhiya
-**Author, Poet, and Cultural Envoy**
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="anand-kumar-ashodhiya-profile-photo.jpg" alt="Anand Kumar Ashodhiya Profile Photo" 
+       style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+  <div>
+    <h1 style="margin: 0 0 5px 0;">Anand Kumar Ashodhiya</h1>
+    <p style="margin: 0; font-weight: bold; color: #555;">**Author, Poet, and Cultural Envoy**</p>
+  </div>
+</div>
 
 ### Quick Links:
 [**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Contact**](contact.html)
@@ -19,15 +24,15 @@ title: Anand Kumar Ashodhiya | Official Biography
   "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
   "jobTitle": "Author, Poet, Cultural Envoy & Founder Avikavani Publishers",
   "description": "Anand Kumar Ashodhiya is a former Indian Air Force Warrant Officer and a distinguished Haryanvi, Hindi & English poet, author.",
+  "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/anand-kumar-ashodhiya-profile-photo.jpg",
   "sameAs": [
     "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
     "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
     "https://www.facebook.com/ashodhiya",
-    "https://www.behance.net/anandkumarashodhiya"
+    "https://www.behance.net/anandkumarashodhiya",
     "https://www.crunchbase.com/person/anand-kumar-ashodhiya", 
     "https://www.crunchbase.com/organization/avikavani-publishers",
     "https://filmfreeway.com"
-
   ],
   "hasOccupation": [
     {
