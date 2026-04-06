@@ -78,7 +78,7 @@ Anand Kumar Ashodhiya is a distinguished literary figure and a veteran of the **
 
 ### Literary Works
 *   **SĀKET**: An English Transcreation (ISBN: 9789354698453)
-*   **Antaryātrā**: A Journey Within
+*   **Antaryātrā**: A Journey Within (ISBN: 9789356267497)
 
 [**View Full Bibliography**](books.html)
 
