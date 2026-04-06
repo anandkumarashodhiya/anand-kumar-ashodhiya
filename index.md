@@ -23,6 +23,14 @@ title: Anand Kumar Ashodhiya | Official Biography
   "alternateName": "Kavi Anand Shahpur",
   "award": ["Haryanvi Sahitya Ratna 2025", "Indian Literature Award 2026", "Kargil Vijay Samman"],
 "honorificPrefix": "Warrant Officer (Retd.)",
+  "birthPlace": {
+  "@type": "Place",
+  "name": "Shahpur Turk, Sonipat, Haryana"
+},
+"alumniOf": {
+  "@type": "CollegeOrUniversity",
+  "name": "Annamalai University"
+}
   "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
   "jobTitle": "Author, Poet, Cultural Envoy & Founder Avikavani Publishers",
   "description": "Anand Kumar Ashodhiya is a former Indian Air Force Warrant Officer and a distinguished Haryanvi, Hindi & English poet, author.",
