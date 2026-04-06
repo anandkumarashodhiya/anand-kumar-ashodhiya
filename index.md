@@ -22,15 +22,15 @@ title: Anand Kumar Ashodhiya | Official Biography
   "name": "Anand Kumar Ashodhiya",
   "alternateName": "Kavi Anand Shahpur",
   "award": ["Haryanvi Sahitya Ratna 2025", "Indian Literature Award 2026", "Kargil Vijay Samman"],
-"honorificPrefix": "Warrant Officer (Retd.)",
+  "honorificPrefix": "Warrant Officer (Retd.)",
   "birthPlace": {
-  "@type": "Place",
-  "name": "Shahpur Turk, Sonipat, Haryana"
-},
-"alumniOf": {
-  "@type": "CollegeOrUniversity",
-  "name": "Annamalai University"
-}
+    "@type": "Place",
+    "name": "Shahpur Turk, Sonipat, Haryana"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Annamalai University"
+  },
   "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
   "jobTitle": "Author, Poet, Cultural Envoy & Founder Avikavani Publishers",
   "description": "Anand Kumar Ashodhiya is a former Indian Air Force Warrant Officer and a distinguished Haryanvi, Hindi & English poet, author.",
@@ -42,7 +42,9 @@ title: Anand Kumar Ashodhiya | Official Biography
     "https://www.behance.net/anandkumarashodhiya",
     "https://www.crunchbase.com/person/anand-kumar-ashodhiya", 
     "https://www.crunchbase.com/organization/avikavani-publishers",
-    "https://filmfreeway.com"
+    "https://filmfreeway.com",
+    "https://medium.com",
+    "https://goodreads.com"
   ],
   "hasOccupation": [
     {
@@ -54,26 +56,23 @@ title: Anand Kumar Ashodhiya | Official Biography
       "name": "Poet"
     }
   ],
- "publishingPrinciples": "https://github.io",
-"author": {
-  "@type": "Person",
-  "name": "Anand Kumar Ashodhiya"
-},
-"workExample": [
-  {
-    "@type": "Book",
-    "name": "SĀKET: An English Transcreation",
-    "isbn": "9789354698453",
-    "inLanguage": "English"
-  },
-  {
-    "@type": "Book",
-    "name": "Draupadi: A Folk Consciousness",
-    "inLanguage": "Hindi"
-  }
-] 
+  "publishingPrinciples": "https://github.io",
+  "workExample": [
+    {
+      "@type": "Book",
+      "name": "SĀKET: An English Transcreation",
+      "isbn": "9789354698453",
+      "inLanguage": "English"
+    },
+    {
+      "@type": "Book",
+      "name": "Draupadi: A Folk Consciousness",
+      "inLanguage": "Hindi"
+    }
+  ] 
 }
 </script>
+
 
 Anand Kumar Ashodhiya is a distinguished literary figure and a veteran of the **Indian Air Force (IAF)**. Known by his pen name **Kavi Anand Shahpur**, his work spans across Hindi, English and Haryanvi literature, focusing on spiritual, moral, and folk traditions.
 
