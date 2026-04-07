@@ -37,6 +37,32 @@ title: Published Works | Anand Kumar Ashodhiya
 
 # Complete Bibliography
 Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
+A comprehensive record of literary works, folk epics, and scholarly reviews by **Anand Kumar Ashodhiya (Kavi Anand Shahpur)**.
+
+
+| Title | Language | ISBN | Genre/Form |
+| :--- | :--- | :--- | :--- |
+| **Adhirājan (Edition I)** | Haryanvi | 978-81-958735-0-0 | Folk Epic (Ragni) |
+| **Adhirājan (Edition II)** | Haryanvi | 978-93-5469-116-4 | Folk Epic (Ragni) |
+| **Ath Marjarika Uvaach** | Hindi | 978-93-5619-397-0 | Historical Epic |
+| **SĀKET** | English | 978-93-5469-845-3 | Transcreation |
+| **Antaryātrā** | English | 978-93-5626-749-7 | Poetry |
+| **Heer Ranjha** | Haryanvi | 978-81-989952-9-2 | Ragni & Review |
+| **Kissa Bhagat Puranmal** | Haryanvi | 978-81-989952-8-5 | Ragni & Review |
+| **Niswarthi Udyoga Parva** | English | 978-93-5525-694-2 | Translation |
+| **Draupadi: Ek Lok Chetna** | Haryanvi | 978-93-344-4058-4 | Ragni & Review |
+| **Thara Mudda Thari Baat** | Haryanvi | 978-81-989952-2-3 | Modern Poetry |
+| **Prem Ke Sau Rang** | Hindi | 978-93-344-5526-7 | Short Poetry |
+| **Avikavani Ragni Sangrah** | Haryanvi | 978-93-344-2403-4 | Folk Collection |
+| **Kahaan Kahaan Paiband** | English | 978-93-5592-178-9 | Translation |
+| **Sain Samaj Ka Itihas** | Hindi | 978-93-5655-031-5 | History |
+---
+
+### **Scholarly Contribution: Pingal Samiksha**
+A significant portion of these works includes technical reviews of **Pingal (Prosody)**. By documenting the structural rules of the Ragni form, Anand Kumar Ashodhiya ensures the preservation of Haryanvi oral traditions in a scholarly format.
+
+### **Availability**
+Most titles are available via **Avikavani Publishers** and can be found on **Google Play Books**, **Amazon**, and the **WorldCat Global Library Registry**.
 
 ![Published Titles](published-titles-by-anand-kumar-ashodhiya.jpg)
 
@@ -77,7 +103,9 @@ Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
    * [Buy on Amazon](https://www.amazon.in/dp/B0FSS9J53B) | [Buy on Pothi](https://store.pothi.com/book/%E0%A4%86%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6-%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0-%E0%A4%86%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%85%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B5%E0%A4%A8%E0%A5%80-%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80-%E0%A4%B0%E0%A4%BE%E0%A4%97%E0%A4%A3%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9/)
 
 ### Historical & Social Works
-12. **सैन समाज का गौरवशाली इतिहास** (2026)
+8. **सैन समाज का गौरवशाली इतिहास** (2026)
    * ISBN: 9789356550315 | Publisher: Avikavani Publishers 
    ![Sain Samaj History](sain-samaj-ka-gauravshali-itihas-cover.jpg)
    * [Buy on Amazon](https://www.amazon.in/dp/B0GGZ63W3Z) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%85%E0%A4%A5-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%89%E0%A4%B5%E0%A4%BE%E0%A4%9A/)
+
+[**Back to Home**](index.html)
