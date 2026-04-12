@@ -8,11 +8,14 @@ title: Published Works | Anand Kumar Ashodhiya
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "headline": "Complete Bibliography of Anand Kumar Ashodhiya",
-  "description": "Official record of 14 published works including Haryanvi folk epics, Hindi poetry, and English translations.",
+  "@type": "Person",
+  "name": "Anand Kumar Ashodhiya",
+  "alternateName": "Kavi Anand Shahpur",
+  "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html",
+  "description": "Indian poet, translator, and cultural writer specializing in Haryanvi folk traditions and Hindi literature.",
   "mainEntity": {
     "@type": "ItemList",
+    "name": "Complete Bibliography of Anand Kumar Ashodhiya",
     "numberOfItems": 14,
     "itemListElement": [
       {
