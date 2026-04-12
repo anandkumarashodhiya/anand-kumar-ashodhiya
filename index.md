@@ -8,25 +8,25 @@ title: Anand Kumar Ashodhiya | Official Biography
   "@graph": [
     {
       "@type": "ProfilePage",
-      "@id": "https://github.io",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
       "mainEntity": {
-        "@id": "https://github.io"
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/"
       }
     },
     {
       "@type": "Person",
-      "@id": "https://github.io",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
       "name": "Anand Kumar Ashodhiya",
       "alternateName": "Kavi Anand Shahpur",
       "jobTitle": "Author, Poet, Cultural Envoy & Founder of Avikavani Publishers",
       "description": "Anand Kumar Ashodhiya (Kavi Anand Shahpur) is a former Indian Air Force Warrant Officer and a distinguished Haryanvi, Hindi & English poet and author.",
-      "image": "https://github.io",
+      "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile-photo.jpg",
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
       "award": ["Haryanvi Sahitya Ratna 2025", "Indian Literature Award 2026", "Kargil Vijay Samman", "Haryana Sanskriti Gaurav Ratna"],
       "worksFor": {
         "@type": "Organization",
         "name": "Avikavani Publishers",
-        "url": "https://github.io"
+        "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/publishers.html/"
       },
       "sameAs": [
         "https://isni.org/isni/0000000530187854",
@@ -46,7 +46,9 @@ title: Anand Kumar Ashodhiya | Official Biography
     {
       "@type": "Book",
       "name": "SĀKET: An English Transcreation",
-      "author": {"@id": "https://github.io"},
+      "author": {
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/"
+      },
       "isbn": "9789354698453",
       "inLanguage": "English"
     }
