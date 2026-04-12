@@ -11,27 +11,36 @@ title: Avikavani Publishers | Literary Imprint of Anand Kumar Ashodhiya
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Avikavani Publishers",
+  "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/publishers.html",
+  "logo": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/logo.jpg",
+  "description": "Avikavani Publishers is a literary self-publishing imprint dedicated to preserving India’s folk and classical traditions through Haryanvi, Hindi, and English literature.",
   "founder": {
     "@type": "Person",
     "name": "Anand Kumar Ashodhiya",
-    "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/index.html",
-    "sameAs": [
-      "https://isni.org/isni/0000000530187854",
-      "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
-      "https://www.crunchbase.com/person/anand-kumar-ashodhiya"
-    ]
+    "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/index.html"
   },
-  "description": "Avikavani Publishers is a literary self-publishing imprint dedicated to preserving India’s folk and classical traditions through Haryanvi, Hindi, and English literature.",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "267, Shahpur Turk, Sector 18",
     "addressLocality": "Sonipat",
     "addressRegion": "Haryana",
-    "addressCountry": "IN"
+    "postalCode": "131001",
+    "addressCountry": {
+      "@type": "Country",
+      "name": "IN"
+    }
   },
-  "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/publishers.html",
-  "knowsAbout": ["Haryanvi Folk Literature", "Hindi Poetry", "Cultural Documentation", "Pingal Prosody"],
-  "logo": "https://github.io"
+  "knowsAbout": [
+    "Haryanvi Folk Literature",
+    "Hindi Poetry",
+    "Cultural Documentation",
+    "Pingal Prosody"
+  ],
+  "sameAs": [
+    "https://isni.org/isni/0000000530187854",
+    "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
+    "https://www.crunchbase.com/person/anand-kumar-ashodhiya"
+  ]
 }
 </script>
 
