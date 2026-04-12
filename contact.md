@@ -12,21 +12,16 @@ title: Contact | Anand Kumar Ashodhiya
   "@type": "ContactPage",
   "mainEntity": {
     "@type": "Person",
+    "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
     "name": "Anand Kumar Ashodhiya",
-    "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-    "sameAs": [
-        "https://isni.org/isni/0000000530187854",
-        "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149"
-    ],
-    "jobTitle": "Author, Poet, and Founder of Avikavani Publishers",
+    "jobTitle": "Author and Cultural Writer",
+    "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/contact.html",
     "contactPoint": {
       "@type": "ContactPoint",
-      "contactType": "Professional Inquiries",
-      "url": "https://anandkumarashodhiya.github.iocontact.html",
-      "availableLanguage": ["Hindi", "English", "Haryanvi"]
+      "contactType": "author",
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/contact.html"
     }
-  },
-  "description": "Professional contact information for Anand Kumar Ashodhiya for literary collaborations, publishing inquiries, and cultural events."
+  }
 }
 </script>
 
