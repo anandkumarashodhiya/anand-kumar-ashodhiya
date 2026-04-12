@@ -14,7 +14,7 @@ title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
     "@type": "Person",
     "name": "Anand Kumar Ashodhiya",
     "alternateName": "Kavi Anand Shahpur",
-    "description": "Warrant Officer (Retd) Indian Air Force, Poet, and Cultural Writer.",
+    "description": "Warrant Officer (Retd) Indian Air Force, Poet, and Cultural Writer specializing in Haryanvi folk traditions.",
     "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/anand-kumar-ashodhiya.jpg",
     "sameAs": [
       "https://isni.org/isni/0000000530187854",
@@ -23,7 +23,7 @@ title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
     "hasOccupation": {
       "@type": "Occupation",
       "name": "Warrant Officer",
-      "occupationLocation": {
+      "hiringOrganization": {
         "@type": "Organization",
         "name": "Indian Air Force"
       }
