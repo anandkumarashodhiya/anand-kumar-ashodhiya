@@ -9,18 +9,26 @@ title: Contact | Anand Kumar Ashodhiya
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ContactPage",
+  "@type": "ProfilePage",
   "mainEntity": {
     "@type": "Person",
-    "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
     "name": "Anand Kumar Ashodhiya",
+    "alternateName": "Kavi Anand Shahpur",
     "jobTitle": "Author and Cultural Writer",
+    "description": "Official contact and profile page for Anand Kumar Ashodhiya, founder of Avikavani Publishers.",
     "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/contact.html",
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "contactType": "author",
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/contact.html"
-    }
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sonipat",
+      "addressRegion": "Haryana",
+      "addressCountry": "IN"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
+      "https://www.behance.net/anandkumarashodhiya",
+      "https://www.facebook.com/ashodhiya",
+      "https://isni.org/isni/0000000530187854"
+    ]
   }
 }
 </script>
