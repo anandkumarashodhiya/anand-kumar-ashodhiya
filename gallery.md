@@ -9,35 +9,43 @@ title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ImageGallery",
-  "associatedMedia": [
-    {
-      "@type": "ImageObject",
-      "contentUrl": "https://github.io",
-      "caption": "Warrant Officer Anand Kumar Ashodhiya - Indian Air Force Service Legacy",
-      "author": "Anand Kumar Ashodhiya"
-    },
-    {
-      "@type": "ImageObject",
-      "contentUrl": "https://github.io",
-      "caption": "Haryanvi Sahitya Ratna Award Ceremony",
-      "author": "Anand Kumar Ashodhiya"
-    },
-    {
-      "@type": "ImageObject",
-      "contentUrl": "https://github.io",
-      "caption": "Nav Samvatsar Samman Award Ceremony",
-      "author": "Anand Kumar Ashodhiya"
-    }
-  ],
+  "@type": "ProfilePage",
   "mainEntity": {
     "@type": "Person",
     "name": "Anand Kumar Ashodhiya",
+    "alternateName": "Kavi Anand Shahpur",
+    "description": "Warrant Officer (Retd) Indian Air Force, Poet, and Cultural Writer.",
+    "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/anand-kumar-ashodhiya.jpg",
     "sameAs": [
-        "https://isni.org/isni/0000000530187854",
-        "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149"
-    ]
-  }
+      "https://isni.org/isni/0000000530187854",
+      "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149"
+    ],
+    "hasOccupation": {
+      "@type": "Occupation",
+      "name": "Warrant Officer",
+      "occupationLocation": {
+        "@type": "Organization",
+        "name": "Indian Air Force"
+      }
+    }
+  },
+  "hasPart": [
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/anand-kumar-ashodhiya.jpg",
+      "caption": "Warrant Officer Anand Kumar Ashodhiya - Indian Air Force Service Legacy"
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/haryanvi-sahitya-ratna.jpg",
+      "caption": "Haryanvi Sahitya Ratna Award"
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/nav-samvatsar-samman.jpg",
+      "caption": "Nav Samvatsar Samman Award"
+    }
+  ]
 }
 </script>
 
