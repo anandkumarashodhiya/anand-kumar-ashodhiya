@@ -6,14 +6,18 @@ title: Published Works | Anand Kumar Ashodhiya
 [**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Contact**](contact.html)
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Anand Kumar Ashodhiya",
-  "alternateName": "Kavi Anand Shahpur",
-  "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html",
-  "description": "Indian poet, translator, and cultural writer specializing in Haryanvi folk traditions and Hindi literature.",
-  "mainEntity": {
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
+    "name": "Anand Kumar Ashodhiya",
+    "alternateName": "Kavi Anand Shahpur",
+    "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html",
+    "description": "Indian poet, translator, and cultural writer specializing in Haryanvi folk traditions and Hindi literature."
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "ItemList",
     "name": "Complete Bibliography of Anand Kumar Ashodhiya",
     "numberOfItems": 14,
@@ -26,7 +30,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Adhirājan (Edition I)",
           "isbn": "9788195873500",
           "inLanguage": "Haryanvi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -37,7 +41,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Adhirājan (Edition II)",
           "isbn": "9789354691164",
           "inLanguage": "Haryanvi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -48,7 +52,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Ath Marjarika Uvaach",
           "isbn": "9789356193970",
           "inLanguage": "Hindi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -59,7 +63,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "SĀKET: An English Transcreation",
           "isbn": "9789354698453",
           "inLanguage": "English",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -70,7 +74,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Antaryātrā",
           "isbn": "9789356267497",
           "inLanguage": "English",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -81,7 +85,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Heer Ranjha",
           "isbn": "9788198995292",
           "inLanguage": "Haryanvi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -92,7 +96,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Kissa Bhagat Puranmal",
           "isbn": "9788198995285",
           "inLanguage": "Haryanvi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -103,7 +107,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Niswarthi Udyoga Parva",
           "isbn": "9789355256942",
           "inLanguage": "English",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -114,7 +118,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Draupadi: Ek Lok Chetna",
           "isbn": "9789334440584",
           "inLanguage": "Haryanvi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -125,7 +129,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Thara Mudda Thari Baat",
           "isbn": "9788198995223",
           "inLanguage": "Haryanvi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -136,7 +140,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Prem Ke Sau Rang",
           "isbn": "9789334455267",
           "inLanguage": "Hindi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -147,7 +151,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Avikavani Haryanvi Ragni Sangrah",
           "isbn": "9789334424034",
           "inLanguage": "Haryanvi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -158,7 +162,7 @@ title: Published Works | Anand Kumar Ashodhiya
           "name": "Kahaan Kahaan Paiband Lagau",
           "isbn": "9789355921789",
           "inLanguage": "English",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       },
       {
@@ -166,16 +170,17 @@ title: Published Works | Anand Kumar Ashodhiya
         "position": 14,
         "item": {
           "@type": "Book",
-          "name": "Sain Samaj Ka Gaurvshali Itihas",
+          "name": "SAIN SAMAJ KA GAURVSHALI ITIHAS",
           "isbn": "9789356550315",
           "inLanguage": "Hindi",
-          "author": { "@type": "Person", "name": "Anand Kumar Ashodhiya" }
+          "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" }
         }
       }
     ]
   }
-}
+]
 </script>
+
 # Complete Bibliography
 Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
 A comprehensive record of literary works, folk epics, and scholarly reviews by **Anand Kumar Ashodhiya (Kavi Anand Shahpur)**.
