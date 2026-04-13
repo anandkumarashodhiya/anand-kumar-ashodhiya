@@ -69,3 +69,39 @@ of the complete poetic works of the author.
 ## 📌 Citation
 
 If you use or refer to this repository, please cite:
+Ashodhiya, A. K. (2026). Research repository: Haryanvi ragni and Pingal Shastra studies. Zenodo. [https://doi.org/10.5281/zenodo.19552972](https://doi.org/10.5281/zenodo.19552972)
+
+---
+
+## 🔗 Academic Profiles
+
+- ORCID: https://orcid.org/0009-0005-1592-0592
+- Google Scholar: (add link)
+- Zenodo: https://zenodo.org/record/19552972
+
+---
+
+## 📜 License
+
+This repository is licensed under:
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+You are free to share and adapt the material with proper attribution.
+
+---
+
+## 📬 Contact
+
+📧 Email: ashodhiya68@gmail.com  
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is intended for academic and research purposes.  
+All materials are shared in accordance with ethical and publication standards.
+
+---
+
+⭐ *This repository represents an evolving body of scholarly work integrating literary tradition, cultural insight, and formal poetic analysis.*
