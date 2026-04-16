@@ -148,8 +148,7 @@ Most titles are available via **Avikavani Publishers** and can be found on **Goo
 
 6. **द्रौपदी : एक लोक चेतना - रागनी, समीक्षा और पुनर्पाठ**
    * ISBN: 978-93-344-4058-4 | Publisher: Avikavani Publishers
-   ![द्रौपदी Cover](dropadi-cover.jpg)
-   * **ISBN Proof:** ![द्रौपदी ISBN](dropadi-book-isbn.jpg)  
+     * **ISBN Proof:** ![द्रौपदी ISBN](dropadi-book-isbn.jpg)  
    * [Buy on Amazon](https://www.amazon.in/dp/B0FY66DNW8) | [Buy on Pothi](https://store.pothi.com/book/%E0%A4%86%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6-%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0-%E0%A4%86%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%D0%B0%E0%A5%8C%E0%A4%AA%E0%A4%A6%E0%A5%80-%E0%A4%8F%E0%A4%95-%E0%A4%B2%E0%A5%8B%E0%A4%95-%E0%A4%9A%E0%A5%87%E0%A4%A4%E0%A4%A8%E0%A4%BE-%E0%A4%B0%E0%A4%BE%E0%A4%97%E0%A4%A8%E0%A5%80-%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A0/)
 
 7. **अविकावनी हरयाणवी रागणी संग्रह**
@@ -166,26 +165,23 @@ Most titles are available via **Avikavani Publishers** and can be found on **Goo
 
 9. **हीर राँझा — हरयाणवी लोक रागणी संग्रह**
    * ISBN: 9788198995292 | Publisher: SJain Publication
-   ![Heer Ranjha Cover](heer-ranjha-cover.jpg)
-   * **ISBN Proof:** ![Heer Ranjha ISBN](heer-ranjha-book-isbn.jpg) 
+     * **ISBN Proof:** ![Heer Ranjha ISBN](heer-ranjha-book-isbn.jpg) 
    * [Buy on Google](https://play.google.com/store/books/details?id=aaqEEQAAQBAJ) | [Buy on Pothi](https://store.pothi.com/book/%E0%A4%86%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6-%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0-%E0%A4%86%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%80%E0%A4%B0-%E0%A4%B0%E0%A4%BE%E0%A4%81%E0%A4%9D%E0%A4%BE-%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80-%E0%A4%B2%E0%A5%8B%E0%A4%95-%E0%A4%B0%E0%A4%BE%E0%A4%97%E0%A4%A3%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9-%E0%A4%AA%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A4%B2-%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%B8%E0%A4%B9%E0%A4%BF%E0%A4%A4/)
 
 10. **किस्सा भगत पूरणमल — हरयाणवी लोक रागणी संग्रह**
    * ISBN: 9788198995285 | Publisher: SJain Publication
-   ![Kissa Bhagat Puranmal Cover](bhagat-puranmal-cover.jpg)
-   * **ISBN Proof:** ![Kissa Bhagat Puranmal ISBN](bhagat-puranmal-isbn.jpg) 
+     * **ISBN Proof:** ![Kissa Bhagat Puranmal ISBN](bhagat-puranmal-isbn.jpg) 
    * [Buy on Google](https://play.google.com/store/books/details?id=8F9-EQAAQBAJ) | [Buy on Amazon](https://www.amazon.in/dp/B0DSS72NGX)
 
 11. **अथ मार्जरिका उवाच**
    * ISBN: 9789356193970 | Publisher: Avikavani Publishers
-   ![Ath Marjarika Cover](ath-marjarika-cover.jpg)
-   * **ISBN Proof:** ![Ath Marjarika ISBN](ath-marjarika-isbn.jpg) 
+   ![Ath Marjarika Cover](ath-marjrika-uvaach-cover.jpg)
+   * **ISBN Proof:** ![Ath Marjarika ISBN](ath-marjarika-book-isbn.jpg) 
    * [Buy on Google](https://www.google.co.in/books/edition/_/VbOiEQAAQBAJ) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%85%E0%A4%A5-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%89%E0%A4%B5%E0%A4%BE%E0%A4%9A/)
 
 12. **थारा मुद्दा थारी बात — आधुनिक हरियाणवी कविताएँ**
    * ISBN: 9788198995223 | Publisher: Sjain Publication
-   ![Thara Mudda Cover](thara-mudda-thari-baat-front-cover.jpg)
-   * **ISBN Proof:** ![Thara Mudda ISBN](thara-mudda-thari-baat-isbn.jpg) 
+      * **ISBN Proof:** ![Thara Mudda ISBN](thara-mudda-thari-baat-isbn.jpg) 
    * [Buy on Pothi](https://store.pothi.com/book/%E0%A4%86%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6-%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0-%E0%A4%86%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E2%80%9C%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A4%BE-%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%A4%E2%80%9D-%E0%A4%9B%E0%A4%82%E0%A4%A6%E0%A4%AE%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4-%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A5%87%E0%A5%9B/)
 
 ### Historical & Social Works
