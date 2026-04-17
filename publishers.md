@@ -4,7 +4,7 @@ title: Avikavani Publishers | Literary Imprint of Anand Kumar Ashodhiya
 ---
 
 ### Quick Links:
-[**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Contact**](contact.html)
+[**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Awards**](awards.html) | [**Contact**](contact.html)
 
 <script type="application/ld+json">
 {
