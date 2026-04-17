@@ -71,7 +71,7 @@ title: Anand Kumar Ashodhiya | Official Biography
 </div>
 
 ### Quick Links:
-[**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Contact**](contact.html)
+[**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Awards**](awards.html) | [**Contact**](contact.html)
 
 ---
 
