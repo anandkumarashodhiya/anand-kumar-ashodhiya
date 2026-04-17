@@ -78,26 +78,43 @@ title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
 
 </div>
 
-<div style="max-width: 800px; margin: 0 auto; line-height: 1.6; text-align: justify; font-family: sans-serif;">
-  <p><strong>Warrant Officer Anand Kumar Ashodhiya</strong> dedicated 32 distinguished years to the Indian Air Force. His journey from the village of Shahpur Turk to serving the nation in various capacities remains a cornerstone of his discipline and literary inspiration.</p>
+<div style="max-width: 800px; margin: 0 auto; line-height: 1.6; text-align: justify; font-family: sans-serif; padding: 0 15px;">
+  <p><strong>Warrant Officer Anand Kumar Ashodhiya</strong> [cite: 1] dedicated 32 distinguished years to the Indian Air Force. [cite: 1] His journey from the village of Shahpur Turk in Sonipat to serving the nation remains a cornerstone of his discipline and literary inspiration. [cite: 1]</p>
 </div>
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Anand Kumar Ashodhiya",
-  "hasCredential": {
-    "@type": "EducationalOccupationalCredential",
-    "credentialCategory": "Military Rank",
-    "name": "Warrant Officer, Indian Air Force"
-  },
-  "description": "Retired Warrant Officer of the Indian Air Force with 32 years of service, also a renowned Haryanvi and Hindi litterateur."
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Anand Kumar Ashodhiya",
+    "alternateName": "Kavi Anand Shahpur",
+    "description": "Retired Warrant Officer of the Indian Air Force with 32 years of service, also a renowned Haryanvi and Hindi litterateur.",
+    "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya.jpg",
+    "sameAs": [
+      "https://isni.org/isni/0000000530187854",
+      "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149"
+    ],
+    "hasOccupation": {
+      "@type": "Occupation",
+      "name": "Warrant Officer"
+    },
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Indian Air Force"
+    },
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Military Rank",
+      "name": "Warrant Officer, Indian Air Force"
+    }
+  }
 }
 </script>
 
 <div style="text-align: center; margin-top: 50px;">
- 
+  
 </div>
 
 ## 🏆 Honours & Recognitions
