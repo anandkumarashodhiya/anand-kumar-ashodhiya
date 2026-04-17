@@ -7,9 +7,7 @@ title: Awards & Recognitions | Anand Kumar Ashodhiya
 
 
 <div style="text-align: center; font-family: sans-serif; margin-bottom: 20px;">
-  <p>
-    [**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Awards**](awards.html) | [**Contact**](contact.html)
-  </p>
+ 
   <div style="margin-top: 20px;">
     <a href="index.html" style="padding: 12px 25px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px; font-weight: bold;">Home</a>
     <a href="books.md" style="padding: 12px 25px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Books</a>
