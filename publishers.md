@@ -38,6 +38,7 @@ title: Avikavani Publishers | Literary Imprint of Anand Kumar Ashodhiya
   ],
   "sameAs": [
     "https://isni.org/isni/0000000530187854",
+    "https://www.wikidata.org/wiki/Q139451535",
     "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
     "https://www.crunchbase.com/person/anand-kumar-ashodhiya"
   ]
