@@ -34,7 +34,7 @@ title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
 </div>
 
 <div style="max-width: 800px; margin: 0 auto; line-height: 1.6; text-align: justify; font-family: sans-serif; padding: 0 15px;">
-  <p><strong>Warrant Officer Anand Kumar Ashodhiya</strong> [cite: 1] dedicated 32 distinguished years to the Indian Air Force. [cite: 1] His journey from the village of Shahpur Turk in Sonipat to serving the nation remains a cornerstone of his discipline and literary inspiration. [cite: 1]</p>
+  <p><strong>Warrant Officer Anand Kumar Ashodhiya</strong> dedicated 32 distinguished years to the Indian Air Force. His journey from the village of Shahpur Turk in Sonipat to serving the nation remains a cornerstone of his discipline and literary inspiration.</p>
 </div>
 
 <script type="application/ld+json">
