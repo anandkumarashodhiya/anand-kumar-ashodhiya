@@ -17,6 +17,7 @@ title: Published Works | Anand Kumar Ashodhiya
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
       "sameAs": [
         "https://www.google.com/search?q=Anand+Kumar+Ashodhiya&kgmid=/g/11ymyz5yjr",
+        "https://www.wikidata.org/wiki/Q139451535",
         "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
         "https://search.worldcat.org/lists/e6a2d641-2e18-4299-aaff-7697fd62c8b1",
         "https://isni.org/isni/0000000530187854"
