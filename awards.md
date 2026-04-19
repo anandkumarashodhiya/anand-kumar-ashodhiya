@@ -132,5 +132,6 @@ title: Awards & Recognitions | Anand Kumar Ashodhiya
 </script>
 
 <div style="text-align: center; margin-top: 30px;">
-  [**Back to Home**](index.html)
+ 
 </div>
+ [**Back to Home**](index.html)
