@@ -49,7 +49,6 @@ title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
     "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya.jpg",
     "sameAs": [
       "https://isni.org/isni/0000000530187854",
-      "https://www.wikidata.org/wiki/Q139451535",
       "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149"
     ],
     "hasOccupation": {
