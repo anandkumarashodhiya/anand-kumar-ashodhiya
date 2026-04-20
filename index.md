@@ -45,7 +45,6 @@ title: Anand Kumar Ashodhiya | Official Biography
         "https://www.behance.net/anandkumarashodhiya",
         "https://www.facebook.com/ashodhiya",
         "https://medium.com/@ashodhiya68",
-        "https://www.wikidata.org/wiki/Q139451535",
         "https://filmfreeway.com/AnandKumarAshodhiya"
       ]
     },
