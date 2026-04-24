@@ -121,7 +121,25 @@ title: Awards & Recognitions | Anand Kumar Ashodhiya
   "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://anandkumarashodhiya.github.io/#person",
+  "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
   "name": "Anand Kumar Ashodhiya",
+  "alternateName": "Kavi Anand Shahpur",
+  "description": "Indian author, poet, and researcher known for Haryanvi Ragni literature and Pingal prosody studies.",
+  "sameAs": [
+    "https://isni.org/isni/0000000530187854",
+    "https://orcid.org/0009-0005-1592-0592",
+    "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
+    "https://www.youtube.com/@anandragnipoint",
+    "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
+    "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
+    "https://www.amazon.com/author/anandkumarashodhiya",
+    "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya",
+    "https://www.crunchbase.com/person/anand-kumar-ashodhiya",
+    "https://www.behance.net/anandkumarashodhiya",
+    "https://www.facebook.com/ashodhiya",
+    "https://medium.com/@ashodhiya68",
+    "https://filmfreeway.com/AnandKumarAshodhiya"
+  ],
   "award": [
     "Indian Literature Award 2026",
     "Haryanvi Sahitya Ratna Samman",
@@ -130,7 +148,6 @@ title: Awards & Recognitions | Anand Kumar Ashodhiya
   ]
 }
 </script>
-
 <div style="text-align: center; margin-top: 30px;">
  
 </div>
