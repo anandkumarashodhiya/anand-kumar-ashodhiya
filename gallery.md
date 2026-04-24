@@ -43,13 +43,21 @@ title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
   "@type": "ProfilePage",
   "mainEntity": {
     "@type": "Person",
+    "@id": "https://anandkumarashodhiya.github.io/#person",
+    "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
     "name": "Anand Kumar Ashodhiya",
     "alternateName": "Kavi Anand Shahpur",
     "description": "Retired Warrant Officer of the Indian Air Force with 32 years of service, also a renowned Haryanvi and Hindi litterateur.",
     "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya.jpg",
     "sameAs": [
       "https://isni.org/isni/0000000530187854",
-      "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149"
+      "https://orcid.org/0009-0005-1592-0592",
+      "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
+      "https://www.youtube.com/@anandragnipoint",
+      "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
+      "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
+      "https://www.amazon.com/author/anandkumarashodhiya",
+      "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya"
     ],
     "hasOccupation": {
       "@type": "Occupation",
