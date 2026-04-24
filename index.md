@@ -5,36 +5,49 @@ title: Anand Kumar Ashodhiya | Official Biography
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+
   "@graph": [
+
     {
       "@type": "ProfilePage",
       "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+      "name": "Anand Kumar Ashodhiya | Official Biography",
       "mainEntity": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
       }
     },
+
     {
       "@type": "Person",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author",
       "name": "Anand Kumar Ashodhiya",
       "alternateName": "Kavi Anand Shahpur",
-      "jobTitle": "Author, Poet, Cultural Envoy & Founder of Avikavani Publishers",
-      "description": "Anand Kumar Ashodhiya (Kavi Anand Shahpur) is a former Indian Air Force Warrant Officer and a distinguished Haryanvi, Hindi & English poet and author.",
-      "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile-photo.jpg",
+
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-      "award": [
-        "Haryanvi Sahitya Ratna 2025", 
-        "Indian Literature Award 2026", 
-        "Kargil Vijay Samman", 
-        "Haryana Sanskriti Gaurav Ratna"
-      ],
-      "worksFor": {
+      "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile-photo.jpg",
+
+      "jobTitle": "Author, Poet, Cultural Envoy & Founder",
+      "description": "Anand Kumar Ashodhiya, also known as Kavi Anand Shahpur, is a former Indian Air Force Warrant Officer and a distinguished author writing in Hindi, Haryanvi and English.",
+
+      "affiliation": {
         "@type": "Organization",
-        "name": "Avikavani Publishers",
-        "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/publishers.html/"
+        "name": "Indian Air Force"
       },
+
+      "worksFor": {
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#publisher"
+      },
+
+      "award": [
+        "Haryanvi Sahitya Ratna 2025",
+        "Indian Literature Award 2026",
+        "Kargil Vijay Samman"
+      ],
+
       "sameAs": [
         "https://isni.org/isni/0000000530187854",
+        "https://orcid.org/0009-0005-1592-0592",
         "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
         "https://www.youtube.com/@anandragnipoint",
         "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
@@ -48,15 +61,29 @@ title: Anand Kumar Ashodhiya | Official Biography
         "https://filmfreeway.com/AnandKumarAshodhiya"
       ]
     },
+
+    {
+      "@type": "Organization",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#publisher",
+      "name": "Avikavani Publishers",
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/publishers.html",
+      "logo": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/logo.jpg",
+      "founder": {
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
+      }
+    },
+
     {
       "@type": "Book",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#book-saket",
       "name": "SĀKET: An English Transcreation",
       "author": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
       },
       "isbn": "9789354698453",
       "inLanguage": "English"
     }
+
   ]
 }
 </script>
