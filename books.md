@@ -11,20 +11,24 @@ title: Published Works | Anand Kumar Ashodhiya
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
-      "name": "Anand Kumar Ashodhiya",
-      "alternateName": "Kavi Anand Shahpur",
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-      "sameAs": [
-        "https://www.google.com/search?q=Anand+Kumar+Ashodhiya&kgmid=/g/11ymyz5yjr",
-        "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
-        "https://search.worldcat.org/lists/e6a2d641-2e18-4299-aaff-7697fd62c8b1",
-        "https://isni.org/isni/0000000530187854"
-      ],
-      "description": "Indian poet, researcher, and translator specializing in Haryanvi folk traditions and Pingal Shastra analysis.",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Avikavani Publishers"
+  "@id": "https://anandkumarashodhiya.github.io/#person",
+  "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+  "name": "Anand Kumar Ashodhiya",
+  "alternateName": "Kavi Anand Shahpur",
+  "description": "Indian poet, researcher, and translator specializing in Haryanvi folk traditions and Pingal Shastra analysis.",
+  "sameAs": [
+    "https://isni.org/isni/0000000530187854",
+    "https://orcid.org/0009-0005-1592-0592",
+    "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
+    "https://www.youtube.com/@anandragnipoint",
+    "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
+    "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
+    "https://www.amazon.com/author/anandkumarashodhiya",
+    "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya"
+  ],
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Avikavani Publishers"
       }
     },
     {
