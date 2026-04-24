@@ -5,12 +5,11 @@ title: Anand Kumar Ashodhiya | Official Biography
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-
   "@graph": [
 
     {
       "@type": "ProfilePage",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#webpage",
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
       "name": "Anand Kumar Ashodhiya | Official Biography",
       "mainEntity": {
@@ -22,24 +21,30 @@ title: Anand Kumar Ashodhiya | Official Biography
       "@type": "Person",
       "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author",
       "name": "Anand Kumar Ashodhiya",
-      "alternateName": "Kavi Anand Shahpur",
-
+      "alternateName": [
+        "Kavi Anand Shahpur",
+        "आनन्द कुमार आशोधिया"
+      ],
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-      "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile-photo.jpg",
-
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile-photo.jpg"
+      },
       "jobTitle": "Author, Poet, Cultural Envoy & Founder",
       "description": "Anand Kumar Ashodhiya, also known as Kavi Anand Shahpur, is a former Indian Air Force Warrant Officer and a distinguished author writing in Hindi, Haryanvi and English.",
 
-  "knowsAbout": [
-  "Haryanvi Ragni",
-  "Pingal Shastra",
-  "Hindi Poetry",
-  "Folk Literature",
-  "Cultural Analysis"
-],
+      "knowsAbout": [
+        "Haryanvi Ragni",
+        "Pingal Shastra",
+        "Hindi Poetry",
+        "Folk Literature",
+        "Cultural Analysis"
+      ],
+
       "affiliation": {
         "@type": "Organization",
-        "name": "Indian Air Force"
+        "name": "Indian Air Force",
+        "sameAs": "https://en.wikipedia.org/wiki/Indian_Air_Force"
       },
 
       "worksFor": {
@@ -55,6 +60,7 @@ title: Anand Kumar Ashodhiya | Official Biography
       "sameAs": [
         "https://isni.org/isni/0000000530187854",
         "https://orcid.org/0009-0005-1592-0592",
+        "https://scholar.google.com/citations?user=mO9WCuIAAAAJ",
         "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
         "https://www.youtube.com/@anandragnipoint",
         "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
@@ -74,7 +80,10 @@ title: Anand Kumar Ashodhiya | Official Biography
       "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#publisher",
       "name": "Avikavani Publishers",
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/publishers.html",
-      "logo": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/logo.jpg",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/logo.jpg"
+      },
       "founder": {
         "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
       }
@@ -86,6 +95,9 @@ title: Anand Kumar Ashodhiya | Official Biography
       "name": "SĀKET: An English Transcreation",
       "author": {
         "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
+      },
+      "publisher": {
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#publisher"
       },
       "isbn": "9789354698453",
       "inLanguage": "English"
