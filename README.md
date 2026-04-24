@@ -1,5 +1,5 @@
 # 📚 Anand Kumar Ashodhiya — Research Repository
-
+> 🔗 Part of the official research ecosystem of Anand Kumar Ashodhiya (Author, Researcher, and Founder of Avikavani Publishers)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19552972.svg)](https://doi.org/10.5281/zenodo.19552972)
 
 ---
@@ -16,6 +16,7 @@ A multidisciplinary literary scholar working across **Hindi, English, and Haryan
 - Cultural and literary analysis  
 - Translation and transcreation  
 
+🌐 **Official Website:** https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/
 ---
 
 ## 📖 Research Focus
@@ -69,16 +70,27 @@ of the complete poetic works of the author.
 ## 📌 Citation
 
 If you use or refer to this repository, please cite:
-Ashodhiya, A. K. (2026). Research repository: Haryanvi ragni and Pingal Shastra studies. Zenodo. [https://doi.org/10.5281/zenodo.19552972](https://doi.org/10.5281/zenodo.19552972)
+Ashodhiya, Anand Kumar. (2026). *Research Repository: Haryanvi Ragni and Pingal Shastra Studies*. Zenodo. https://doi.org/10.5281/zenodo.19552972
 
 ---
 
-## 🔗 Academic Profiles
+## 🔎 Keywords
 
-- ORCID: https://orcid.org/0009-0005-1592-0592
-- Google Scholar: (add link)
-- Zenodo: https://zenodo.org/record/19552972
+Haryanvi Ragni, Pingal Shastra, Hindi Poetry, Folk Literature, Anand Kumar Ashodhiya, Cultural Studies, Prosody, Indian Literature
+---
 
+## 🔗 Academic & Identity Profiles
+
+- ORCID: https://orcid.org/0009-0005-1592-0592  
+- ISNI: https://isni.org/isni/0000000530187854  
+- Zenodo: https://zenodo.org/record/19552972  
+- Google Scholar: (add when available)  
+- Amazon Author: https://www.amazon.com/author/anandkumarashodhiya  
+- Goodreads: https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya  
+- LinkedIn: https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285
+  
+![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1592--0592-green)
+![ISNI](https://img.shields.io/badge/ISNI-0000000530187854-blue)
 ---
 
 ## 📜 License
