@@ -9,37 +9,62 @@ title: Avikavani Publishers | Literary Imprint of Anand Kumar Ashodhiya
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Avikavani Publishers",
-  "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/publishers.html",
-  "logo": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/logo.jpg",
-  "description": "Avikavani Publishers is a literary self-publishing imprint dedicated to preserving India’s folk and classical traditions through Haryanvi, Hindi, and English literature.",
-  "founder": {
-    "@type": "Person",
-    "name": "Anand Kumar Ashodhiya",
-    "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/index.html"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "267, Shahpur Turk, Sector 18",
-    "addressLocality": "Sonipat",
-    "addressRegion": "Haryana",
-    "postalCode": "131001",
-    "addressCountry": {
-      "@type": "Country",
-      "name": "IN"
+  "@graph": [
+
+    {
+      "@type": "Person",
+      "@id": "https://anandkumarashodhiya.github.io/#person",
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+      "name": "Anand Kumar Ashodhiya",
+      "alternateName": "Kavi Anand Shahpur",
+      "sameAs": [
+        "https://isni.org/isni/0000000530187854",
+        "https://orcid.org/0009-0005-1592-0592",
+        "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
+        "https://www.youtube.com/@anandragnipoint",
+        "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
+        "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
+        "https://www.amazon.com/author/anandkumarashodhiya",
+        "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya"
+      ]
+    },
+
+    {
+      "@type": "Organization",
+      "@id": "https://anandkumarashodhiya.github.io/#organization",
+      "name": "Avikavani Publishers",
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/publishers.html",
+      "logo": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/logo.jpg",
+      "description": "Avikavani Publishers is a literary self-publishing imprint dedicated to preserving India’s folk and classical traditions through Haryanvi, Hindi, and English literature.",
+      
+      "founder": {
+        "@id": "https://anandkumarashodhiya.github.io/#person"
+      },
+
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "267, Shahpur Turk, Sector 18",
+        "addressLocality": "Sonipat",
+        "addressRegion": "Haryana",
+        "postalCode": "131001",
+        "addressCountry": {
+          "@type": "Country",
+          "name": "IN"
+        }
+      },
+
+      "knowsAbout": [
+        "Haryanvi Folk Literature",
+        "Hindi Poetry",
+        "Cultural Documentation",
+        "Pingal Prosody"
+      ],
+
+      "sameAs": [
+        "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr"
+      ]
     }
-  },
-  "knowsAbout": [
-    "Haryanvi Folk Literature",
-    "Hindi Poetry",
-    "Cultural Documentation",
-    "Pingal Prosody"
-  ],
-  "sameAs": [
-    "https://isni.org/isni/0000000530187854",
-    "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
-    "https://www.crunchbase.com/person/anand-kumar-ashodhiya"
+
   ]
 }
 </script>
