@@ -30,6 +30,13 @@ title: Anand Kumar Ashodhiya | Official Biography
       "jobTitle": "Author, Poet, Cultural Envoy & Founder",
       "description": "Anand Kumar Ashodhiya, also known as Kavi Anand Shahpur, is a former Indian Air Force Warrant Officer and a distinguished author writing in Hindi, Haryanvi and English.",
 
+  "knowsAbout": [
+  "Haryanvi Ragni",
+  "Pingal Shastra",
+  "Hindi Poetry",
+  "Folk Literature",
+  "Cultural Analysis"
+],
       "affiliation": {
         "@type": "Organization",
         "name": "Indian Air Force"
