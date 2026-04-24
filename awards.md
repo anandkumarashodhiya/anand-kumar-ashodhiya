@@ -119,32 +119,70 @@ title: Awards & Recognitions | Anand Kumar Ashodhiya
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://anandkumarashodhiya.github.io/#person",
-  "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-  "name": "Anand Kumar Ashodhiya",
-  "alternateName": "Kavi Anand Shahpur",
-  "description": "Indian author, poet, and researcher known for Haryanvi Ragni literature and Pingal prosody studies.",
-  "sameAs": [
-    "https://isni.org/isni/0000000530187854",
-    "https://orcid.org/0009-0005-1592-0592",
-    "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
-    "https://www.youtube.com/@anandragnipoint",
-    "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
-    "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
-    "https://www.amazon.com/author/anandkumarashodhiya",
-    "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya",
-    "https://www.crunchbase.com/person/anand-kumar-ashodhiya",
-    "https://www.behance.net/anandkumarashodhiya",
-    "https://www.facebook.com/ashodhiya",
-    "https://medium.com/@ashodhiya68",
-    "https://filmfreeway.com/AnandKumarAshodhiya"
-  ],
-  "award": [
-    "Indian Literature Award 2026",
-    "Haryanvi Sahitya Ratna Samman",
-    "Pak Sena Atmsamarpan Smriti Samman 2025",
-    "Veterans India President Haryana"
+  "@graph": [
+
+    {
+      "@type": "ProfilePage",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/awards.html",
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/awards.html",
+      "name": "Awards & Recognitions | Anand Kumar Ashodhiya",
+      "mainEntity": {
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
+      }
+    },
+
+    {
+      "@type": "Person",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author",
+      "name": "Anand Kumar Ashodhiya",
+      "alternateName": ["Kavi Anand Shahpur", "आनन्द कुमार आशोधिया"],
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+      "sameAs": [
+        "https://isni.org/isni/0000000530187854",
+        "https://orcid.org/0009-0005-1592-0592",
+        "https://scholar.google.com/citations?user=mO9WCuIAAAAJ",
+        "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
+        "https://www.youtube.com/@anandragnipoint",
+        "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
+        "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
+        "https://www.amazon.com/author/anandkumarashodhiya",
+        "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya",
+        "https://www.crunchbase.com/person/anand-kumar-ashodhiya",
+        "https://www.behance.net/anandkumarashodhiya",
+        "https://www.facebook.com/ashodhiya",
+        "https://medium.com/@ashodhiya68",
+        "https://filmfreeway.com/AnandKumarAshodhiya"
+      ],
+
+      "award": [
+        "Indian Literature Award 2026",
+        "Haryanvi Sahitya Ratna Samman",
+        "Kargil Vijay Samman",
+        "Pak Sena Atmsamarpan Smriti Samman 2025"
+      ]
+    },
+
+    {
+      "@type": "ItemList",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#awards",
+      "name": "Awards and Recognitions of Anand Kumar Ashodhiya",
+      "about": {
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
+      },
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "item": { "@type": "Thing", "name": "Indian Literature Award 2026" }},
+        { "@type": "ListItem", "position": 2, "item": { "@type": "Thing", "name": "Haryanvi Sahitya Ratna Samman" }},
+        { "@type": "ListItem", "position": 3, "item": { "@type": "Thing", "name": "Pak Sena Atmsamarpan Smriti Samman 2025" }},
+        { "@type": "ListItem", "position": 4, "item": { "@type": "Thing", "name": "Sashastra Sena Jhanda Divas Samman 2025" }},
+        { "@type": "ListItem", "position": 5, "item": { "@type": "Thing", "name": "Swatantrata Divas Smriti Samman 2025" }},
+        { "@type": "ListItem", "position": 6, "item": { "@type": "Thing", "name": "Bharat Ratn Srijak Sammaj 2025" }},
+        { "@type": "ListItem", "position": 7, "item": { "@type": "Thing", "name": "Nau Sena Kavya Srijan Samman 2025" }},
+        { "@type": "ListItem", "position": 8, "item": { "@type": "Thing", "name": "Nav Samvatvar Sahitya Samman 2025" }},
+        { "@type": "ListItem", "position": 9, "item": { "@type": "Thing", "name": "Swarnim Sahitya Shiromani Samman 2025" }},
+        { "@type": "ListItem", "position": 10, "item": { "@type": "Thing", "name": "Swaranim Shikshak Gaurav Ratna Award 2025" }}
+      ]
+    }
+
   ]
 }
 </script>
