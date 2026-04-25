@@ -131,6 +131,18 @@ Anand Kumar Ashodhiya is a distinguished literary figure and a veteran of the **
 ### APA Citation:
 Ashodhiya, A. K. (2026). Heer–Ranjha in the Haryanvi Ragni Tradition: A Cultural Analysis in the Light of Pingal Shastra (With Reference to Ragnis 23–28) Research Review International Journal of Multidisciplinary, 11(4), 14–20. https://doi.org/10.31305/rrijm.2026.v11.n04.002
 
+<h2>📄 Research & Publications</h2>
+<p>Explore peer-reviewed scholarly articles on Pingal Shastra and Haryanvi Ragni tradition:</p>
+
+<ul>
+  <li><a href="articles/heer-ranjha-23-28.html">Heer–Ranjha (Ragnis 23–28)</a></li>
+  <li><a href="articles/heer-ranjha-1-7.html">Heer–Ranjha (Ragnis 1–7)</a></li>
+  <li><a href="articles/puranmal-study.html">Kissa Bhagat Puranmal Study</a></li>
+  <li><a href="articles/heer-ranjha-8-16.html">Heer–Ranjha (Ragnis 8–16)</a></li>
+</ul>
+
+<p><a href="articles/index.html"><b>View All Research →</b></a></p>
+
 [**View Full Bibliography**](books.html)
 
 ### Connect with Me
