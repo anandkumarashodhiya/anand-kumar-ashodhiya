@@ -137,7 +137,7 @@ Ashodhiya, A. K. (2026). Heer–Ranjha in the Haryanvi Ragni Tradition: A Cultur
 <ul>
   <li><a href="articles/heer-ranjha-23-28.html">Heer–Ranjha (Ragnis 23–28)</a></li>
   <li><a href="articles/heer-ranjha-1-7.html">Heer–Ranjha (Ragnis 1–7)</a></li>
-  <li><a href="aarticles/bhagat-puranmal-9-18.html">Ragni 9–18 Critical Study</a></li>
+  <li><a href="articles/bhagat-puranmal-9-18.html">Ragni 9–18 Critical Study</a></li>
   <li><a href="articles/heer-ranjha-8-16.html">Heer–Ranjha (Ragnis 8–16)</a></li>
 </ul>
 
