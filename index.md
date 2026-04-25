@@ -149,6 +149,13 @@ Explore peer-reviewed articles on Ragni and Pingal:
 
 <p><a href="articles/index.html"><b>View All Research →</b></a></p>
 
+<div style="background:#f5f5f5;padding:15px;margin-top:20px;">
+<b>🔬 Latest Research:</b>
+<a href="/articles/heer-ranjha-8-16.html">
+Heer–Ranjha Ragni Analysis (8–16)
+</a>
+</div>
+
 [**View Full Bibliography**](books.html)
 
 ### Connect with Me
