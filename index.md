@@ -170,5 +170,5 @@ Heer–Ranjha Ragni Analysis (8–16)
 - [YouTube Channel](https://www.youtube.com/@anandragnipoint)
 
 <Footer><p>
-📚 <a href="/anand-kumar-ashodhiya/articles/index.html)">Research Articles</a>
+📚 <a href="/anand-kumar-ashodhiya/articles/index.html">Research Articles →</a>
 </p></Footer>
