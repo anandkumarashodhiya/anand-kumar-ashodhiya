@@ -177,6 +177,11 @@ Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
 ### **Scholarly Contribution: Pingal Samiksha**
 A significant portion of these works includes technical reviews of **Pingal (Prosody)**. By documenting the structural rules of the Ragni form, Anand Kumar Ashodhiya ensures the preservation of Haryanvi oral traditions in a scholarly format.
 
+<p>
+📖 This bibliography is supported by scholarly research.
+<a href="/articles/index.html">View Research Publications →</a>
+</p>
+
 ### **Availability**
 Most titles are available via **Avikavani Publishers** and can be found on **Google Play Books**, **Amazon**, and the **WorldCat Global Library Registry**.
 
