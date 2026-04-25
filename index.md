@@ -165,4 +165,6 @@ Heer–Ranjha Ragni Analysis (8–16)
 - [Google Play Author Page](https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr)
 - [YouTube Channel](https://www.youtube.com/@anandragnipoint)
 
-
+<Footer><p>
+📚 <a href="/articles/index.html">Research Articles</a>
+</p></Footer>
