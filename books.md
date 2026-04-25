@@ -182,6 +182,13 @@ A significant portion of these works includes technical reviews of **Pingal (Pro
 <a href="/articles/index.html">View Research Publications →</a>
 </p>
 
+<div style="background:#f5f5f5;padding:15px;margin-top:20px;">
+<b>🔬 Latest Research:</b>
+<a href="/articles/heer-ranjha-8-16.html">
+Heer–Ranjha Ragni Analysis (8–16)
+</a>
+</div>
+
 ### **Availability**
 Most titles are available via **Avikavani Publishers** and can be found on **Google Play Books**, **Amazon**, and the **WorldCat Global Library Registry**.
 
