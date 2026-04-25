@@ -155,6 +155,21 @@ Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
 
 ---
 
+<h2>🔬 Related Research</h2>
+<ul>
+  <li><a href="articles/puranmal-study.html">Pingal Analysis of Kissa Bhagat Puranmal</a></li>
+  <li><a href="articles/heer-ranjha-23-28.html">Heer–Ranjha Cultural Study</a></li>
+</ul>
+
+<div style="background:#f2f2f2; padding:15px; margin-top:20px;">
+  <h3>📌 Featured Research</h3>
+  <p>
+    👉 <a href="articles/heer-ranjha-23-28.html">
+    Heer–Ranjha: Pingal-Based Cultural Analysis (2026)
+    </a>
+  </p>
+</div>
+
 ### **Research & Scholarly Contributions**
 1. **हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 8–16)** *Published in ShodhPatra (2026)* | [View Paper](https://www.shodhpatra.org/papers/volume-3/issue-4/spijsh45689/)
 2. **हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 1–7)** *Published in The Academic (2026)* | [View via DOI](https://doi.org/10.5281/zenodo.19542794)
