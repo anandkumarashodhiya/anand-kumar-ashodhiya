@@ -144,14 +144,18 @@ Ashodhiya, A. K. (2026). Heer–Ranjha in the Haryanvi Ragni Tradition: A Cultur
 <h3>📚 Research Publications</h3>
 <p>
 Explore peer-reviewed articles on Ragni and Pingal:
-<a href="[/articles/index.html](https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/articles/index.html)">View Research Articles →</a>
+<a href="/anand-kumar-ashodhiya/articles/index.html">View Research Articles →</a>
 </p>
 
-<p><a href="[articles/index.html](https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/articles/index.html)"><b>View All Research →</b></a></p>
+<p>
+<a href="/anand-kumar-ashodhiya/articles/index.html">
+<b>View All Research →</b>
+</a>
+</p>
 
 <div style="background:#f5f5f5;padding:15px;margin-top:20px;">
 <b>🔬 Latest Research:</b>
-<a href="/articles/heer-ranjha-8-16.html">
+<a href="/anand-kumar-ashodhiya/articles/heer-ranjha-8-16.html">
 Heer–Ranjha Ragni Analysis (8–16)
 </a>
 </div>
@@ -166,5 +170,5 @@ Heer–Ranjha Ragni Analysis (8–16)
 - [YouTube Channel](https://www.youtube.com/@anandragnipoint)
 
 <Footer><p>
-📚 <a href="[/articles/index.html](https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/articles/index.html)">Research Articles</a>
+📚 <a href="/anand-kumar-ashodhiya/articles/index.html)">Research Articles</a>
 </p></Footer>
