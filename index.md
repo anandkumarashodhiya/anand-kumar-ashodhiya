@@ -127,6 +127,9 @@ Anand Kumar Ashodhiya is a distinguished literary figure and a veteran of the **
 *   **SĀKET**: An English Transcreation (ISBN: 9789354698453)
 *   **Antaryātrā**: A Journey Within (ISBN: 9789356267497)
 *   **Adhirājan**: Haryanvi Folk Epic (ISBN: 9789354691164)
+  
+### APA Citation:
+Ashodhiya, A. K. (2026). Heer–Ranjha in the Haryanvi Ragni Tradition: A Cultural Analysis in the Light of Pingal Shastra (With Reference to Ragnis 23–28) Research Review International Journal of Multidisciplinary, 11(4), 14–20. https://doi.org/10.31305/rrijm.2026.v11.n04.002
 
 [**View Full Bibliography**](books.html)
 
