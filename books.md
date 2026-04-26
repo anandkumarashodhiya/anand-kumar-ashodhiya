@@ -126,6 +126,10 @@ title: Published Works | Anand Kumar Ashodhiya
 # Complete Bibliography
 Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
 
+<p style="color:#555;">
+Click on any title to view detailed information, cover, and purchase links.
+</p>
+
 <table style="width:100%; border-collapse: collapse; margin-top: 20px;">
   <thead>
     <tr style="background-color: #f2f2f2; text-align: left;">
@@ -136,20 +140,133 @@ Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
     </tr>
   </thead>
   <tbody>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Adhirājan (Edition I)</b></td><td style="padding: 10px; border: 1px solid #ddd;">Haryanvi</td><td style="padding: 10px; border: 1px solid #ddd;">978-81-958735-0-0</td><td style="padding: 10px; border: 1px solid #ddd;">Folk Epic (Ragni)</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Adhirājan (Edition II)</b></td><td style="padding: 10px; border: 1px solid #ddd;">Haryanvi</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-5469-116-4</td><td style="padding: 10px; border: 1px solid #ddd;">Folk Epic (Ragni)</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Ath Marjarika Uvaach</b></td><td style="padding: 10px; border: 1px solid #ddd;">Hindi</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-5619-397-0</td><td style="padding: 10px; border: 1px solid #ddd;">Historical Epic</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>SĀKET</b></td><td style="padding: 10px; border: 1px solid #ddd;">English</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-5469-845-3</td><td style="padding: 10px; border: 1px solid #ddd;">Transcreation</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Antaryātrā</b></td><td style="padding: 10px; border: 1px solid #ddd;">English</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-5626-749-7</td><td style="padding: 10px; border: 1px solid #ddd;">Poetry</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Heer Ranjha</b></td><td style="padding: 10px; border: 1px solid #ddd;">Haryanvi</td><td style="padding: 10px; border: 1px solid #ddd;">978-81-989952-9-2</td><td style="padding: 10px; border: 1px solid #ddd;">Ragni & Review</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Kissa Bhagat Puranmal</b></td><td style="padding: 10px; border: 1px solid #ddd;">Haryanvi</td><td style="padding: 10px; border: 1px solid #ddd;">978-81-989952-8-5</td><td style="padding: 10px; border: 1px solid #ddd;">Ragni & Review</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Niswarthi Udyoga Parva</b></td><td style="padding: 10px; border: 1px solid #ddd;">English</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-5525-694-2</td><td style="padding: 10px; border: 1px solid #ddd;">Translation</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Draupadi: Ek Lok Chetna</b></td><td style="padding: 10px; border: 1px solid #ddd;">Haryanvi</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-344-4058-4</td><td style="padding: 10px; border: 1px solid #ddd;">Ragni & Review</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Thara Mudda Thari Baat</b></td><td style="padding: 10px; border: 1px solid #ddd;">Haryanvi</td><td style="padding: 10px; border: 1px solid #ddd;">978-81-989952-2-3</td><td style="padding: 10px; border: 1px solid #ddd;">Modern Poetry</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Prem Ke Sau Rang</b></td><td style="padding: 10px; border: 1px solid #ddd;">Hindi</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-344-5526-7</td><td style="padding: 10px; border: 1px solid #ddd;">Short Poetry</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Avikavani Ragni Sangrah</b></td><td style="padding: 10px; border: 1px solid #ddd;">Haryanvi</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-344-2403-4</td><td style="padding: 10px; border: 1px solid #ddd;">Folk Collection</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Kahaan Kahaan Paiband</b></td><td style="padding: 10px; border: 1px solid #ddd;">English</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-5592-178-9</td><td style="padding: 10px; border: 1px solid #ddd;">Translation</td></tr>
-    <tr><td style="padding: 10px; border: 1px solid #ddd;"><b>Sain Samaj Ka Itihas</b></td><td style="padding: 10px; border: 1px solid #ddd;">Hindi</td><td style="padding: 10px; border: 1px solid #ddd;">978-93-5655-031-5</td><td style="padding: 10px; border: 1px solid #ddd;">History</td></tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/adhirajan-edition-1.html"><b>Adhirājan (Edition I)</b></a>
+      </td>
+      <td>Haryanvi</td>
+      <td>978-81-958735-0-0</td>
+      <td>Folk Epic (Ragni)</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/adhirajan-edition-2.html"><b>Adhirājan (Edition II)</b></a>
+      </td>
+      <td>Haryanvi</td>
+      <td>978-93-5469-116-4</td>
+      <td>Folk Epic (Ragni)</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/ath-marjarika-uvaach.html"><b>Ath Marjarika Uvaach</b></a>
+      </td>
+      <td>Hindi</td>
+      <td>978-93-5619-397-0</td>
+      <td>Historical Epic</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/saket.html"><b>SĀKET</b></a>
+      </td>
+      <td>English</td>
+      <td>978-93-5469-845-3</td>
+      <td>Transcreation</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/antaryatra.html"><b>Antaryātrā</b></a>
+      </td>
+      <td>English</td>
+      <td>978-93-5626-749-7</td>
+      <td>Poetry</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/heer-ranjha.html"><b>Heer Ranjha</b></a>
+      </td>
+      <td>Haryanvi</td>
+      <td>978-81-989952-9-2</td>
+      <td>Ragni & Review</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/kissa-bhagat-puranmal.html"><b>Kissa Bhagat Puranmal</b></a>
+      </td>
+      <td>Haryanvi</td>
+      <td>978-81-989952-8-5</td>
+      <td>Ragni & Review</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/niswarthi-udyoga-parva.html"><b>Niswarthi Udyoga Parva</b></a>
+      </td>
+      <td>English</td>
+      <td>978-93-5525-694-2</td>
+      <td>Translation</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/draupadi-ek-lok-chetna.html"><b>Draupadi: Ek Lok Chetna</b></a>
+      </td>
+      <td>Haryanvi</td>
+      <td>978-93-344-4058-4</td>
+      <td>Ragni & Review</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/thara-mudda-thari-baat.html"><b>Thara Mudda Thari Baat</b></a>
+      </td>
+      <td>Haryanvi</td>
+      <td>978-81-989952-2-3</td>
+      <td>Modern Poetry</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/prem-ke-sau-rang.html"><b>Prem Ke Sau Rang</b></a>
+      </td>
+      <td>Hindi</td>
+      <td>978-93-344-5526-7</td>
+      <td>Short Poetry</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/avikavani-ragni-sangrah.html"><b>Avikavani Ragni Sangrah</b></a>
+      </td>
+      <td>Haryanvi</td>
+      <td>978-93-344-2403-4</td>
+      <td>Folk Collection</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/kahaan-kahaan-paiband-lagau.html"><b>Kahaan Kahaan Paiband</b></a>
+      </td>
+      <td>English</td>
+      <td>978-93-5592-178-9</td>
+      <td>Translation</td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="books/sain-samaj-ka-itihas.html"><b>Sain Samaj Ka Itihas</b></a>
+      </td>
+      <td>Hindi</td>
+      <td>978-93-5655-031-5</td>
+      <td>History</td>
+    </tr>
+
   </tbody>
 </table>
 
