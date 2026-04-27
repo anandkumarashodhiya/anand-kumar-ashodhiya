@@ -274,7 +274,9 @@ Click on any title to view detailed information, cover, and purchase links.
 
 <h2>🔬 Related Research</h2>
 <ul>
-  <li><a href="articles/puranmal-study.html">Pingal Analysis of Kissa Bhagat Puranmal</a></li>
+  <li><a href="articles/bhagat-puranmal-9-18.html">
+      Pingal Analysis of Kissa Bhagat Puranmal
+    </a></li>
   <li><a href="articles/heer-ranjha-23-28.html">Heer–Ranjha Cultural Study</a></li>
 </ul>
 
@@ -296,12 +298,12 @@ A significant portion of these works includes technical reviews of **Pingal (Pro
 
 <p>
 📖 This bibliography is supported by scholarly research.
-<a href="/articles/index.html">View Research Publications →</a>
+<a href="/anand-kumar-ashodhiya/articles/index.html">
 </p>
 
 <div style="background:#f5f5f5;padding:15px;margin-top:20px;">
 <b>🔬 Latest Research:</b>
-<a href="/articles/heer-ranjha-8-16.html">
+<a href="/anand-kumar-ashodhiya/articles/heer-ranjha-8-16.html">
 Heer–Ranjha Ragni Analysis (8–16)
 </a>
 </div>
