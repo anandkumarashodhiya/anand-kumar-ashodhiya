@@ -299,6 +299,8 @@ A significant portion of these works includes technical reviews of **Pingal (Pro
 <p>
 📖 This bibliography is supported by scholarly research.
 <a href="/anand-kumar-ashodhiya/articles/index.html">
+View Research Publications →
+</a>
 </p>
 
 <div style="background:#f5f5f5;padding:15px;margin-top:20px;">
