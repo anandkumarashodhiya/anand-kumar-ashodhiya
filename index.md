@@ -18,7 +18,10 @@ last_modified_at: 2026-05-01
 "@type": "WebSite",
 "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#website",
 "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-"name": "Anand Kumar Ashodhiya Official Website"
+"name": "Anand Kumar Ashodhiya Official Website",
+"publisher": {
+  "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
+}
 },
 
 {
