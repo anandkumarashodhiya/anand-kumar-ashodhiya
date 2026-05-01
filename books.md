@@ -251,7 +251,7 @@ A significant portion of these works includes technical reviews of **Pingal (Pro
 
 <p>
 📖 This bibliography is supported by scholarly research.  
-👉 [View Research Publications →](articles/index.html)
+👉<a [View Research Publications →](articles/index.html)
 
 View Research Publications →
 </a>
