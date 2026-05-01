@@ -43,7 +43,13 @@ last_modified_at: 2026-05-01
       ],
       "sameAs": [
         "https://orcid.org/0009-0005-1592-0592",
-        "https://scholar.google.com/citations?user=mO9WCuIAAAAJ"
+  "https://scholar.google.com/citations?user=mO9WCuIAAAAJ",
+  "https://isni.org/isni/0000000530187854",
+  "https://www.amazon.com/author/anandkumarashodhiya",
+  "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya",
+  "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
+  "https://www.youtube.com/@anandragnipoint",
+  "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285"
       ]
     },
 
