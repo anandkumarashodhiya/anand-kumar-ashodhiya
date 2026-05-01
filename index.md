@@ -3,70 +3,109 @@ layout: default
 title: Anand Kumar Ashodhiya | Official Biography
 last_modified_at: 2026-05-01
 ---
+
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/">
-<!-- ================= SEO ================= -->
+
 <meta name="description" content="Official profile of Anand Kumar Ashodhiya – author, poet, and researcher specializing in Haryanvi Ragni, Pingal Shastra, and Indian folk literature.">
-<link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/">
 
 <!-- ================= SCHEMA ================= -->
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@graph": [
+"@context": "https://schema.org",
+"@graph": [
 
-    {
-      "@type": "ProfilePage",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#webpage",
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-      "name": "Anand Kumar Ashodhiya | Official Biography",
-      "mainEntity": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
-      }
-    },
+{
+"@type": "WebSite",
+"@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#website",
+"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+"name": "Anand Kumar Ashodhiya Official Website"
+},
 
-    {
-      "@type": "Person",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author",
-      "name": "Anand Kumar Ashodhiya",
-      "alternateName": [
-        "Kavi Anand Shahpur",
-        "आनन्द कुमार आशोधिया"
-      ],
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-      "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile-photo.jpg",
-      "jobTitle": "Author, Poet, Cultural Envoy & Researcher",
-      "knowsAbout": [
-        "Haryanvi Ragni",
-        "Pingal Shastra",
-        "Hindi Poetry",
-        "Folk Literature"
-      ],
-      "sameAs": [
-        "https://orcid.org/0009-0005-1592-0592",
-  "https://scholar.google.com/citations?user=mO9WCuIAAAAJ",
-  "https://isni.org/isni/0000000530187854",
-  "https://www.amazon.com/author/anandkumarashodhiya",
-  "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya",
-  "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
-  "https://www.youtube.com/@anandragnipoint",
-  "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285"
-      ]
-    },
+{
+"@type": "ProfilePage",
+"@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#profile",
+"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+"name": "Anand Kumar Ashodhiya | Official Biography",
+"isPartOf": {
+  "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#website"
+},
+"mainEntity": {
+  "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
+}
+},
 
-    {
-      "@type": "CollectionPage",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/articles/index.html",
-      "name": "Research Articles",
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/articles/index.html"
-    }
+{
+"@type": "Person",
+"@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
+"name": "Anand Kumar Ashodhiya",
+"alternateName": [
+"Kavi Anand Shahpur",
+"आनन्द कुमार आशोधिया"
+],
+"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+"image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile-photo.jpg",
+"jobTitle": "Author, Poet, Cultural Envoy & Researcher",
+"knowsAbout": [
+"Haryanvi Ragni",
+"Pingal Shastra",
+"Hindi Poetry",
+"Folk Literature"
+],
+"sameAs": [
+"https://orcid.org/0009-0005-1592-0592",
+"https://scholar.google.com/citations?user=mO9WCuIAAAAJ",
+"https://isni.org/isni/0000000530187854",
+"https://www.amazon.com/author/anandkumarashodhiya",
+"https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya",
+"https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
+"https://www.youtube.com/@anandragnipoint",
+"https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285"
+]
+},
 
-  ]
+{
+"@type": "ItemList",
+"@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#books",
+"name": "Selected Books",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@type": "Book",
+"name": "SĀKET: An English Transcreation",
+"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books/saket.html"
+}
+},
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@type": "Book",
+"name": "Antaryātrā",
+"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books/antaryatra.html"
+}
+},
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@type": "Book",
+"name": "Adhirājan (Edition I)",
+"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books/adhirajan-edition-1.html"
+}
+}
+]
+}
+
+]
 }
 </script>
 
 <!-- ================= HEADER ================= -->
 <div style="display:flex;align-items:center;gap:20px;margin-bottom:20px;">
-  <img src="anand-kumar-ashodhiya-profile-photo.jpg" alt="Anand Kumar Ashodhiya"
+  <img src="anand-kumar-ashodhiya-profile-photo.jpg"
+       alt="Anand Kumar Ashodhiya"
        style="width:120px;height:120px;border-radius:50%;object-fit:cover;">
   <div>
     <h1 style="margin:0;">Anand Kumar Ashodhiya</h1>
@@ -90,40 +129,16 @@ Anand Kumar Ashodhiya is a literary scholar and former Indian Air Force Warrant 
 known for his contributions to Haryanvi Ragni tradition, Pingal Shastra, and Indian folk studies.
 </p>
 
-<!-- ================= RESEARCH SECTION ================= -->
+<!-- ================= RESEARCH ================= -->
 
 <h2>📄 Research & Publications</h2>
 
 <ul>
-
-<li>
-<a href="articles/heer-ranjha-1-7.html">Heer–Ranjha (Ragnis 1–7)</a> |
-<a href="articles/heer-ranjha-1-7.pdf" target="_blank">PDF</a> |
-<a href="https://doi.org/10.5281/zenodo.19542794" target="_blank">DOI</a>
-</li>
-
-<li>
-<a href="articles/heer-ranjha-8-16.html">Heer–Ranjha (Ragnis 8–16)</a> |
-<a href="articles/heer-ranjha-8-16.pdf" target="_blank">PDF</a> |
-<a href="https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689" target="_blank">DOI</a>
-</li>
-
-<li>
-<a href="articles/heer-ranjha-23-28.html">Heer–Ranjha (Ragnis 23–28)</a> |
-<a href="articles/heer-ranjha-23-28.pdf" target="_blank">PDF</a> |
-<a href="https://doi.org/10.31305/RRIJM.2026.V11.N04.002" target="_blank">DOI</a>
-</li>
-
-<li>
-<a href="articles/bhagat-puranmal-1-8.html">Bhagat Puranmal (Ragni 1–8)</a> |
-<a href="articles/bhagat-puranmal-1-8.pdf" target="_blank">PDF</a>
-</li>
-
-<li>
-<a href="articles/bhagat-puranmal-9-18.html">Bhagat Puranmal (Ragni 9–18)</a> |
-<a href="articles/bhagat-puranmal-9-18.pdf" target="_blank">PDF</a>
-</li>
-
+<li><a href="articles/heer-ranjha-1-7.html">Heer–Ranjha (Ragnis 1–7)</a></li>
+<li><a href="articles/heer-ranjha-8-16.html">Heer–Ranjha (Ragnis 8–16)</a></li>
+<li><a href="articles/heer-ranjha-23-28.html">Heer–Ranjha (Ragnis 23–28)</a></li>
+<li><a href="articles/bhagat-puranmal-1-8.html">Bhagat Puranmal (Ragni 1–8)</a></li>
+<li><a href="articles/bhagat-puranmal-9-18.html">Bhagat Puranmal (Ragni 9–18)</a></li>
 </ul>
 
 <p>
