@@ -15,3 +15,6 @@ include:
 exclude:
   - README.md
   - LICENSE
+  
+exclude:
+  - "*.pdf"
