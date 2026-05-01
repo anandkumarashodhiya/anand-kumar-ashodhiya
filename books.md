@@ -250,11 +250,8 @@ Click on any title to view detailed information, cover, and purchase links.
 A significant portion of these works includes technical reviews of **Pingal (Prosody)**. By documenting the structural rules of the Ragni form, Anand Kumar Ashodhiya ensures the preservation of Haryanvi oral traditions in a scholarly format.
 
 <p>
-📖 This bibliography is supported by scholarly research.  
-👉<a [View Research Publications →](articles/index.html)
-
-View Research Publications →
-</a>
+📖 This bibliography is supported by scholarly research.<br>
+👉 <a href="articles/index.html">View Research Publications →</a>
 </p>
 
 <div style="background:#f5f5f5;padding:15px;margin-top:20px;">
