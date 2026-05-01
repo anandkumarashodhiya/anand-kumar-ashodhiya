@@ -4,12 +4,13 @@ title: Published Works | Anand Kumar Ashodhiya
 permalink: /books.html
 last_modified_at: 2026-05-01
 ---
+
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html">
+
 <!-- ================= SEO ================= -->
 <meta name="description" content="Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research articles on Haryanvi Ragni, Pingal Shastra, and Indian folklore.">
 <meta name="keywords" content="Anand Kumar Ashodhiya books, Haryanvi Ragni, Pingal Shastra, Hindi literature, Indian folklore, ISBN bibliography">
 <meta name="author" content="Anand Kumar Ashodhiya">
-<link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html">
 
 <!-- ================= STRUCTURED DATA ================= -->
 <script type="application/ld+json">
@@ -18,16 +19,39 @@ last_modified_at: 2026-05-01
   "@graph": [
 
     {
+      "@type": "WebSite",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#website",
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+      "name": "Anand Kumar Ashodhiya Official Website"
+    },
+
+    {
       "@type": "WebPage",
       "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html#webpage",
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html",
-      "name": "Published Works | Anand Kumar Ashodhiya"
+      "name": "Published Works | Anand Kumar Ashodhiya",
+      "isPartOf": {
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#website"
+      },
+      "about": {
+        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
+      }
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/" },
+        { "@type": "ListItem", "position": 2, "name": "Books & Bibliography", "item": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html" }
+      ]
     },
 
     {
       "@type": "Person",
       "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
       "name": "Anand Kumar Ashodhiya",
+      "alternateName": ["Kavi Anand Shahpur", "आनन्द कुमार आशोधिया"],
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
       "sameAs": [
         "https://orcid.org/0009-0005-1592-0592",
         "https://scholar.google.com/citations?user=mO9WCuIAAAAJ"
@@ -35,25 +59,32 @@ last_modified_at: 2026-05-01
     },
 
     {
+      "@type": "Organization",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#publisher",
+      "name": "Avikavani Publishers"
+    },
+
+    {
       "@type": "ItemList",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html#bibliography",
       "name": "Complete Bibliography",
       "numberOfItems": 16,
       "itemListElement": [
 
-        { "@type": "ListItem", "position": 1, "item": { "@type": "Book", "name": "Adhirājan (Edition I)", "isbn": "9788195873500" }},
-        { "@type": "ListItem", "position": 2, "item": { "@type": "Book", "name": "Adhirājan (Edition II)", "isbn": "9789354691164" }},
-        { "@type": "ListItem", "position": 3, "item": { "@type": "Book", "name": "Ath Marjarika Uvaach", "isbn": "9789356193970" }},
-        { "@type": "ListItem", "position": 4, "item": { "@type": "Book", "name": "SĀKET", "isbn": "9789354698453" }},
-        { "@type": "ListItem", "position": 5, "item": { "@type": "Book", "name": "Antaryātrā", "isbn": "9789356267497" }},
-        { "@type": "ListItem", "position": 6, "item": { "@type": "Book", "name": "Heer Ranjha", "isbn": "9788198995292" }},
-        { "@type": "ListItem", "position": 7, "item": { "@type": "Book", "name": "Kissa Bhagat Puranmal", "isbn": "9788198995285" }},
-        { "@type": "ListItem", "position": 8, "item": { "@type": "Book", "name": "Niswarthi Udyoga Parva", "isbn": "9789355256942" }},
-        { "@type": "ListItem", "position": 9, "item": { "@type": "Book", "name": "Draupadi: Ek Lok Chetna", "isbn": "9789334440584" }},
-        { "@type": "ListItem", "position": 10, "item": { "@type": "Book", "name": "Thara Mudda Thari Baat", "isbn": "9788198995223" }},
-        { "@type": "ListItem", "position": 11, "item": { "@type": "Book", "name": "Prem Ke Sau Rang", "isbn": "9789334455267" }},
-        { "@type": "ListItem", "position": 12, "item": { "@type": "Book", "name": "Avikavani Ragni Sangrah", "isbn": "9789334424034" }},
-        { "@type": "ListItem", "position": 13, "item": { "@type": "Book", "name": "Kahaan Kahaan Paiband Lagau", "isbn": "9789355921789" }},
-        { "@type": "ListItem", "position": 14, "item": { "@type": "Book", "name": "Sain Samaj Ka Itihas", "isbn": "9789356550315" }},
+        { "@type": "ListItem", "position": 1, "item": { "@type": "Book", "name": "Adhirājan (Edition I)", "isbn": "9788195873500", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 2, "item": { "@type": "Book", "name": "Adhirājan (Edition II)", "isbn": "9789354691164", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 3, "item": { "@type": "Book", "name": "Ath Marjarika Uvaach", "isbn": "9789356193970", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 4, "item": { "@type": "Book", "name": "SĀKET", "isbn": "9789354698453", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 5, "item": { "@type": "Book", "name": "Antaryātrā", "isbn": "9789356267497", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 6, "item": { "@type": "Book", "name": "Heer Ranjha", "isbn": "9788198995292", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 7, "item": { "@type": "Book", "name": "Kissa Bhagat Puranmal", "isbn": "9788198995285", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 8, "item": { "@type": "Book", "name": "Niswarthi Udyoga Parva", "isbn": "9789355256942", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 9, "item": { "@type": "Book", "name": "Draupadi: Ek Lok Chetna", "isbn": "9789334440584", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 10, "item": { "@type": "Book", "name": "Thara Mudda Thari Baat", "isbn": "9788198995223", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 11, "item": { "@type": "Book", "name": "Prem Ke Sau Rang", "isbn": "9789334455267", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 12, "item": { "@type": "Book", "name": "Avikavani Ragni Sangrah", "isbn": "9789334424034", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 13, "item": { "@type": "Book", "name": "Kahaan Kahaan Paiband Lagau", "isbn": "9789355921789", "author": { "@id": "#person" } }},
+        { "@type": "ListItem", "position": 14, "item": { "@type": "Book", "name": "Sain Samaj Ka Itihas", "isbn": "9789356550315", "author": { "@id": "#person" } }},
 
         { "@type": "ListItem", "position": 15, "item": { "@type": "ScholarlyArticle", "name": "Heer–Ranjha (Ragnis 23–28)", "sameAs": "https://doi.org/10.31305/RRIJM.2026.V11.N04.002" }},
         { "@type": "ListItem", "position": 16, "item": { "@type": "ScholarlyArticle", "name": "Heer–Ranjha (Ragnis 8–16)", "sameAs": "https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689" }}
@@ -73,6 +104,7 @@ last_modified_at: 2026-05-01
 ---
 
 # Complete Bibliography
+
 Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
 
 <p style="color:#555;">
@@ -80,179 +112,62 @@ Click on any title to view detailed information, cover, and purchase links.
 </p>
 
 <table style="width:100%; border-collapse: collapse; margin-top: 20px;">
-  <thead>
-    <tr style="background-color: #f2f2f2; text-align: left;">
-      <th style="padding: 12px; border: 1px solid #ddd;">Title</th>
-      <th style="padding: 12px; border: 1px solid #ddd;">Language</th>
-      <th style="padding: 12px; border: 1px solid #ddd;">ISBN</th>
-      <th style="padding: 12px; border: 1px solid #ddd;">Genre/Form</th>
-    </tr>
-  </thead>
-  <tbody>
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th style="padding:12px;border:1px solid #ddd;">Title</th>
+<th style="padding:12px;border:1px solid #ddd;">Language</th>
+<th style="padding:12px;border:1px solid #ddd;">ISBN</th>
+<th style="padding:12px;border:1px solid #ddd;">Genre/Form</th>
+</tr>
+</thead>
 
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/adhirajan-edition-1.html"><b>Adhirājan (Edition I)</b></a>
-      </td>
-      <td>Haryanvi</td>
-      <td>978-81-958735-0-0</td>
-      <td>Folk Epic (Ragni)</td>
-    </tr>
+<tbody>
 
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/adhirajan-edition-2.html"><b>Adhirājan (Edition II)</b></a>
-      </td>
-      <td>Haryanvi</td>
-      <td>978-93-5469-116-4</td>
-      <td>Folk Epic (Ragni)</td>
-    </tr>
+<tr><td><a href="books/adhirajan-edition-1.html"><b>Adhirājan (Edition I)</b></a></td><td>Haryanvi</td><td>978-81-958735-0-0</td><td>Folk Epic (Ragni)</td></tr>
+<tr><td><a href="books/adhirajan-edition-2.html"><b>Adhirājan (Edition II)</b></a></td><td>Haryanvi</td><td>978-93-5469-116-4</td><td>Folk Epic (Ragni)</td></tr>
+<tr><td><a href="books/ath-marjarika-uvaach.html"><b>Ath Marjarika Uvaach</b></a></td><td>Hindi</td><td>978-93-5619-397-0</td><td>Historical Epic</td></tr>
+<tr><td><a href="books/saket.html"><b>SĀKET</b></a></td><td>English</td><td>978-93-5469-845-3</td><td>Transcreation</td></tr>
+<tr><td><a href="books/antaryatra.html"><b>Antaryātrā</b></a></td><td>English</td><td>978-93-5626-749-7</td><td>Poetry</td></tr>
+<tr><td><a href="books/heer-ranjha.html"><b>Heer Ranjha</b></a></td><td>Haryanvi</td><td>978-81-989952-9-2</td><td>Ragni & Review</td></tr>
+<tr><td><a href="books/kissa-bhagat-puranmal.html"><b>Kissa Bhagat Puranmal</b></a></td><td>Haryanvi</td><td>978-81-989952-8-5</td><td>Ragni & Review</td></tr>
+<tr><td><a href="books/niswarthi-udyoga-parva.html"><b>Niswarthi Udyoga Parva</b></a></td><td>English</td><td>978-93-5525-694-2</td><td>Translation</td></tr>
+<tr><td><a href="books/draupadi-ek-lok-chetna.html"><b>Draupadi: Ek Lok Chetna</b></a></td><td>Haryanvi</td><td>978-93-344-4058-4</td><td>Ragni & Review</td></tr>
+<tr><td><a href="books/thara-mudda-thari-baat.html"><b>Thara Mudda Thari Baat</b></a></td><td>Haryanvi</td><td>978-81-989952-2-3</td><td>Modern Poetry</td></tr>
+<tr><td><a href="books/prem-ke-sau-rang.html"><b>Prem Ke Sau Rang</b></a></td><td>Hindi</td><td>978-93-344-5526-7</td><td>Short Poetry</td></tr>
+<tr><td><a href="books/avikavani-ragni-sangrah.html"><b>Avikavani Ragni Sangrah</b></a></td><td>Haryanvi</td><td>978-93-344-2403-4</td><td>Folk Collection</td></tr>
+<tr><td><a href="books/kahaan-kahaan-paiband-lagau.html"><b>Kahaan Kahaan Paiband</b></a></td><td>English</td><td>978-93-5592-178-9</td><td>Translation</td></tr>
+<tr><td><a href="books/sain-samaj-ka-itihas.html"><b>Sain Samaj Ka Itihas</b></a></td><td>Hindi</td><td>978-93-5655-031-5</td><td>History</td></tr>
 
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/ath-marjarika-uvaach.html"><b>Ath Marjarika Uvaach</b></a>
-      </td>
-      <td>Hindi</td>
-      <td>978-93-5619-397-0</td>
-      <td>Historical Epic</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/saket.html"><b>SĀKET</b></a>
-      </td>
-      <td>English</td>
-      <td>978-93-5469-845-3</td>
-      <td>Transcreation</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/antaryatra.html"><b>Antaryātrā</b></a>
-      </td>
-      <td>English</td>
-      <td>978-93-5626-749-7</td>
-      <td>Poetry</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/heer-ranjha.html"><b>Heer Ranjha</b></a>
-      </td>
-      <td>Haryanvi</td>
-      <td>978-81-989952-9-2</td>
-      <td>Ragni & Review</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/kissa-bhagat-puranmal.html"><b>Kissa Bhagat Puranmal</b></a>
-      </td>
-      <td>Haryanvi</td>
-      <td>978-81-989952-8-5</td>
-      <td>Ragni & Review</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/niswarthi-udyoga-parva.html"><b>Niswarthi Udyoga Parva</b></a>
-      </td>
-      <td>English</td>
-      <td>978-93-5525-694-2</td>
-      <td>Translation</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/draupadi-ek-lok-chetna.html"><b>Draupadi: Ek Lok Chetna</b></a>
-      </td>
-      <td>Haryanvi</td>
-      <td>978-93-344-4058-4</td>
-      <td>Ragni & Review</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/thara-mudda-thari-baat.html"><b>Thara Mudda Thari Baat</b></a>
-      </td>
-      <td>Haryanvi</td>
-      <td>978-81-989952-2-3</td>
-      <td>Modern Poetry</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/prem-ke-sau-rang.html"><b>Prem Ke Sau Rang</b></a>
-      </td>
-      <td>Hindi</td>
-      <td>978-93-344-5526-7</td>
-      <td>Short Poetry</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/avikavani-ragni-sangrah.html"><b>Avikavani Ragni Sangrah</b></a>
-      </td>
-      <td>Haryanvi</td>
-      <td>978-93-344-2403-4</td>
-      <td>Folk Collection</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/kahaan-kahaan-paiband-lagau.html"><b>Kahaan Kahaan Paiband</b></a>
-      </td>
-      <td>English</td>
-      <td>978-93-5592-178-9</td>
-      <td>Translation</td>
-    </tr>
-
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="books/sain-samaj-ka-itihas.html"><b>Sain Samaj Ka Itihas</b></a>
-      </td>
-      <td>Hindi</td>
-      <td>978-93-5655-031-5</td>
-      <td>History</td>
-    </tr>
-
-  </tbody>
+</tbody>
 </table>
 
 ---
 
 <h2>🔬 Related Research</h2>
+
 <ul>
-  <li><a href="articles/bhagat-puranmal-9-18.html">
-      Pingal Analysis of Kissa Bhagat Puranmal
-    </a></li>
-  <li><a href="articles/heer-ranjha-23-28.html">Heer–Ranjha Cultural Study</a></li>
+<li><a href="articles/bhagat-puranmal-9-18.html">Pingal Analysis of Kissa Bhagat Puranmal</a></li>
+<li><a href="articles/heer-ranjha-23-28.html">Heer–Ranjha Cultural Study</a></li>
 </ul>
 
-<div style="background:#f2f2f2; padding:15px; margin-top:20px;">
-  <h3>📌 Featured Research</h3>
-  <p>
-    👉 <a href="articles/heer-ranjha-23-28.html">
-    Heer–Ranjha: Pingal-Based Cultural Analysis (2026)
-    </a>
-  </p>
+<div style="background:#f2f2f2;padding:15px;margin-top:20px;">
+<h3>📌 Featured Research</h3>
+<p>
+👉 <a href="articles/heer-ranjha-23-28.html">Heer–Ranjha: Pingal-Based Cultural Analysis (2026)</a>
+</p>
 </div>
+
+---
 
 ## 📖 Research & Scholarly Contributions
 
-1. हीर–राँझा (रागणी 8–16) – ShodhPatra (2026)  
-2. हीर–राँझा (रागणी 1–7) – The Academic (2026)  
-3. हीर–राँझा (रागणी 23–28) – RRIJM (2026)  
-4. भगत पूरणमल (रागणी 9–18)  
-5. भगत पूरणमल (रागणी 1–8)  
-
-### **Scholarly Contribution: Pingal Samiksha**
-A significant portion of these works includes technical reviews of **Pingal (Prosody)**. By documenting the structural rules of the Ragni form, Anand Kumar Ashodhiya ensures the preservation of Haryanvi oral traditions in a scholarly format.
+हीर–राँझा तथा भगत पूरणमल पर आधारित शोध-कार्य पिंगल-आधारित छंद-विश्लेषण एवं लोक-सांस्कृतिक अध्ययन का एक संगठित शास्त्रीय रूप प्रस्तुत करते हैं।
 
 <p>
-📖 This bibliography is supported by scholarly research.<br>
-👉 <a href="articles/index.html">View Research Publications →</a>
+📖 👉 <a href="articles/index.html">View Research Publications →</a>
 </p>
+
+---
 
 <div style="background:#f5f5f5;padding:15px;margin-top:20px;">
 <b>🔬 Latest Research:</b>
