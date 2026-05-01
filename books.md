@@ -3,7 +3,7 @@ layout: default
 title: Published Works | Anand Kumar Ashodhiya
 permalink: /books.html
 ---
-
+<link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html">
 <!-- ================= SEO ================= -->
 <meta name="description" content="Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research articles on Haryanvi Ragni, Pingal Shastra, and Indian folklore.">
 <meta name="keywords" content="Anand Kumar Ashodhiya books, Haryanvi Ragni, Pingal Shastra, Hindi literature, Indian folklore, ISBN bibliography">
