@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap location
 Sitemap: https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/sitemap.xml
