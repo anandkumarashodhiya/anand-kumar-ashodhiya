@@ -1,120 +1,61 @@
 ---
 layout: default
 title: Published Works | Anand Kumar Ashodhiya
---- 
-### Quick Links:
-[**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Awards**](awards.html) | [**Contact**](contact.html)
+permalink: /books.html
+---
 
+<!-- ================= SEO ================= -->
+<meta name="description" content="Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research articles on Haryanvi Ragni, Pingal Shastra, and Indian folklore.">
+<meta name="keywords" content="Anand Kumar Ashodhiya books, Haryanvi Ragni, Pingal Shastra, Hindi literature, Indian folklore, ISBN bibliography">
+<meta name="author" content="Anand Kumar Ashodhiya">
+<link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html">
+
+<!-- ================= STRUCTURED DATA ================= -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
 
     {
-      "@type": "WebSite",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#website",
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/index.html",
-      "name": "Anand Kumar Ashodhiya Official Website"
-    },
-
-    {
       "@type": "WebPage",
       "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html#webpage",
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html",
-      "name": "Published Works | Anand Kumar Ashodhiya",
-      "isPartOf": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#website"
-      },
-      "about": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
-      },
-      "mainEntity": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#bibliography"
-      }
+      "name": "Published Works | Anand Kumar Ashodhiya"
     },
 
     {
       "@type": "Person",
       "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
       "name": "Anand Kumar Ashodhiya",
-      "alternateName": "Kavi Anand Shahpur",
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/index.html",
-      "description": "Indian poet, researcher, and translator specializing in Haryanvi Ragni literature and Pingal Shastra.",
-      "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile.jpg",
       "sameAs": [
-        "https://isni.org/isni/0000000530187854",
         "https://orcid.org/0009-0005-1592-0592",
-        "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
-        "https://www.youtube.com/@anandragnipoint",
-        "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
-        "https://www.amazon.com/author/anandkumarashodhiya",
-        "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya"
-      ],
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Avikavani Publishers",
-        "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/publishers.html"
-      }
+        "https://scholar.google.com/citations?user=mO9WCuIAAAAJ"
+      ]
     },
 
     {
       "@type": "ItemList",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#bibliography",
-      "name": "Complete Bibliography of Anand Kumar Ashodhiya",
-      "numberOfItems": 15,
+      "name": "Complete Bibliography",
+      "numberOfItems": 16,
       "itemListElement": [
 
-        { "@type": "ListItem", "position": 1, "item": { "@type": "Book", "name": "Adhirājan (Edition I)", "isbn": "9788195873500", "inLanguage": "hi", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
+        { "@type": "ListItem", "position": 1, "item": { "@type": "Book", "name": "Adhirājan (Edition I)", "isbn": "9788195873500" }},
+        { "@type": "ListItem", "position": 2, "item": { "@type": "Book", "name": "Adhirājan (Edition II)", "isbn": "9789354691164" }},
+        { "@type": "ListItem", "position": 3, "item": { "@type": "Book", "name": "Ath Marjarika Uvaach", "isbn": "9789356193970" }},
+        { "@type": "ListItem", "position": 4, "item": { "@type": "Book", "name": "SĀKET", "isbn": "9789354698453" }},
+        { "@type": "ListItem", "position": 5, "item": { "@type": "Book", "name": "Antaryātrā", "isbn": "9789356267497" }},
+        { "@type": "ListItem", "position": 6, "item": { "@type": "Book", "name": "Heer Ranjha", "isbn": "9788198995292" }},
+        { "@type": "ListItem", "position": 7, "item": { "@type": "Book", "name": "Kissa Bhagat Puranmal", "isbn": "9788198995285" }},
+        { "@type": "ListItem", "position": 8, "item": { "@type": "Book", "name": "Niswarthi Udyoga Parva", "isbn": "9789355256942" }},
+        { "@type": "ListItem", "position": 9, "item": { "@type": "Book", "name": "Draupadi: Ek Lok Chetna", "isbn": "9789334440584" }},
+        { "@type": "ListItem", "position": 10, "item": { "@type": "Book", "name": "Thara Mudda Thari Baat", "isbn": "9788198995223" }},
+        { "@type": "ListItem", "position": 11, "item": { "@type": "Book", "name": "Prem Ke Sau Rang", "isbn": "9789334455267" }},
+        { "@type": "ListItem", "position": 12, "item": { "@type": "Book", "name": "Avikavani Ragni Sangrah", "isbn": "9789334424034" }},
+        { "@type": "ListItem", "position": 13, "item": { "@type": "Book", "name": "Kahaan Kahaan Paiband Lagau", "isbn": "9789355921789" }},
+        { "@type": "ListItem", "position": 14, "item": { "@type": "Book", "name": "Sain Samaj Ka Itihas", "isbn": "9789356550315" }},
 
-        { "@type": "ListItem", "position": 2, "item": { "@type": "Book", "name": "Adhirājan (Edition II)", "isbn": "9789354691164", "inLanguage": "hi", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 3, "item": { "@type": "Book", "name": "Ath Marjarika Uvaach", "isbn": "9789356193970", "inLanguage": "hi", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 4, "item": { "@type": "Book", "name": "SĀKET: An English Transcreation", "isbn": "9789354698453", "inLanguage": "en", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 5, "item": { "@type": "Book", "name": "Antaryātrā", "isbn": "9789356267497", "inLanguage": "en", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 6, "item": { "@type": "Book", "name": "Heer Ranjha", "isbn": "9788198995292", "inLanguage": "hi", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 7, "item": { "@type": "Book", "name": "Kissa Bhagat Puranmal", "isbn": "9788198995285", "inLanguage": "hi", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 8, "item": { "@type": "Book", "name": "Niswarthi Udyoga Parva", "isbn": "9789355256942", "inLanguage": "en", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 9, "item": { "@type": "Book", "name": "Draupadi: Ek Lok Chetna", "isbn": "9789334440584", "inLanguage": "hi", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 10, "item": { "@type": "Book", "name": "Thara Mudda Thari Baat", "isbn": "9788198995223", "inLanguage": "hi", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 11, "item": { "@type": "Book", "name": "Prem Ke Sau Rang", "isbn": "9789334455267", "inLanguage": "hi", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 12, "item": { "@type": "Book", "name": "Avikavani Haryanvi Ragni Sangrah", "isbn": "9789334424034", "inLanguage": "hi", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        { "@type": "ListItem", "position": 13, "item": { "@type": "Book", "name": "Kahaan Kahaan Paiband Lagau", "isbn": "9789355921789", "inLanguage": "en", "author": { "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person" } } },
-
-        {
-          "@type": "ListItem",
-          "position": 14,
-          "item": {
-            "@type": "ScholarlyArticle",
-            "headline": "हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 8–16)",
-            "url": "https://www.shodhpatra.org/papers/volume-3/issue-4/spijsh45689/",
-            "author": {
-              "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
-            }
-          }
-        },
-
-        {
-          "@type": "ListItem",
-          "position": 15,
-          "item": {
-            "@type": "ScholarlyArticle",
-            "headline": "हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 1–7)",
-            "sameAs": "https://doi.org/10.5281/zenodo.19542794",
-            "author": {
-              "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
-            }
-          }
-        }
+        { "@type": "ListItem", "position": 15, "item": { "@type": "ScholarlyArticle", "name": "Heer–Ranjha (Ragnis 23–28)", "sameAs": "https://doi.org/10.31305/RRIJM.2026.V11.N04.002" }},
+        { "@type": "ListItem", "position": 16, "item": { "@type": "ScholarlyArticle", "name": "Heer–Ranjha (Ragnis 8–16)", "sameAs": "https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689" }}
 
       ]
     }
@@ -122,6 +63,13 @@ title: Published Works | Anand Kumar Ashodhiya
   ]
 }
 </script>
+
+---
+
+### Quick Links:
+[**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Awards**](awards.html) | [**Contact**](contact.html)
+
+---
 
 # Complete Bibliography
 Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
@@ -289,16 +237,21 @@ Click on any title to view detailed information, cover, and purchase links.
   </p>
 </div>
 
-### **Research & Scholarly Contributions**
-1. **हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 8–16)** *Published in ShodhPatra (2026)* | [View Paper](https://www.shodhpatra.org/papers/volume-3/issue-4/spijsh45689/)
-2. **हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 1–7)** *Published in The Academic (2026)* | [View via DOI](https://doi.org/10.5281/zenodo.19542794)
+## 📖 Research & Scholarly Contributions
+
+1. हीर–राँझा (रागणी 8–16) – ShodhPatra (2026)  
+2. हीर–राँझा (रागणी 1–7) – The Academic (2026)  
+3. हीर–राँझा (रागणी 23–28) – RRIJM (2026)  
+4. भगत पूरणमल (रागणी 9–18)  
+5. भगत पूरणमल (रागणी 1–8)  
 
 ### **Scholarly Contribution: Pingal Samiksha**
 A significant portion of these works includes technical reviews of **Pingal (Prosody)**. By documenting the structural rules of the Ragni form, Anand Kumar Ashodhiya ensures the preservation of Haryanvi oral traditions in a scholarly format.
 
 <p>
-📖 This bibliography is supported by scholarly research.
-<a href="/anand-kumar-ashodhiya/articles/index.html">
+📖 This bibliography is supported by scholarly research.  
+👉 [View Research Publications →](articles/index.html)
+
 View Research Publications →
 </a>
 </p>
