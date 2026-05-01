@@ -2,7 +2,7 @@
 layout: default
 title: Anand Kumar Ashodhiya | Official Biography
 ---
-
+<link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/">
 <!-- ================= SEO ================= -->
 <meta name="description" content="Official profile of Anand Kumar Ashodhiya – author, poet, and researcher specializing in Haryanvi Ragni, Pingal Shastra, and Indian folk literature.">
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/">
