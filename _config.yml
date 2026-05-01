@@ -15,3 +15,6 @@ include:
 # Plugins (GitHub Pages supported)
 plugins:
   - jekyll-sitemap
+git add .
+git commit -m "Enable Jekyll sitemap auto-generation"
+git push
