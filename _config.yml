@@ -10,11 +10,10 @@ plugins:
   - jekyll-sitemap
 
 include:
+  - articles
+  - articles/*.pdf
   - google36447f783b790ee1.html
 
 exclude:
   - README.md
   - LICENSE
-  
-exclude:
-  - "*.pdf"
