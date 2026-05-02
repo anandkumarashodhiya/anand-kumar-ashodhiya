@@ -15,5 +15,4 @@ include:
   - google36447f783b790ee1.html
 
 exclude:
-  - README.md
   - LICENSE
