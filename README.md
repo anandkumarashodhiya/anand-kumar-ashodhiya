@@ -1,5 +1,15 @@
+---
+layout: default
+title: Research Repository
+permalink: /repository/
+nav_order: 2
+description: Research repository on Haryanvi Ragni, Pingal Shastra, and Indian folk literature
+---
+
 # 📚 Anand Kumar Ashodhiya — Research Repository
+
 > 🔗 Part of the official research ecosystem of Anand Kumar Ashodhiya (Author, Researcher, and Founder of Avikavani Publishers)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19552972.svg)](https://doi.org/10.5281/zenodo.19552972)
 
 ---
@@ -16,7 +26,9 @@ A multidisciplinary literary scholar working across **Hindi, English, and Haryan
 - Cultural and literary analysis  
 - Translation and transcreation  
 
-🌐 **Official Website:** https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/
+🌐 **Official Website:**  
+https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/
+
 ---
 
 ## 📖 Research Focus
@@ -30,33 +42,53 @@ This repository is dedicated to the systematic study and documentation of:
 
 ---
 
-## 📂 Contents of Repository
+## 📄 Research & Publications
 
-This repository includes:
+### 🔹 Heer–Ranjha Research Series
 
-- 📄 Published research papers  
-- 📘 Book metadata and references  
-- 🧾 Analytical notes and structured interpretations  
-- 📊 Supporting materials related to ongoing research  
+1. **हीर–राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 1–7)**  
+   Ashodhiya, A. K. (2026). *The Academic – International Journal of Multidisciplinary Research*, 4(3), 2261–2265.  
+   DOI: https://doi.org/10.5281/zenodo.19542794  
+   [📄 PDF](../articles/heer-ranjha-1-7.pdf)
+
+2. **हीर–राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 8–16)**  
+   Ashodhiya, A. K. (2026). *ShodhPatra: International Journal of Science and Humanities*, 3(4), 154–159.  
+   DOI: https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689  
+   [📄 PDF](../articles/heer-ranjha-8-16.pdf)
+
+3. **हीर–राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 23–28)**  
+   Ashodhiya, A. K. (2026). *Research Review International Journal of Multidisciplinary*, 11(4), 14–20.  
+   DOI: https://doi.org/10.31305/RRIJM.2026.V11.N04.002  
+   [📄 PDF](../articles/heer-ranjha-23-28.pdf)
+
+---
+
+### 🔹 Bhagat Puranmal Critical Study
+
+4. **Bhagat Puranmal (Ragni 1–8): Critical Study**  
+   [📄 PDF](../articles/bhagat-puranmal-1-8.pdf)
+
+5. **Bhagat Puranmal (Ragni 9–18): Critical Study**  
+   [📄 PDF](../articles/bhagat-puranmal-9-18.pdf)
 
 ---
 
 ## 🧠 Major Research Projects
 
 ### 🔹 Heer–Ranjha Ragni Analysis Series
-A multi-part academic study examining the narrative, cultural, and metrical dimensions of the Heer–Ranjha tradition in Haryanvi ragni form.
 
-- Part 1: Ragni 1–7 (Published)
-- Part 2: Ragni 8–16 (Under Review / Submitted)
+A multi-part academic study examining the narrative, cultural, and metrical dimensions of the Heer–Ranjha tradition in Haryanvi ragni form.
 
 ---
 
 ### 🔹 Adhrajan Project (Grand Review – Ongoing)
+
 A comprehensive literary and cultural analysis project intended for international publication as a consolidated scholarly work.
 
 ---
 
 ### 🔹 Antaryatra Project
+
 A long-term literary initiative focused on:
 
 - Compilation  
@@ -70,13 +102,15 @@ of the complete poetic works of the author.
 ## 📌 Citation
 
 If you use or refer to this repository, please cite:
-Ashodhiya, Anand Kumar. (2026). *Research Repository: Haryanvi Ragni and Pingal Shastra Studies*. Zenodo. https://doi.org/10.5281/zenodo.19552972
+
+Ashodhiya, A. K. (2026). *Research Repository: Haryanvi Ragni and Pingal Shastra Studies*. Zenodo. https://doi.org/10.5281/zenodo.19552972
 
 ---
 
 ## 🔎 Keywords
 
 Haryanvi Ragni, Pingal Shastra, Hindi Poetry, Folk Literature, Anand Kumar Ashodhiya, Cultural Studies, Prosody, Indian Literature
+
 ---
 
 ## 🔗 Academic & Identity Profiles
@@ -84,13 +118,14 @@ Haryanvi Ragni, Pingal Shastra, Hindi Poetry, Folk Literature, Anand Kumar Ashod
 - ORCID: https://orcid.org/0009-0005-1592-0592  
 - ISNI: https://isni.org/isni/0000000530187854  
 - Zenodo: https://zenodo.org/record/19552972  
-- Google Scholar: (add when available)  
+- Google Scholar: Profile under creation  
 - Amazon Author: https://www.amazon.com/author/anandkumarashodhiya  
 - Goodreads: https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya  
-- LinkedIn: https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285
-  
-![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1592--0592-green)
+- LinkedIn: https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285  
+
+![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1592--0592-green)  
 ![ISNI](https://img.shields.io/badge/ISNI-0000000530187854-blue)
+
 ---
 
 ## 📜 License
