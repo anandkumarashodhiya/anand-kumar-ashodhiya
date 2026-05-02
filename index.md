@@ -165,6 +165,12 @@ known for his contributions to Haryanvi Ragni tradition, Pingal Shastra, and Ind
 <a href="books.html"><b>View Full Bibliography →</b></a>
 </p>
 
+<p>
+📄 <a href="publications.html"><b>View Research Publications →</b></a>
+</p>
+
+<a href="{{ site.baseurl }}/publications.html"><b>Publications</b></a> |
+
 <hr>
 
 <h3>Connect</h3>
