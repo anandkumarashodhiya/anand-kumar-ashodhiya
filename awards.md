@@ -3,8 +3,16 @@ layout: default
 title: Awards & Recognitions | Anand Kumar Ashodhiya
 last_modified_at: 2026-05-01
 ---
-### Quick Links:
-[**Home**](index.html) | [**Books & Bibliography**](books.html) | [**Avikavani Publishers**](publishers.html) | [**Gallery & IAF Legacy**](gallery.html) | [**Awards**](awards.html) | [**Contact**](contact.html)
+<p>
+<b>Quick Links:</b><br>
+<a href="{{ site.baseurl }}/"><b>Home</b></a> |
+<a href="{{ site.baseurl }}/books.html"><b>Books & Bibliography</b></a> |
+<a href="{{ site.baseurl }}/publications.html"><b>Publications</b></a> |
+<a href="{{ site.baseurl }}/publishers.html"><b>Avikavani Publishers</b></a> |
+<a href="{{ site.baseurl }}/gallery.html"><b>Gallery & IAF Legacy</b></a> |
+<a href="{{ site.baseurl }}/awards.html"><b>Awards</b></a> |
+<a href="{{ site.baseurl }}/contact.html"><b>Contact</b></a>
+</p>
 
 
 <div style="text-align: center; font-family: sans-serif; margin-bottom: 20px;">
