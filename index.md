@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anand Kumar Ashodhiya | Official Biography
-last_modified_at: 2026-05-01
+last_modified_at: 2026-05-02
 ---
 
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/">
@@ -64,41 +64,6 @@ last_modified_at: 2026-05-01
 "https://www.youtube.com/@anandragnipoint",
 "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285"
 ]
-},
-
-{
-"@type": "ItemList",
-"@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#books",
-"name": "Selected Books",
-"itemListElement": [
-{
-"@type": "ListItem",
-"position": 1,
-"item": {
-"@type": "Book",
-"name": "SĀKET: An English Transcreation",
-"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books/saket.html"
-}
-},
-{
-"@type": "ListItem",
-"position": 2,
-"item": {
-"@type": "Book",
-"name": "Antaryātrā",
-"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books/antaryatra.html"
-}
-},
-{
-"@type": "ListItem",
-"position": 3,
-"item": {
-"@type": "Book",
-"name": "Adhirājan (Edition I)",
-"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books/adhirajan-edition-1.html"
-}
-}
-]
 }
 
 ]
@@ -140,15 +105,17 @@ known for his contributions to Haryanvi Ragni tradition, Pingal Shastra, and Ind
 <h2>📄 Research & Publications</h2>
 
 <ul>
-<li><a href="articles/heer-ranjha-1-7.html">Heer–Ranjha (Ragnis 1–7)</a></li>
-<li><a href="articles/heer-ranjha-8-16.html">Heer–Ranjha (Ragnis 8–16)</a></li>
-<li><a href="articles/heer-ranjha-23-28.html">Heer–Ranjha (Ragnis 23–28)</a></li>
-<li><a href="articles/bhagat-puranmal-1-8.html">Bhagat Puranmal (Ragni 1–8)</a></li>
-<li><a href="articles/bhagat-puranmal-9-18.html">Bhagat Puranmal (Ragni 9–18)</a></li>
+<li><a href="{{ site.baseurl }}/articles/adharajan-1-8.html">Adharajan (Ragini 1–8)</a></li>
+<li><a href="{{ site.baseurl }}/articles/adharajan-9-16.html">Adharajan (Ragini 9–16)</a></li>
+<li><a href="{{ site.baseurl }}/articles/heer-ranjha-1-7.html">Heer–Ranjha (Ragnis 1–7)</a></li>
+<li><a href="{{ site.baseurl }}/articles/heer-ranjha-8-16.html">Heer–Ranjha (Ragnis 8–16)</a></li>
+<li><a href="{{ site.baseurl }}/articles/heer-ranjha-23-28.html">Heer–Ranjha (Ragnis 23–28)</a></li>
+<li><a href="{{ site.baseurl }}/articles/bhagat-puranmal-1-8.html">Bhagat Puranmal (Ragni 1–8)</a></li>
+<li><a href="{{ site.baseurl }}/articles/bhagat-puranmal-9-18.html">Bhagat Puranmal (Ragni 9–18)</a></li>
 </ul>
 
 <p>
-👉 <a href="articles/index.html"><b>View All Research Articles →</b></a>
+👉 <a href="{{ site.baseurl }}/articles/index.html"><b>View All Research Articles →</b></a>
 </p>
 
 <hr>
@@ -162,14 +129,12 @@ known for his contributions to Haryanvi Ragni tradition, Pingal Shastra, and Ind
 </ul>
 
 <p>
-<a href="books.html"><b>View Full Bibliography →</b></a>
+<a href="{{ site.baseurl }}/books.html"><b>View Full Bibliography →</b></a>
 </p>
 
 <p>
-📄 <a href="publications.html"><b>View Research Publications →</b></a>
+📄 <a href="{{ site.baseurl }}/publications.html"><b>View Research Publications →</b></a>
 </p>
-
-<a href="{{ site.baseurl }}/publications.html"><b>Publications</b></a> |
 
 <hr>
 
@@ -184,5 +149,5 @@ known for his contributions to Haryanvi Ragni tradition, Pingal Shastra, and Ind
 <hr>
 
 <p>
-📚 <a href="articles/index.html"><b>Research Hub →</b></a>
+📚 <a href="{{ site.baseurl }}/articles/index.html"><b>Research Hub →</b></a>
 </p>
