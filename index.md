@@ -70,6 +70,21 @@ last_modified_at: 2026-05-02
 }
 </script>
 
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"name": "Home",
+"item": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/"
+}
+]
+}
+</script>
+
 <!-- ================= HEADER ================= -->
 <div style="display:flex;align-items:center;gap:20px;margin-bottom:20px;">
   <img src="anand-kumar-ashodhiya-profile-photo.jpg"
@@ -99,8 +114,7 @@ last_modified_at: 2026-05-02
 <hr>
 
 <p>
-Anand Kumar Ashodhiya is a literary scholar and former Indian Air Force Warrant Officer,
-known for his contributions to Haryanvi Ragni tradition, Pingal Shastra, and Indian folk studies.
+Anand Kumar Ashodhiya is an Indian literary scholar, poet, and researcher specializing in Haryanvi Ragni tradition, Pingal Shastra, and Indian folk literature. A former Warrant Officer in the Indian Air Force, his work bridges oral folk heritage with formal literary analysis through peer-reviewed research and published books. His scholarship focuses on prosody, narrative aesthetics, and socio-cultural interpretation within North Indian performance traditions.
 </p>
 
 <!-- ================= RESEARCH ================= -->
