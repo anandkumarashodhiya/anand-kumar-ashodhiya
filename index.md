@@ -99,6 +99,18 @@ Anand Kumar Ashodhiya is an Indian literary scholar, poet, and researcher specia
 His work contributes to the academic study of <b>Pingal Shastra</b>, <b>Haryanvi Ragni literature</b>, and <b>Indian folk performance traditions</b> within a contemporary research framework.
 </p>
 
+<div style="background:#f5f5f5;padding:15px;margin:20px 0;">
+  <h3 style="margin-top:0;">📌 Academic Contributions</h3>
+  <p>
+    A structured body of peer-reviewed research on Haryanvi Ragni,
+    Pingal Shastra, and Indian folk literature.
+  </p>
+  <p>
+    👉 <a href="{{ site.baseurl }}/articles/index.html"><b>Explore Research Articles →</b></a><br>
+    👉 <a href="{{ site.baseurl }}/citations.html"><b>View Academic Impact →</b></a>
+  </p>
+</div>
+
 <!-- ================= RESEARCH ================= -->
 
 <h2>📄 Research Contributions (Peer-Reviewed Work)</h2>
