@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anand Kumar Ashodhiya | Official Biography
+title: "Anand Kumar Ashodhiya – Author, Poet & Researcher | Official Biography"
 last_modified_at: 2026-05-02
 ---
 
