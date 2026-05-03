@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Draupadi: Ek Lok Chetna
+title: 'Draupadi: Ek Lok Chetna'
 permalink: /books/draupadi-ek-lok-chetna.html
 ---
 
