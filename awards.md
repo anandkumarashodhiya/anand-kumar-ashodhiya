@@ -20,15 +20,6 @@ last_modified_at: 2026-05-01
 <a href="{{ site.baseurl }}/contact.html"><b>Contact</b></a>
 </p>
 
-
-<div style="text-align: center; font-family: sans-serif; margin-bottom: 20px;">
- 
-  <div style="margin-top: 20px;">
-    <a href="index.html" style="padding: 12px 25px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px; font-weight: bold;">Home</a>
-    <a href="books.md" style="padding: 12px 25px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Books</a>
-  </div>
-</div>
-
 <h1 style="text-align: center; color: #2c3e50;">Awards & Recognitions</h1>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 50px; font-family: sans-serif;">
