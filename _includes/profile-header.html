@@ -20,56 +20,77 @@
 
 <!-- ================= GLOBAL NAVIGATION ================= -->
 
-<p style="line-height:1.8;">
-<b>Quick Links:</b><br>
+<div style="margin:15px 0;">
+
+<b>Quick Links:</b><br><br>
+
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
 
 <a href="{{ site.baseurl }}/"
-   style="text-decoration:none; color:#333; {% if page.url == '/' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   style="padding:6px 12px; border-radius:6px; text-decoration:none;
+   background:{% if page.url == '/' %}#007acc{% else %}#f2f2f2{% endif %};
+   color:{% if page.url == '/' %}#fff{% else %}#333{% endif %};
+   font-weight:{% if page.url == '/' %}bold{% else %}normal{% endif %};">
    Home
-</a> |
+</a>
 
 <a href="{{ site.baseurl }}/books.html"
-   style="text-decoration:none; color:#333; {% if page.url contains 'books' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
-   Books & Bibliography
-</a> |
+   style="padding:6px 12px; border-radius:6px; text-decoration:none;
+   background:{% if page.url contains 'books' %}#007acc{% else %}#f2f2f2{% endif %};
+   color:{% if page.url contains 'books' %}#fff{% else %}#333{% endif %};">
+   Books
+</a>
 
 <a href="{{ site.baseurl }}/publications.html"
-   style="text-decoration:none; color:#333; {% if page.url contains 'publications' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   style="padding:6px 12px; border-radius:6px; text-decoration:none;
+   background:{% if page.url contains 'publications' %}#007acc{% else %}#f2f2f2{% endif %};
+   color:{% if page.url contains 'publications' %}#fff{% else %}#333{% endif %};">
    Publications
-</a> |
+</a>
 
 <a href="{{ site.baseurl }}/articles/index.html"
-   style="text-decoration:none; color:#333; {% if page.url contains 'articles' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   style="padding:6px 12px; border-radius:6px; text-decoration:none;
+   background:{% if page.url contains 'articles' %}#007acc{% else %}#f2f2f2{% endif %};
+   color:{% if page.url contains 'articles' %}#fff{% else %}#333{% endif %};">
    Articles
-</a> |
+</a>
 
 <a href="{{ site.baseurl }}/citations.html"
-   style="text-decoration:none; color:#333; {% if page.url contains 'citations' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   style="padding:6px 12px; border-radius:6px; text-decoration:none;
+   background:{% if page.url contains 'citations' %}#007acc{% else %}#f2f2f2{% endif %};
+   color:{% if page.url contains 'citations' %}#fff{% else %}#333{% endif %};">
    Citations
 </a>
 
-<br>
-
 <a href="{{ site.baseurl }}/publishers.html"
-   style="text-decoration:none; color:#333; {% if page.url contains 'publishers' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   style="padding:6px 12px; border-radius:6px; text-decoration:none;
+   background:{% if page.url contains 'publishers' %}#007acc{% else %}#f2f2f2{% endif %};
+   color:{% if page.url contains 'publishers' %}#fff{% else %}#333{% endif %};">
    Publishers
-</a> |
+</a>
 
 <a href="{{ site.baseurl }}/gallery.html"
-   style="text-decoration:none; color:#333; {% if page.url contains 'gallery' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
-   Gallery & IAF Legacy
-</a> |
+   style="padding:6px 12px; border-radius:6px; text-decoration:none;
+   background:{% if page.url contains 'gallery' %}#007acc{% else %}#f2f2f2{% endif %};
+   color:{% if page.url contains 'gallery' %}#fff{% else %}#333{% endif %};">
+   Gallery
+</a>
 
 <a href="{{ site.baseurl }}/awards.html"
-   style="text-decoration:none; color:#333; {% if page.url contains 'awards' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   style="padding:6px 12px; border-radius:6px; text-decoration:none;
+   background:{% if page.url contains 'awards' %}#007acc{% else %}#f2f2f2{% endif %};
+   color:{% if page.url contains 'awards' %}#fff{% else %}#333{% endif %};">
    Awards
-</a> |
+</a>
 
 <a href="{{ site.baseurl }}/contact.html"
-   style="text-decoration:none; color:#333; {% if page.url contains 'contact' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   style="padding:6px 12px; border-radius:6px; text-decoration:none;
+   background:{% if page.url contains 'contact' %}#007acc{% else %}#f2f2f2{% endif %};
+   color:{% if page.url contains 'contact' %}#fff{% else %}#333{% endif %};">
    Contact
 </a>
 
-</p>
+</div>
+</div>
 
 <hr>
