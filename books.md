@@ -10,7 +10,7 @@ last_modified_at: 2026-05-01
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html">
 
 <!-- ================= SEO ================= -->
-<meta name="description" content="Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research articles on Haryanvi Ragni, Pingal Shastra, and Indian folklore.">
+<meta name="description" content="Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research on Haryanvi Ragni, Pingal Shastra, and Indian folklore.">
 <meta name="keywords" content="Anand Kumar Ashodhiya books, Haryanvi Ragni, Pingal Shastra, Hindi literature, Indian folklore, ISBN bibliography">
 <meta name="author" content="Anand Kumar Ashodhiya">
 
@@ -29,23 +29,9 @@ last_modified_at: 2026-05-01
 
     {
       "@type": "WebPage",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html#webpage",
+      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html",
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html",
-      "name": "Published Works | Anand Kumar Ashodhiya",
-      "isPartOf": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#website"
-      },
-      "about": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
-      }
-    },
-
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/" },
-        { "@type": "ListItem", "position": 2, "name": "Books & Bibliography", "item": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html" }
-      ]
+      "name": "Published Works | Anand Kumar Ashodhiya"
     },
 
     {
@@ -53,43 +39,29 @@ last_modified_at: 2026-05-01
       "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
       "name": "Anand Kumar Ashodhiya",
       "alternateName": ["Kavi Anand Shahpur", "आनन्द कुमार आशोधिया"],
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-      "sameAs": [
-        "https://orcid.org/0009-0005-1592-0592",
-        "https://scholar.google.com/citations?user=mO9WCuIAAAAJ"
-      ]
-    },
-
-    {
-      "@type": "Organization",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#publisher",
-      "name": "Avikavani Publishers"
+      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/"
     },
 
     {
       "@type": "ItemList",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html#bibliography",
       "name": "Complete Bibliography",
-      "numberOfItems": 16,
+      "numberOfItems": 14,
       "itemListElement": [
 
-        { "@type": "ListItem", "position": 1, "item": { "@type": "Book", "name": "Adhirājan (Edition I)", "isbn": "9788195873500", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 2, "item": { "@type": "Book", "name": "Adhirājan (Edition II)", "isbn": "9789354691164", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 3, "item": { "@type": "Book", "name": "Ath Marjarika Uvaach", "isbn": "9789356193970", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 4, "item": { "@type": "Book", "name": "SĀKET", "isbn": "9789354698453", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 5, "item": { "@type": "Book", "name": "Antaryātrā", "isbn": "9789356267497", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 6, "item": { "@type": "Book", "name": "Heer Ranjha", "isbn": "9788198995292", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 7, "item": { "@type": "Book", "name": "Kissa Bhagat Puranmal", "isbn": "9788198995285", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 8, "item": { "@type": "Book", "name": "Niswarthi Udyoga Parva", "isbn": "9789355256942", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 9, "item": { "@type": "Book", "name": "Draupadi: Ek Lok Chetna", "isbn": "9789334440584", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 10, "item": { "@type": "Book", "name": "Thara Mudda Thari Baat", "isbn": "9788198995223", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 11, "item": { "@type": "Book", "name": "Prem Ke Sau Rang", "isbn": "9789334455267", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 12, "item": { "@type": "Book", "name": "Avikavani Ragni Sangrah", "isbn": "9789334424034", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 13, "item": { "@type": "Book", "name": "Kahaan Kahaan Paiband Lagau", "isbn": "9789355921789", "author": { "@id": "#person" } }},
-        { "@type": "ListItem", "position": 14, "item": { "@type": "Book", "name": "Sain Samaj Ka Itihas", "isbn": "9789356550315", "author": { "@id": "#person" } }},
-
-        { "@type": "ListItem", "position": 15, "item": { "@type": "ScholarlyArticle", "name": "Heer–Ranjha (Ragnis 23–28)", "sameAs": "https://doi.org/10.31305/RRIJM.2026.V11.N04.002" }},
-        { "@type": "ListItem", "position": 16, "item": { "@type": "ScholarlyArticle", "name": "Heer–Ranjha (Ragnis 8–16)", "sameAs": "https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689" }}
+        { "@type": "ListItem", "position": 1, "item": { "@type": "Book", "name": "Adhirājan (Edition I)", "isbn": "9788195873500" }},
+        { "@type": "ListItem", "position": 2, "item": { "@type": "Book", "name": "Adhirājan (Edition II)", "isbn": "9789354691164" }},
+        { "@type": "ListItem", "position": 3, "item": { "@type": "Book", "name": "Ath Marjarika Uvaach", "isbn": "9789356193970" }},
+        { "@type": "ListItem", "position": 4, "item": { "@type": "Book", "name": "SĀKET", "isbn": "9789354698453" }},
+        { "@type": "ListItem", "position": 5, "item": { "@type": "Book", "name": "Antaryātrā", "isbn": "9789356267497" }},
+        { "@type": "ListItem", "position": 6, "item": { "@type": "Book", "name": "Heer Ranjha", "isbn": "9788198995292" }},
+        { "@type": "ListItem", "position": 7, "item": { "@type": "Book", "name": "Kissa Bhagat Puranmal", "isbn": "9788198995285" }},
+        { "@type": "ListItem", "position": 8, "item": { "@type": "Book", "name": "Niswarthi Udyoga Parva", "isbn": "9789355256942" }},
+        { "@type": "ListItem", "position": 9, "item": { "@type": "Book", "name": "Draupadi: Ek Lok Chetna", "isbn": "9789334440584" }},
+        { "@type": "ListItem", "position": 10, "item": { "@type": "Book", "name": "Thara Mudda Thari Baat", "isbn": "9788198995223" }},
+        { "@type": "ListItem", "position": 11, "item": { "@type": "Book", "name": "Prem Ke Sau Rang", "isbn": "9789334455267" }},
+        { "@type": "ListItem", "position": 12, "item": { "@type": "Book", "name": "Avikavani Ragni Sangrah", "isbn": "9789334424034" }},
+        { "@type": "ListItem", "position": 13, "item": { "@type": "Book", "name": "Kahaan Kahaan Paiband Lagau", "isbn": "9789355921789" }},
+        { "@type": "ListItem", "position": 14, "item": { "@type": "Book", "name": "Sain Samaj Ka Itihas", "isbn": "9789356550315" }}
 
       ]
     }
@@ -108,21 +80,20 @@ last_modified_at: 2026-05-01
 <a href="{{ site.baseurl }}/publications.html"><b>Publications</b></a> |
 <a href="{{ site.baseurl }}/articles/index.html"><b>Articles</b></a>
 <br>
-<a href="{{ site.baseurl }}/publishers.html"><b>Avikavani Publishers</b></a> |
-<a href="{{ site.baseurl }}/gallery.html"><b>Gallery & IAF Legacy</b></a> |
+<a href="{{ site.baseurl }}/publishers.html"><b>Publishers</b></a> |
+<a href="{{ site.baseurl }}/gallery.html"><b>Gallery</b></a> |
 <a href="{{ site.baseurl }}/awards.html"><b>Awards</b></a> |
 <a href="{{ site.baseurl }}/contact.html"><b>Contact</b></a>
 </p>
 
 ---
 
-# Complete Bibliography
+# 📚 Complete Bibliography
 
-Explore the published works of **Anand Kumar Ashodhiya** (Kavi Anand Shahpur).
+The following table presents the **authoritative list of published books** by Anand Kumar Ashodhiya.  
+Click on any title to view detailed information, cover, and availability.
 
-<p style="color:#555;">
-Click on any title to view detailed information, cover, and purchase links.
-</p>
+---
 
 <table style="width:100%; border-collapse: collapse; margin-top: 20px;">
 <thead>
@@ -148,7 +119,7 @@ Click on any title to view detailed information, cover, and purchase links.
 <tr><td><a href="books/thara-mudda-thari-baat.html"><b>Thara Mudda Thari Baat</b></a></td><td>Haryanvi</td><td>978-81-989952-2-3</td><td>Modern Poetry</td></tr>
 <tr><td><a href="books/prem-ke-sau-rang.html"><b>Prem Ke Sau Rang</b></a></td><td>Hindi</td><td>978-93-344-5526-7</td><td>Short Poetry</td></tr>
 <tr><td><a href="books/avikavani-ragni-sangrah.html"><b>Avikavani Ragni Sangrah</b></a></td><td>Haryanvi</td><td>978-93-344-2403-4</td><td>Folk Collection</td></tr>
-<tr><td><a href="books/kahaan-kahaan-paiband-lagau.html"><b>Kahaan Kahaan Paiband</b></a></td><td>English</td><td>978-93-5592-178-9</td><td>Translation</td></tr>
+<tr><td><a href="books/kahaan-kahaan-paiband-lagau.html"><b>Kahaan Kahaan Paiband Lagau</b></a></td><td>English</td><td>978-93-5592-178-9</td><td>Translation</td></tr>
 <tr><td><a href="books/sain-samaj-ka-itihas.html"><b>Sain Samaj Ka Itihas</b></a></td><td>Hindi</td><td>978-93-5655-031-5</td><td>History</td></tr>
 
 </tbody>
@@ -156,38 +127,13 @@ Click on any title to view detailed information, cover, and purchase links.
 
 ---
 
-<h2>🔬 Related Research</h2>
+## 🔬 Research Publications
 
-<ul>
-<li><a href="articles/bhagat-puranmal-9-18.html">Pingal Analysis of Kissa Bhagat Puranmal</a></li>
-<li><a href="articles/heer-ranjha-23-28.html">Heer–Ranjha Cultural Study</a></li>
-</ul>
+For peer-reviewed research and analytical studies:
 
-<div style="background:#f2f2f2;padding:15px;margin-top:20px;">
-<h3>📌 Featured Research</h3>
-<p>
-👉 <a href="articles/heer-ranjha-23-28.html">Heer–Ranjha: Pingal-Based Cultural Analysis (2026)</a>
-</p>
-</div>
+👉 <a href="articles/index.html">View Research Publications</a>
 
 ---
-
-## 📖 Research & Scholarly Contributions
-
-हीर–राँझा तथा भगत पूरणमल पर आधारित शोध-कार्य पिंगल-आधारित छंद-विश्लेषण एवं लोक-सांस्कृतिक अध्ययन का एक संगठित शास्त्रीय रूप प्रस्तुत करते हैं।
-
-<p>
-📖 👉 <a href="articles/index.html">View Research Publications →</a>
-</p>
-
----
-
-<div style="background:#f5f5f5;padding:15px;margin-top:20px;">
-<b>🔬 Latest Research:</b>
-<a href="/anand-kumar-ashodhiya/articles/heer-ranjha-8-16.html">
-Heer–Ranjha Ragni Analysis (8–16)
-</a>
-</div>
 
 ### **Availability**
 Most titles are available via **Avikavani Publishers** and can be found on **Google Play Books**, **Amazon**, and the **WorldCat Global Library Registry**.
