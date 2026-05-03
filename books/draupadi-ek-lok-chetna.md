@@ -18,22 +18,6 @@ permalink: /books/draupadi-ek-lok-chetna.html
 <meta name="citation_publication_date" content="2025">
 <meta name="citation_isbn" content="9789334440584">
 
-<!-- ================= NAV ================= -->
-
-<p>
-<strong>Quick Links:</strong><br>
-
-<a href="{{ site.baseurl }}/"><strong>Home</strong></a> |
-<a href="{{ site.baseurl }}/books.html"><strong>Books & Bibliography</strong></a> |
-<a href="{{ site.baseurl }}/publications.html"><strong>Publications</strong></a> |
-<a href="{{ site.baseurl }}/articles/index.html"><strong>Articles</strong></a>
-<br>
-<a href="{{ site.baseurl }}/publishers.html"><strong>Avikavani Publishers</strong></a> |
-<a href="{{ site.baseurl }}/gallery.html"><strong>Gallery & IAF Legacy</strong></a> |
-<a href="{{ site.baseurl }}/awards.html"><strong>Awards</strong></a> |
-<a href="{{ site.baseurl }}/contact.html"><strong>Contact</strong></a>
-</p>
-
 <hr>
 
 <h1>Draupadi: Ek Lok Chetna</h1>
