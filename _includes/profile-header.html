@@ -1,6 +1,7 @@
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:20px;"> 
   <img src="{{ site.baseurl }}/anand-kumar-ashodhiya-profile-photo.jpg" 
-       alt="Anand Kumar Ashodhiya Profile Photo" 
+       alt="Anand Kumar Ashodhiya – Author, Poet, Researcher" 
+       loading="lazy"
        style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex-shrink:0;">
   
   <div>
@@ -19,23 +20,56 @@
 
 <!-- ================= GLOBAL NAVIGATION ================= -->
 
-<nav style="margin:15px 0; font-size:15px; line-height:1.8;">
-  
-  <b>Quick Links:</b><br>
+<p style="line-height:1.8;">
+<b>Quick Links:</b><br>
 
-  <a href="{{ site.baseurl }}/"><b>Home</b></a> |
-  <a href="{{ site.baseurl }}/books.html"><b>Books & Bibliography</b></a> |
-  <a href="{{ site.baseurl }}/publications.html"><b>Publications</b></a> |
-  <a href="{{ site.baseurl }}/articles/index.html"><b>Articles</b></a> |
-  <a href="{{ site.baseurl }}/citations.html"><b>Citations</b></a>
+<a href="{{ site.baseurl }}/"
+   style="text-decoration:none; color:#333; {% if page.url == '/' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   Home
+</a> |
 
-  <br>
+<a href="{{ site.baseurl }}/books.html"
+   style="text-decoration:none; color:#333; {% if page.url contains 'books' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   Books & Bibliography
+</a> |
 
-  <a href="{{ site.baseurl }}/publishers.html"><b>Publishers</b></a> |
-  <a href="{{ site.baseurl }}/gallery.html"><b>Gallery & IAF Legacy</b></a> |
-  <a href="{{ site.baseurl }}/awards.html"><b>Awards</b></a> |
-  <a href="{{ site.baseurl }}/contact.html"><b>Contact</b></a>
+<a href="{{ site.baseurl }}/publications.html"
+   style="text-decoration:none; color:#333; {% if page.url contains 'publications' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   Publications
+</a> |
 
-</nav>
+<a href="{{ site.baseurl }}/articles/index.html"
+   style="text-decoration:none; color:#333; {% if page.url contains 'articles' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   Articles
+</a> |
+
+<a href="{{ site.baseurl }}/citations.html"
+   style="text-decoration:none; color:#333; {% if page.url contains 'citations' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   Citations
+</a>
+
+<br>
+
+<a href="{{ site.baseurl }}/publishers.html"
+   style="text-decoration:none; color:#333; {% if page.url contains 'publishers' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   Publishers
+</a> |
+
+<a href="{{ site.baseurl }}/gallery.html"
+   style="text-decoration:none; color:#333; {% if page.url contains 'gallery' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   Gallery & IAF Legacy
+</a> |
+
+<a href="{{ site.baseurl }}/awards.html"
+   style="text-decoration:none; color:#333; {% if page.url contains 'awards' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   Awards
+</a> |
+
+<a href="{{ site.baseurl }}/contact.html"
+   style="text-decoration:none; color:#333; {% if page.url contains 'contact' %}font-weight:bold; text-decoration:underline; color:#000;{% endif %}">
+   Contact
+</a>
+
+</p>
 
 <hr>
