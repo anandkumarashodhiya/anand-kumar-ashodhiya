@@ -97,21 +97,6 @@ last_modified_at: 2026-05-02
   </div>
 </div>
 
-<!-- ================= NAV ================= -->
-<p>
-<b>Quick Links:</b><br>
-
-<a href="{{ site.baseurl }}/"><b>Home</b></a> |
-<a href="{{ site.baseurl }}/books.html"><b>Books & Bibliography</b></a> |
-<a href="{{ site.baseurl }}/publications.html"><b>Publications</b></a> |
-<a href="{{ site.baseurl }}/articles/index.html"><b>Articles</b></a>
-<br>
-<a href="{{ site.baseurl }}/publishers.html"><b>Avikavani Publishers</b></a> |
-<a href="{{ site.baseurl }}/gallery.html"><b>Gallery & IAF Legacy</b></a> |
-<a href="{{ site.baseurl }}/awards.html"><b>Awards</b></a> |
-<a href="{{ site.baseurl }}/contact.html"><b>Contact</b></a>
-</p>
-
 <hr>
 
 <p>
