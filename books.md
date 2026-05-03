@@ -5,6 +5,8 @@ permalink: /books.html
 last_modified_at: 2026-05-01
 ---
 
+{% include profile-header.html %}
+
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books.html">
 
 <!-- ================= SEO ================= -->
