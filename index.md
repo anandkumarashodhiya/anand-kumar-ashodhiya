@@ -3,6 +3,11 @@ layout: default
 title: "Anand Kumar Ashodhiya – Author, Poet, Researcher & Cultural Envoy | Official Biography"
 last_modified_at: 2026-05-02
 ---
+
+{% include profile-header.html %}
+
+<h2 style="margin-top:10px;">Anand Kumar Ashodhiya</h2>
+
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/">
 
 <meta name="description" content="Official profile of Anand Kumar Ashodhiya – author, poet, and researcher specializing in Haryanvi Ragni, Pingal Shastra, and Indian folk literature.">
@@ -18,7 +23,7 @@ last_modified_at: 2026-05-02
 "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#website",
 "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
 "name": "Anand Kumar Ashodhiya Official Website",
-"image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile-photo.jpg",
+"image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/anand-kumar-ashodhiya-profile-photo.jpg",
 "publisher": {
   "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
 }
@@ -47,7 +52,7 @@ last_modified_at: 2026-05-02
 "आनन्द कुमार आशोधिया"
 ],
 "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-"image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/profile-photo.jpg",
+"image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/anand-kumar-ashodhiya-profile-photo.jpg",
 "jobTitle": "Author | Poet | Cultural Envoy | Researcher",
 "knowsAbout": [
 "Haryanvi Ragni",
@@ -86,21 +91,12 @@ last_modified_at: 2026-05-02
 }
 </script>
 
-<!-- ================= HEADER ================= -->
-<div style="display:flex;align-items:center;gap:20px;margin-bottom:20px;">
-  <img src="{{ site.baseurl }}/anand-kumar-ashodhiya-profile-photo.jpg"
-       alt="Anand Kumar Ashodhiya"
-       style="width:120px;height:120px;border-radius:50%;object-fit:cover;">
-  <div>
-    <h1 style="margin:0;">Anand Kumar Ashodhiya</h1>
-    <p style="margin:0;color:#555;"><b>Author | Poet | Cultural Envoy | Researcher</b></p>
-  </div>
-</div>
-
-<hr>
-
 <p>
 Anand Kumar Ashodhiya is an Indian literary scholar, poet, and researcher specializing in Haryanvi Ragni tradition, Pingal Shastra, and Indian folk literature. A former Warrant Officer in the Indian Air Force, his work bridges oral folk heritage with formal literary analysis through peer-reviewed research and published books. His scholarship focuses on prosody, narrative aesthetics, and socio-cultural interpretation within North Indian performance traditions.
+</p>
+
+<p>
+His work contributes to the academic study of <b>Pingal Shastra</b>, <b>Haryanvi Ragni literature</b>, and <b>Indian folk performance traditions</b> within a contemporary research framework.
 </p>
 
 <!-- ================= RESEARCH ================= -->
@@ -125,6 +121,10 @@ A structured body of peer-reviewed research examining Haryanvi Ragni literature 
 👉 <a href="{{ site.baseurl }}/articles/index.html"><b>View All Research Articles →</b></a>
 </p>
 
+<p>
+📊 <a href="{{ site.baseurl }}/citations.html"><b>View Academic Impact →</b></a>
+</p>
+
 <hr>
 
 <h3>Research Domains</h3>
@@ -147,7 +147,7 @@ A structured body of peer-reviewed research examining Haryanvi Ragni literature 
 </ul>
 
 <p>
-All research articles and books presented on this website are authored by Anand Kumar Ashodhiya and collectively constitute an ongoing scholarly corpus on Haryanvi Ragni literature and Pingal Shastra.
+All research articles and books presented on this website are authored by Anand Kumar Ashodhiya and collectively constitute an evolving scholarly corpus on Haryanvi Ragni literature and Pingal Shastra.
 </p>
 
 <p>
