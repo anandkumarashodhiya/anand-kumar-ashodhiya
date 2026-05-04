@@ -123,3 +123,16 @@ permalink: /books/draupadi-ek-lok-chetna.html
 ]
 }
 </script>
+<hr>
+
+<h3>📄 Related Research Articles</h3>
+<ul>
+<li><a href="{{ site.baseurl }}/articles/heer-ranjha-1-7.html"><b>Heer–Ranjha (Ragnis 1–7) — Pingal Prosody Analysis</b></a></li>
+<li><a href="{{ site.baseurl }}/articles/heer-ranjha-8-16.html"><b>Heer–Ranjha (Ragnis 8–16) — Cultural Study</b></a></li>
+<li><a href="{{ site.baseurl }}/articles/bhagat-puranmal-1-8.html"><b>Bhagat Puranmal — Literary & Cultural Review</b></a></li>
+</ul>
+
+<h3>📊 Academic Impact</h3>
+<p>
+👉 <a href="{{ site.baseurl }}/citations.html"><b>View Citations & DOI Index →</b></a>
+</p>
