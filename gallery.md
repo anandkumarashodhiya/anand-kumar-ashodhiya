@@ -4,6 +4,8 @@ title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
 last_modified_at: 2026-05-01
 ---
 
+<link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">
+
 {% include profile-header.html %}
 
 <h1 style="text-align: center; color: #2c3e50;">🇮🇳 Indian Air Force (IAF) Legacy</h1>
