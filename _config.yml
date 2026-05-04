@@ -1,12 +1,15 @@
 theme: jekyll-theme-architect
+
 title: Anand Kumar Ashodhiya
 name: Anand Kumar Ashodhiya
+
 description: Official website of Anand Kumar Ashodhiya – author, poet, and researcher in Haryanvi Ragni and Pingal Shastra.
 tagline: Author, Poet & Researcher
-show_downloads: false
 
 url: "https://anandkumarashodhiya.github.io"
 baseurl: "/anand-kumar-ashodhiya"
+
+show_downloads: false
 
 plugins:
   - jekyll-sitemap
@@ -15,6 +18,8 @@ include:
   - articles
   - articles/*.pdf
   - google36447f783b790ee1.html
+  - _includes/head.html
+  - _includes/head-custom.html
 
 exclude:
   - LICENSE
