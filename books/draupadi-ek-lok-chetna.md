@@ -4,6 +4,8 @@ title: 'Draupadi: Ek Lok Chetna'
 permalink: /books/draupadi-ek-lok-chetna.html
 ---
 
+<link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">
+
 {% include profile-header.html %}
 
 <!-- ================= SEO ================= -->
