@@ -1,18 +1,13 @@
 ---
 layout: default
 title: 'Draupadi: Ek Lok Chetna'
+description: "Draupadi: Ek Lok Chetna by Anand Kumar Ashodhiya – a literary reinterpretation of Draupadi in Haryanvi Ragni tradition exploring folk consciousness and cultural discourse."
 permalink: /books/draupadi-ek-lok-chetna.html
 ---
-
-<link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">
 
 {% include profile-header.html %}
 
 <!-- ================= SEO ================= -->
-
-<link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books/draupadi-ek-lok-chetna.html">
-
-<meta name="description" content="Draupadi: Ek Lok Chetna by Anand Kumar Ashodhiya – a literary reinterpretation of Draupadi in Haryanvi Ragni tradition exploring folk consciousness and cultural discourse.">
 
 <!-- Google Scholar / Citation Metadata -->
 <meta name="citation_title" content="Draupadi: Ek Lok Chetna">
