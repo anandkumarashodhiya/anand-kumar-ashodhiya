@@ -117,6 +117,19 @@ The research establishes a **structured Pingal-based analytical framework** for 
 
 ---
 
+<hr>
+
+<h3>📚 Related Books</h3>
+<ul>
+<li><a href="{{ site.baseurl }}/books/heer-ranjha.html"><b>Heer Ranjha — Primary Literary Source</b></a></li>
+<li><a href="{{ site.baseurl }}/books/kissa-bhagat-puranmal.html"><b>Kissa Bhagat Puranmal — Source Text</b></a></li>
+</ul>
+
+<h3>📄 Related Research Articles</h3>
+<p>
+👉 <a href="{{ site.baseurl }}/articles/index.html"><b>Explore Full Research Articles →</b></a>
+</p>
+
 ## 📌 Note on Scholarly Use
 
 Researchers and scholars are encouraged to cite these works using their respective DOI links. Standard formats such as **APA, MLA, or Chicago** may be used depending on journal requirements.
