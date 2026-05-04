@@ -153,9 +153,9 @@ A structured body of peer-reviewed research examining Haryanvi Ragni literature 
 <h2>📚 Books</h2>
 
 <ul>
-<li><b>SĀKET:</b> An English Transcreation</li>
-<li><b>Antaryātrā:</b> A Journey Within</li>
-<li><b>Adhirājan:</b> Haryanvi Folk Epic</li>
+<li><a href="{{ site.baseurl }}/books/heer-ranjha.html"><b>Heer Ranjha — Haryanvi Ragni Literary Work</b></a></li>
+<li><a href="{{ site.baseurl }}/books/adhirajan-edition-2.html"><b>Adhirājan — Folk Epic (Revised Edition)</b></a></li>
+<li><a href="{{ site.baseurl }}/books/antaryatra.html"><b>Antaryātrā — English Poetry Collection</b></a></li>
 </ul>
 
 <p>
