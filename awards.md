@@ -6,6 +6,8 @@ last_modified_at: 2026-05-01
 
 <link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">
 
+{% include seo-social.html %}
+
 {% include profile-header.html %}
 
 <h1 style="text-align: center; color: #2c3e50;">Awards & Recognitions</h1>
