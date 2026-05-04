@@ -5,6 +5,8 @@ permalink: /books-library.html
 last_modified_at: 2026-05-03
 ---
 
+<link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">
+
 {% include profile-header.html %}
 
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/books-library.html">
