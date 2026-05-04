@@ -2,6 +2,7 @@ theme: jekyll-theme-architect
 
 title: Anand Kumar Ashodhiya
 name: Anand Kumar Ashodhiya
+generator: "Anand Kumar Ashodhiya Official Site"
 
 description: "Official profile of Anand Kumar Ashodhiya – author, poet, and researcher specializing in Haryanvi Ragni, Pingal Shastra, and Indian folk literature."
 tagline: Author, Poet, Researcher & Cultural Envoy
@@ -10,6 +11,11 @@ url: "https://anandkumarashodhiya.github.io"
 baseurl: "/anand-kumar-ashodhiya"
 
 show_downloads: false
+
+# Ensures the theme doesn't inject default technical styles/text
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
 
 plugins:
   - jekyll-sitemap
