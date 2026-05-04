@@ -8,8 +8,6 @@ last_modified_at: 2026-05-02
 
 <h2 style="margin-top:10px;">Anand Kumar Ashodhiya</h2>
 
-<link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/">
-
 <!-- ================= SCHEMA ================= -->
 <script type="application/ld+json">
 {
