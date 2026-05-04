@@ -4,6 +4,8 @@ title: "Anand Kumar Ashodhiya – Author, Poet, Researcher & Cultural Envoy | Of
 last_modified_at: 2026-05-02
 ---
 
+<link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">
+
 {% include profile-header.html %}
 
 <h2 style="margin-top:10px;">Anand Kumar Ashodhiya</h2>
