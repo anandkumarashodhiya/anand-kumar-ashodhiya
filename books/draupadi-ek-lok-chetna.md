@@ -59,6 +59,11 @@ permalink: /books/draupadi-ek-lok-chetna.html
 <em>Draupadi: Ek Lok Chetna</em> presents a literary reinterpretation of the figure of Draupadi within the Haryanvi Ragni tradition, foregrounding the concept of <em>lok chetna</em> (folk consciousness) as a dynamic cultural force. The work situates the narrative within a broader framework of regional literary expression, examining how traditional motifs, performative memory, and collective ethos shape the representation of mythological figures in vernacular discourse.
 </p>
 
+<p>
+This book serves as the primary textual foundation for the following 
+<a href="{{ site.baseurl }}/articles/index.html"><b>peer-reviewed research studies</b></a>:
+</p>
+
 <hr>
 
 <h3>📄 Related Research Articles</h3>
