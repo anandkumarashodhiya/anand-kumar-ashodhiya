@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Books Library | Anand Kumar Ashodhiya
+title: Books by Anand Kumar Ashodhiya | Complete Bibliography
 permalink: /books-library.html
 last_modified_at: 2026-05-03
 ---
