@@ -2,10 +2,10 @@
   <img src="{{ site.baseurl }}/anand-kumar-ashodhiya-profile-photo.jpg" 
        alt="Anand Kumar Ashodhiya – Author, Poet, Researcher" 
        loading="lazy"
-       style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+       style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex-shrink:0; border: 2px solid #007acc;">
   
   <div>
-    <h2 style="margin:0;">
+    <h2 style="margin:0; line-height:1.2;">
       <a href="{{ site.baseurl }}/" style="text-decoration:none; color:inherit;">
         Anand Kumar Ashodhiya
       </a>
@@ -21,60 +21,53 @@
 <!-- ================= GLOBAL NAVIGATION ================= -->
 
 <div style="margin:15px 0;">
+  <b>Quick Links:</b><br><br>
+  <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
-<b>Quick Links:</b><br><br>
+    <!-- HOME -->
+    <a href="{{ site.baseurl }}/"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url == '/' or page.url == '/index.html' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url == '/' or page.url == '/index.html' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Home
+    </a>
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+    <!-- BOOKS (Updated logic to separate from Library) -->
+    <a href="{{ site.baseurl }}/books.html"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url == '/books.html' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url == '/books.html' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Books
+    </a>
 
-<!-- HOME -->
-<a href="{{ site.baseurl }}/"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url == '/' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url == '/' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Home
-</a>
-
-<!-- BOOKS -->
-<a href="{{ site.baseurl }}/books.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'books' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'books' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Books
-</a>
-
-  <!-- BOOKS LIBRARY-->
-<a href="{{ site.baseurl }}/books-library.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'books' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'books' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Books Library
-</a>
+    <!-- BOOKS LIBRARY -->
+    <a href="{{ site.baseurl }}/books-library.html"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url == '/books-library.html' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url == '/books-library.html' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Books Library
+    </a>
   
-<!-- PUBLICATIONS -->
-<a href="{{ site.baseurl }}/publications.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'publications' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'publications' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Publications
-</a>
+    <!-- PUBLICATIONS -->
+    <a href="{{ site.baseurl }}/publications.html"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url contains 'publications' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url contains 'publications' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Publications
+    </a>
 
-<!-- ARTICLES -->
-<a href="{{ site.baseurl }}/articles/index.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'articles' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'articles' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Articles
-</a>
+    <!-- ARTICLES (Check if your folder is named 'articles') -->
+    <a href="{{ site.baseurl }}/articles/"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url contains 'articles' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url contains 'articles' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Articles
+    </a>
 
 <!-- CITATIONS -->
 <a href="{{ site.baseurl }}/citations.html"
