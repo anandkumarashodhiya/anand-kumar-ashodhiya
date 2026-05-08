@@ -119,7 +119,7 @@ These works are monitored and traceable through the following research platforms
 
 - <a href="https://scholar.google.com/citations?user=mO9WCuIAAAAJ" target="_blank">Google Scholar Profile</a>  
 - <a href="https://orcid.org/0009-0005-1592-0592" target="_blank">ORCID Record</a>  
-- <a href="https://zenodo.org" target="_blank">Zenodo Research Archive</a>
+- <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Ashodhiya,%20Anand%20Kumar%22" target="_blank">Zenodo Research Archive</a>
 
 ---
 
