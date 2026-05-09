@@ -107,3 +107,4 @@ The following notable works are officially published under the **Avikavani Publi
 
 [**View Complete Bibliography with ISBNs →**](books.html)
 
+{% include footer.html %}
