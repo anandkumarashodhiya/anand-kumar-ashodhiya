@@ -182,3 +182,5 @@ All research articles and books presented on this website are authored by Anand 
 <p>
 📚 <a href="{{ site.baseurl }}/articles/index.html"><b>Research Hub →</b></a>
 </p>
+
+{% include footer.html %}
