@@ -201,3 +201,5 @@ Most titles are available via **Avikavani Publishers** and can be found on **Goo
    * [Buy on Amazon](https://www.amazon.in/dp/B0GGZ63W3Z) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%85%E0%A4%A5-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%89%E0%A4%B5%E0%A4%BE%E0%A4%9A/)
 
 [**Back to Home**](index.html)
+
+{% include footer.html %}
