@@ -144,3 +144,5 @@ The research establishes a **structured Pingal-based analytical framework** for 
 ## 📌 Note on Scholarly Use
 
 Researchers and scholars are encouraged to cite these works using their respective **DOI links**. All research published here follows **Open Access** protocols. standard formats such as **APA, MLA, or Chicago** are recommended for scholarly attribution.
+
+{% include footer.html %}
