@@ -61,3 +61,4 @@ Stay connected and follow recent updates:
 **Based in:** 267, Shahpur Turk, Sector 18, Sonipat, Haryana, India  
 **Languages:** Hindi, English, and Haryanvi
 
+{% include footer.html %}
