@@ -209,3 +209,5 @@ A curated visual catalogue of published works by **Anand Kumar Ashodhiya**.
 <p style="margin-top:30px;">
 👉 <a href="{{ site.baseurl }}/books.html"><b>View Detailed Bibliography →</b></a>
 </p>
+
+{% include footer.html %}
