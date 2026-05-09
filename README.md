@@ -14,6 +14,13 @@ description: Research repository on Haryanvi Ragni, Pingal Shastra, and Indian f
 
 ---
 
+### 📖 Research Documentation & Methodology
+Access the official technical documentation and scholarly archives for this repository:
+
+*   🏠 **[Research Wiki Home](https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki)** – Overview of the Haryanvi Ragni research project.
+*   🔬 **[Pingala Shastra Methodology](https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Pingala-Shastra-Methodology-in-Haryanvi-Ragni)** – Technical framework for prosodic analysis.
+*   📚 **[Bibliography & Research Index](https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Bibliography%E2%80%90and%E2%80%90Research)** – Authoritative list of published books and DOI-indexed articles.
+
 ## 👤 About the Author
 
 **Anand Kumar Ashodhiya**  
