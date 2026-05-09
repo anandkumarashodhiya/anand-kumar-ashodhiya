@@ -94,3 +94,5 @@ Recent accolades and literary sammans received for contributions to Indian liter
 ![Anand Tricolor](anand-tricolor.jpg)
 
 [**Back to Home**](index.html)
+
+{% include footer.html %}
