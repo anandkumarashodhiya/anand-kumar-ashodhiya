@@ -140,3 +140,4 @@ This book serves as the primary textual foundation for the following
 }
 </script>
 
+{% include footer.html %}
