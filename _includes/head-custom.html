@@ -1,5 +1,16 @@
 <!-- ================= PAGE TITLES ================= -->
-<title>{{ page.title }} | Anand Kumar Ashodhiya</title>
+<title>{% if page.title %}{{ page.title }} | Anand Kumar Ashodhiya{% else %}Anand Kumar Ashodhiya | Official Research & Literary Hub{% endif %}</title>
+
+<!-- ================= STRUCTURAL WEBSITE SCHEMA ================= -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Anand Kumar Ashodhiya",
+  "alternateName": ["Kavi Anand Shahpur", "Avikavani Publishers"],
+  "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/"
+}
+</script>
 
 <!-- ================= BASIC SEO ================= -->
 <meta name="description" content="{{ page.description | default: site.description }}">
