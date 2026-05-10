@@ -3,7 +3,7 @@ layout: default
 title: Published Works | Anand Kumar Ashodhiya
 description: "Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research on Haryanvi Ragni, Pingal Shastra, and Indian folklore."
 permalink: /books.html
-last_modified_at: 2026-05-01
+last_modified_at: 2026-05-10
 ---
 
 {% include profile-header.html %}
