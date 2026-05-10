@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
-last_modified_at: 2026-05-01
+description: Recent accolades and literary sammans received by Anand Kumar Ashodhiya for contributions to Indian literature to preserve classical Indian folk traditions.
+last_modified_at: 2026-05-10
 ---
 
 {% include profile-header.html %}
