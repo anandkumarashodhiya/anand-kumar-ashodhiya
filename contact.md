@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Contact | Anand Kumar Ashodhiya
-last_modified_at: 2026-05-01
+description: Official Contact Page of Anand Kumar Ashodhiya.
+last_modified_at: 2026-05-10
 ---
 
 {% include profile-header.html %}
