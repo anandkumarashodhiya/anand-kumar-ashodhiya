@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Avikavani Publishers | Literary Imprint of Anand Kumar Ashodhiya
-last_modified_at: 2026-05-01
+description: Official literary imprint founded by Anand Kumar Ashodhiya to preserve classical Indian folk traditions.
+last_modified_at: 2026-05-10
 ---
 
 {% include profile-header.html %}
