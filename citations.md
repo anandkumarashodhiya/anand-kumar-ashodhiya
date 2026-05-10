@@ -3,7 +3,7 @@ layout: default
 title: Citations & Academic Impact | Anand Kumar Ashodhiya
 description: "Official scholarly citations, DOI-indexed research, and academic impact of Anand Kumar Ashodhiya's work in Haryanvi Ragni, Pingal Shastra, and Indian folklore studies."
 permalink: /citations.html
-last_modified_at: 2026-05-08
+last_modified_at: 2026-05-10
 ---
 
 {% include profile-header.html %}
