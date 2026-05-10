@@ -2,7 +2,7 @@
 layout: default
 title: "Anand Kumar Ashodhiya – Author, Poet, Researcher & Cultural Envoy | Official Biography"
 description: "Official website of Anand Kumar Ashodhiya, author and researcher of Haryanvi Ragni, Pingal Shastra, and Indian folk literature."
-last_modified_at: 2026-05-02
+last_modified_at: 2026-05-10
 ---
 
 {% include profile-header.html %}
