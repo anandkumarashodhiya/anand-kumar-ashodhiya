@@ -153,6 +153,7 @@ Researchers and scholars are encouraged to cite these works using their respecti
         <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki" target="_blank"><b>Research Wiki Home</b></a> – Mission and project overview.</li>
         <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Pingala-Shastra-Methodology-in-Haryanvi-Ragni" target="_blank"><b>Pingala Shastra Methodology</b></a> – Technical framework for Haryanvi Ragni analysis.</li>
         <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Bibliography%E2%80%90and%E2%80%90Research" target="_blank"><b>Bibliography & Research Index</b></a> – Complete list of ISBN books and DOI-indexed papers.</li>
+        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Glossary%E2%80%90of%E2%80%90Haryanvi%E2%80%90Prosodic%E2%80%90Terms" target="_blank"><b>Glossary of Haryanvi Prosodic Terms </b></a> – Glossary of Haryanvi Prosodic Terms (Pingal Shastra).</li> 
     </ul>
 </div>
 
