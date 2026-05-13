@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Books by Anand Kumar Ashodhiya | Complete Bibliography
+description: "Explore the visual collection and cover gallery of published literary works of Anand Kumar Ashodhiya."
 permalink: /books-library.html
 last_modified_at: 2026-05-13
 ---
