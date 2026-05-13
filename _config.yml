@@ -20,6 +20,10 @@ kramdown:
 plugins:
   - jekyll-sitemap
 
+# Force the jekyll-sitemap plugin to output lastmod date tags
+jekyll-sitemap:
+  lastmod: true
+  
 include:
   - articles
   - articles/*.pdf
