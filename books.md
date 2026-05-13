@@ -114,6 +114,12 @@ Click on any title to view detailed information, cover, and availability.
 
 ---
 
+<p>
+<a href="/anand-kumar-ashodhiya/books-library.html">
+📚 View Visual Books Library →
+</a>
+</p>
+
 ## 🔬 Research Publications
 
 For peer-reviewed research and analytical studies:
