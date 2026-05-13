@@ -12,11 +12,6 @@ last_modified_at: 2026-05-13
 
 A curated visual catalogue of published works by **Anand Kumar Ashodhiya**.
 
-<p>
-<a href="/anand-kumar-ashodhiya/books.html">
-📖 View Complete Bibliographic Index →
-</a>
-</p>
 ---
 
 <style>
