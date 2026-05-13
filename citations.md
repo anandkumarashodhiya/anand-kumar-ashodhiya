@@ -88,6 +88,10 @@ This page presents the **scholarly reach, DOI-indexed research, and academic eng
   👉 <a href="https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689" target="_blank">DOI: 10.70558/SPIJSH.2026.v3.i4.45689</a>  
   *Citation:* Ashodhiya, A. K. (2026). *हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 8–16).* SPIJSH.
 
+  - **Ragnis 17–22: Cultural Analysis**  
+  👉 <a href="https://doi.org/10.5281/zenodo.20127288" target="_blank">DOI: 10.5281/zenodo.20127288</a>  
+  *Citation:* Ashodhiya, A. K. (2026). *हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 17–22).* Zenodo.
+
 - **Ragnis 23–28: Technical Evaluation**  
   👉 <a href="https://doi.org/10.31305/rrijm.2026.v11.n04.002" target="_blank">DOI: 10.31305/rrijm.2026.v11.n04.002</a>  
   *Citation:* Ashodhiya, A. K. (2026). *Heer–Ranjha: Cultural Analysis (Ragnis 23–28).* RRIJM.
