@@ -3,7 +3,7 @@ layout: default
 title: Citations & Academic Impact | Anand Kumar Ashodhiya
 description: "Official scholarly citations, DOI-indexed research, and academic impact of Anand Kumar Ashodhiya's work in Haryanvi Ragni, Pingal Shastra, and Indian folklore studies."
 permalink: /citations.html
-last_modified_at: 2026-05-13
+last_modified_at: 2026-05-14
 ---
 
 {% include profile-header.html %}
@@ -58,6 +58,11 @@ last_modified_at: 2026-05-13
     },
     {
       "@type": "ScholarlyArticle",
+      "name": "Adhirājan: Saang-Shaili Analysis (Ragni 24–30)",
+      "identifier": "https://doi.org"
+    },
+    {
+      "@type": "ScholarlyArticle",
       "name": "Bhagat Puranmal: Critical Study (Ragni 1–8)",
       "identifier": "https://doi.org"
     },
@@ -107,6 +112,10 @@ This page presents the **scholarly reach, DOI-indexed research, and academic eng
 - **Ragni 9–16: Pingal & Social Consciousness**  
   👉 <a href="https://doi.org" target="_blank">DOI: 10.5281/zenodo.20082058</a>  
   *Citation:* Ashodhiya, A. K. (2026). *Adhirājan Ki Saang-Shaili Raganian (9–16).* JETIR.
+
+  - **Ragni 24–30: Pingal & Social Consciousness**  
+  👉 <a href="https://doi.org" target="_blank">DOI: 10.70558/SPIJSH.2026.v3.i5.45731</a>  
+  *Citation:* Ashodhiya, A. K. (2026). *Adhirājan Ki Saang-Shaili Raganian (24–30).* SPIJSH.
 
 ---
 
