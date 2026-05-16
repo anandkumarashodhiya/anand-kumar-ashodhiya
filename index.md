@@ -2,7 +2,7 @@
 layout: default
 title: "Anand Kumar Ashodhiya – Author, Poet, Researcher & Cultural Envoy | Official Biography"
 description: "Official website of Anand Kumar Ashodhiya, author and researcher of Haryanvi Ragni, Pingal Shastra, and Indian folk literature."
-last_modified_at: 2026-05-13
+last_modified_at: 2026-05-16
 ---
 
 {% include profile-header.html %}
@@ -196,5 +196,29 @@ All research articles and books presented on this website are authored by Anand 
         <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Glossary%E2%80%90of%E2%80%90Haryanvi%E2%80%90Prosodic%E2%80%90Terms" target="_blank"><b>Glossary of Haryanvi Prosodic Terms </b></a> – Glossary of Haryanvi Prosodic Terms (Pingal Shastra).</li> 
     </ul>
 </div>
+
+<!<!-- ================= MEDIUM SCHOLARLY ESSAYS ================= -->
+<hr style="border: 2px solid #eee; margin: 40px 0;">
+
+<div class="medium-essays-section">
+    <h3>📝 Scholarly Commentary & Literary Essays</h3>
+    <p>Supplementary research essays and prosodic insights published by Anand Kumar Ashodhiya on Medium:</p>
+    
+    <ul style="line-height: 1.8;">
+        <li><a href="https://medium.com/@ashodhiya68/structural-continuity-and-thematic-development-in-adharajan-ragnis-e2a5340225e8" target="_blank"><b>Structural Continuity and Thematic Development in Adharajan Ragnis</b></a> (Ragnis 9–16)</li>
+        <li><a href="https://medium.com/@ashodhiya68/climactic-resolution-and-metrical-closure-in-heer-ranjha-ragnis-b0e370f31165" target="_blank"><b>Climactic Resolution and Metrical Closure in Heer–Ranjha Ragnis</b></a> (Ragnis 23–28)</li>
+        <li><a href="https://medium.com/@ashodhiya68/expanding-narrative-complexity-in-heer-ranjha-a-prosodic-perspective-f4789340e755" target="_blank"><b>Expanding Narrative Complexity in Heer–Ranjha: A Prosodic Perspective</b></a></li>
+        <li><a href="https://medium.com/@ashodhiya68/narrative-ethics-and-prosodic-form-in-bhagat-puranmal-ragnis-8e4393c4845b" target="_blank"><b>Narrative Ethics and Prosodic Form in Bhagat Puranmal Ragnis</b></a></li>
+        <li><a href="https://medium.com/@ashodhiya68/reframing-haryanvi-ragni-through-pingal-prosody-insights-from-adharajan-d20e74b00145" target="_blank"><b>Reframing Haryanvi Ragni Through Pingal Prosody: Insights from Adharajan</b></a></li>
+        <li><a href="https://medium.com/@ashodhiya68/metrical-discipline-in-heer-ranjha-ragnis-a-pingal-based-reading-b8d594785db4" target="_blank"><b>Metrical Discipline in Heer–Ranjha Ragnis: A Pingal-Based Reading</b></a></li>
+        <li><a href="https://medium.com/@ashodhiya68/हरयाणवी-रागणी-4-हरियाणे-में-व्याप्त-कुरीति-पिंगल-विश्लेषण-88032e9977d6" target="_blank"><b>हरयाणवी रागणी 4: हरियाणे में व्याप्त कुरीति — पिंगल विश्लेषण</b></a></li>
+        <li><a href="https://medium.com/@ashodhiya68/ath-marjarika-uvach-the-great-battle-of-indian-history-867cb87268ae" target="_blank"><b>Ath Marjarika Uvach: The Great Battle of Indian History</b></a></li>
+        <li><a href="https://medium.com/@ashodhiya68/from-protector-of-the-skies-to-preserver-of-culture-the-literary-odyssey-of-anand-kumar-ashodhiya-903d75ffd290" target="_blank"><b>From Protector of the Skies to Preserver of Culture: The Literary Odyssey</b></a></li>
+    </ul>
+</div>
+
+<li>
+    🌍 <b>WorldCat Catalog:</b> <a href="https://search.worldcat.org/lists/e6a2d641-2e18-4299-aaff-7697fd62c8b1" target="_blank" style="color: #0056b3; text-decoration: none;">The Complete Works of Anand Kumar Ashodhiya (11 Verified Research Additions)</a>
+</li>
 
 {% include footer.html %}
