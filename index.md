@@ -197,7 +197,7 @@ All research articles and books presented on this website are authored by Anand 
     </ul>
 </div>
 
-<!<!-- ================= MEDIUM SCHOLARLY ESSAYS ================= -->
+<!-- ================= MEDIUM SCHOLARLY ESSAYS ================= -->
 <hr style="border: 2px solid #eee; margin: 40px 0;">
 
 <div class="medium-essays-section">
