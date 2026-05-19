@@ -1,15 +1,32 @@
-main:
-  - title: "Home"
-    url: /anand-kumar-ashodhiya/index.html
-  - title: "Biography"
-    url: /anand-kumar-ashodhiya/index.html#biography
-  - title: "Published Works"
-    url: /anand-kumar-ashodhiya/books.html
-  - title: "Avikavani Publishers"
-    url: /anand-kumar-ashodhiya/publishers.html
-  - title: "Media & IAF Legacy"
-    url: /anand-kumar-ashodhiya/gallery.html
-  - title: "Contact"
-    url: /anand-kumar-ashodhiya/contact.html
-  - title: "LinkedIn"
-    url: https://www.linkedin.com
+- title: Home
+  url: /index.html
+
+- title: Books
+  url: /books.html
+
+- title: Books Library
+  url: /books-library.html
+
+- title: Publications
+  url: /publications.html
+
+- title: Articles
+  url: /articles/index.html
+
+- title: Citations
+  url: /citations.html
+
+- title: Research
+  url: /research/index.html
+
+- title: Publishers
+  url: /publishers.html
+
+- title: Gallery
+  url: /gallery.html
+
+- title: Awards
+  url: /awards.html
+
+- title: Contact
+  url: /contact.html
