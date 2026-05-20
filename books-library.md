@@ -3,7 +3,7 @@ layout: default
 title: Books by Anand Kumar Ashodhiya | Complete Bibliography
 description: "Explore the visual collection and cover gallery of published literary works of Anand Kumar Ashodhiya."
 permalink: /books-library.html
-last_modified_at: 2026-05-13
+last_modified_at: 2026-05-20
 ---
 
 {% include profile-header.html %}
@@ -199,6 +199,16 @@ A curated visual catalogue of published works by **Anand Kumar Ashodhiya**.
 <img src="{{ site.baseurl }}/sain-samaj-ka-gauravshali-itihas-cover.jpg" alt="Sain Samaj Ka Itihas">
 <div class="card-body">
 <h3>Sain Samaj Ka Itihas</h3>
+</div>
+</a>
+</div>
+
+<!-- 15 -->
+<div class="card">
+<a href="{{ site.baseurl }}/books/haryanvi-boli-se-bhasha.html">
+<img src="{{ site.baseurl }}/haryanvi-boli-se-bhasha-cover.jpg" alt="Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya">
+<div class="card-body">
+<h3>Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya</h3>
 </div>
 </a>
 </div>
