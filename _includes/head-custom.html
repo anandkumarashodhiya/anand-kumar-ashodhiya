@@ -12,6 +12,20 @@
 }
 </script>
 
+<!-- ================= AUTOMATED SITE-WIDE LAZY LOADING ================= -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Automatically apply loading="lazy" to every image on the site
+    var allImages = document.querySelectorAll("img");
+    allImages.forEach(function(img) {
+        // Skip the very first main profile photo so the top of the page loads instantly
+        if (!img.src.includes("anand-kumar-ashodhiya-profile-photo.jpg")) {
+            img.setAttribute("loading", "lazy");
+        }
+    });
+});
+</script>
+
 <!-- ================= BASIC SEO ================= -->
 <meta name="description" content="{{ page.description | default: site.description }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
