@@ -109,7 +109,7 @@ Click on any title to view detailed information, cover, and availability.
 <tr><td><a href="books/avikavani-ragni-sangrah.html"><b>Avikavani Ragni Sangrah</b></a></td><td>Haryanvi</td><td>978-93-344-2403-4</td><td>Folk Collection</td></tr>
 <tr><td><a href="books/kahaan-kahaan-paiband-lagau.html"><b>Kahaan Kahaan Paiband Lagau</b></a></td><td>English</td><td>978-93-5592-178-9</td><td>Translation</td></tr>
 <tr><td><a href="books/sain-samaj-ka-itihas.html"><b>Sain Samaj Ka Itihas</b></a></td><td>Hindi</td><td>978-93-5655-031-5</td><td>History</td></tr>
-<tr><td><a href="books/haryanvi-bole-se-bhasha.html"><b>Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya</b></a></td><td>Hindi</td><td>978-93-5912-062-1</td><td>Linguistic Study</td></tr>
+<tr><td><a href="books/haryanvi-boli-se-bhasha.html"><b>Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya</b></a></td><td>Hindi</td><td>978-93-5912-062-1</td><td>Linguistic Study</td></tr>
 
 </tbody>
 </table>
