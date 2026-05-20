@@ -3,14 +3,16 @@ layout: default
 title: Published Works | Anand Kumar Ashodhiya
 description: "Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research on Haryanvi Ragni, Pingal Shastra, and Indian folklore."
 permalink: /books.html
-last_modified_at: 2026-05-13
+last_modified_at: 2026-05-20
 ---
 
 {% include profile-header.html %}
 
 <!-- ================= SEO ================= -->
 <meta name="description" content="Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research on Haryanvi Ragni, Pingal Shastra, and Indian folklore.">
+
 <meta name="keywords" content="Anand Kumar Ashodhiya books, Haryanvi Ragni, Pingal Shastra, Hindi literature, Indian folklore, ISBN bibliography">
+
 <meta name="author" content="Anand Kumar Ashodhiya">
 
 <!-- ================= STRUCTURED DATA ================= -->
@@ -39,42 +41,11 @@ last_modified_at: 2026-05-13
       "name": "Anand Kumar Ashodhiya",
       "alternateName": ["Kavi Anand Shahpur", "आनन्द कुमार आशोधिया"],
       "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/"
-    },
-
-    {
-      "@type": "ItemList",
-      "name": "Complete Bibliography",
-      "numberOfItems": 14,
-      "itemListElement": [
-
-        { "@type": "ListItem", "position": 1, "item": { "@type": "Book", "name": "Adhirājan (Edition I)", "isbn": "9788195873500" }},
-        { "@type": "ListItem", "position": 2, "item": { "@type": "Book", "name": "Adhirājan (Edition II)", "isbn": "9789354691164" }},
-        { "@type": "ListItem", "position": 3, "item": { "@type": "Book", "name": "Ath Marjarika Uvaach", "isbn": "9789356193970" }},
-        { "@type": "ListItem", "position": 4, "item": { "@type": "Book", "name": "SĀKET", "isbn": "9789354698453" }},
-        { "@type": "ListItem", "position": 5, "item": { "@type": "Book", "name": "Antaryātrā", "isbn": "9789356267497" }},
-        { "@type": "ListItem", "position": 6, "item": { "@type": "Book", "name": "Heer Ranjha", "isbn": "9788198995292" }},
-        { "@type": "ListItem", "position": 7, "item": { "@type": "Book", "name": "Kissa Bhagat Puranmal", "isbn": "9788198995285" }},
-        { "@type": "ListItem", "position": 8, "item": { "@type": "Book", "name": "Niswarthi Udyoga Parva", "isbn": "9789355256942" }},
-        { "@type": "ListItem", "position": 9, "item": { "@type": "Book", "name": "Draupadi: Ek Lok Chetna", "isbn": "9789334440584" }},
-        { "@type": "ListItem", "position": 10, "item": { "@type": "Book", "name": "Thara Mudda Thari Baat", "isbn": "9788198995223" }},
-        { "@type": "ListItem", "position": 11, "item": { "@type": "Book", "name": "Prem Ke Sau Rang", "isbn": "9789334455267" }},
-        { "@type": "ListItem", "position": 12, "item": { "@type": "Book", "name": "Avikavani Ragni Sangrah", "isbn": "9789334424034" }},
-        { "@type": "ListItem", "position": 13, "item": { "@type": "Book", "name": "Kahaan Kahaan Paiband Lagau", "isbn": "9789355921789" }},
-        { "@type": "ListItem", "position": 14, "item": { "@type": "Book", "name": "Sain Samaj Ka Itihas", "isbn": "9789356550315" }},
-        { "@type": "ListItem", "position": 15, "item": { "@type": "Book", "name": "Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya", "isbn": "9789359120621" }}
-
-      ]
     }
 
   ]
 }
 </script>
-
----
-
----
-
-
 
 # 📚 Complete Bibliography
 
@@ -83,36 +54,188 @@ Click on any title to view detailed information, cover, and availability.
 
 ---
 
-<table style="width:100%; border-collapse: collapse; margin-top: 20px;">
+<div style="overflow-x:auto;">
+
+<table style="
+width:100%;
+border-collapse: collapse;
+margin-top: 20px;
+table-layout: fixed;
+font-size: 15px;
+">
+
+<colgroup>
+<col style="width:42%;">
+<col style="width:14%;">
+<col style="width:22%;">
+<col style="width:22%;">
+</colgroup>
+
 <thead>
-<tr style="background-color: #f2f2f2;">
-<th style="padding:12px;border:1px solid #ddd;">Title</th>
-<th style="padding:12px;border:1px solid #ddd;">Language</th>
-<th style="padding:12px;border:1px solid #ddd;">ISBN</th>
-<th style="padding:12px;border:1px solid #ddd;">Genre/Form</th>
+
+<tr style="background-color:#f2f2f2;">
+
+<th style="padding:12px;border:1px solid #ddd;">
+Title
+</th>
+
+<th style="padding:12px;border:1px solid #ddd;text-align:center;">
+Language
+</th>
+
+<th style="padding:12px;border:1px solid #ddd;text-align:center;">
+ISBN
+</th>
+
+<th style="padding:12px;border:1px solid #ddd;text-align:center;">
+Genre/Form
+</th>
+
 </tr>
+
 </thead>
 
 <tbody>
 
-<tr><td><a href="books/adhirajan-edition-1.html"><b>Adhirājan (Edition I)</b></a></td><td>Haryanvi</td><td>978-81-958735-0-0</td><td>Folk Epic (Ragni)</td></tr>
-<tr><td><a href="books/adhirajan-edition-2.html"><b>Adhirājan (Edition II)</b></a></td><td>Haryanvi</td><td>978-93-5469-116-4</td><td>Folk Epic (Ragni)</td></tr>
-<tr><td><a href="books/ath-marjarika-uvaach.html"><b>Ath Marjarika Uvaach</b></a></td><td>Hindi</td><td>978-93-5619-397-0</td><td>Historical Epic</td></tr>
-<tr><td><a href="books/saket.html"><b>SĀKET</b></a></td><td>English</td><td>978-93-5469-845-3</td><td>Transcreation</td></tr>
-<tr><td><a href="books/antaryatra.html"><b>Antaryātrā</b></a></td><td>English</td><td>978-93-5626-749-7</td><td>Poetry</td></tr>
-<tr><td><a href="books/heer-ranjha.html"><b>Heer Ranjha</b></a></td><td>Haryanvi</td><td>978-81-989952-9-2</td><td>Ragni & Review</td></tr>
-<tr><td><a href="books/kissa-bhagat-puranmal.html"><b>Kissa Bhagat Puranmal</b></a></td><td>Haryanvi</td><td>978-81-989952-8-5</td><td>Ragni & Review</td></tr>
-<tr><td><a href="books/niswarthi-udyoga-parva.html"><b>Niswarthi Udyoga Parva</b></a></td><td>English</td><td>978-93-5525-694-2</td><td>Translation</td></tr>
-<tr><td><a href="books/draupadi-ek-lok-chetna.html"><b>Draupadi: Ek Lok Chetna</b></a></td><td>Haryanvi</td><td>978-93-344-4058-4</td><td>Ragni & Review</td></tr>
-<tr><td><a href="books/thara-mudda-thari-baat.html"><b>Thara Mudda Thari Baat</b></a></td><td>Haryanvi</td><td>978-81-989952-2-3</td><td>Modern Poetry</td></tr>
-<tr><td><a href="books/prem-ke-sau-rang.html"><b>Prem Ke Sau Rang</b></a></td><td>Hindi</td><td>978-93-344-5526-7</td><td>Short Poetry</td></tr>
-<tr><td><a href="books/avikavani-ragni-sangrah.html"><b>Avikavani Ragni Sangrah</b></a></td><td>Haryanvi</td><td>978-93-344-2403-4</td><td>Folk Collection</td></tr>
-<tr><td><a href="books/kahaan-kahaan-paiband-lagau.html"><b>Kahaan Kahaan Paiband Lagau</b></a></td><td>English</td><td>978-93-5592-178-9</td><td>Translation</td></tr>
-<tr><td><a href="books/sain-samaj-ka-itihas.html"><b>Sain Samaj Ka Itihas</b></a></td><td>Hindi</td><td>978-93-5655-031-5</td><td>History</td></tr>
-<tr><td><a href="books/haryanvi-boli-se-bhasha.html"><b>Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya</b></a></td><td>Hindi</td><td>978-93-5912-062-1</td><td>Linguistic Study</td></tr>
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/adhirajan-edition-1.html"><b>Adhirājan (Edition I)</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-81-958735-0-0</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Folk Epic (Ragni)</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/adhirajan-edition-2.html"><b>Adhirājan (Edition II)</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5469-116-4</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Folk Epic (Ragni)</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/ath-marjarika-uvaach.html"><b>Ath Marjarika Uvaach</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Hindi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5619-397-0</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Historical Epic</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/saket.html"><b>SĀKET</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">English</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5469-845-3</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Transcreation</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/antaryatra.html"><b>Antaryātrā</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">English</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5626-749-7</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Poetry</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/heer-ranjha.html"><b>Heer Ranjha</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-81-989952-9-2</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Ragni & Review</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/kissa-bhagat-puranmal.html"><b>Kissa Bhagat Puranmal</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-81-989952-8-5</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Ragni & Review</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/niswarthi-udyoga-parva.html"><b>Niswarthi Udyoga Parva</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">English</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5525-694-2</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Translation</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/draupadi-ek-lok-chetna.html"><b>Draupadi: Ek Lok Chetna</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-344-4058-4</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Ragni & Review</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/thara-mudda-thari-baat.html"><b>Thara Mudda Thari Baat</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-81-989952-2-3</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Modern Poetry</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/prem-ke-sau-rang.html"><b>Prem Ke Sau Rang</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Hindi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-344-5526-7</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Short Poetry</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/avikavani-ragni-sangrah.html"><b>Avikavani Ragni Sangrah</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-344-2403-4</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Folk Collection</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/kahaan-kahaan-paiband-lagau.html"><b>Kahaan Kahaan Paiband Lagau</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">English</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5592-178-9</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Translation</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/sain-samaj-ka-itihas.html"><b>Sain Samaj Ka Itihas</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Hindi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5655-031-5</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">History</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/haryanvi-boli-se-bhasha.html"><b>Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Hindi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5912-062-1</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Linguistic Study</td>
+</tr>
 
 </tbody>
 </table>
+
+</div>
 
 ---
 
@@ -131,16 +254,52 @@ For peer-reviewed research and analytical studies:
 ---
 
 <!-- ================= RESEARCH WIKI SECTION ================= -->
-<div style="background-color: #f0f7ff; padding: 20px; border-radius: 8px; border: 1px solid #d0e2ff; margin: 30px 0;">
-    <h3 style="margin-top: 0; color: #0056b3;">📖 Technical Research Documentation</h3>
-    <p>For detailed prosodic methodologies and extended bibliographic records, please visit the official project Wiki:</p>
-    <ul style="line-height: 1.8;">
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki" target="_blank"><b>Research Wiki Home</b></a> – Mission and project overview.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Pingala-Shastra-Methodology-in-Haryanvi-Ragni" target="_blank"><b>Pingala Shastra Methodology</b></a> – Technical framework for Haryanvi Ragni analysis.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Bibliography%E2%80%90and%E2%80%90Research" target="_blank"><b>Bibliography & Research Index</b></a> – Complete list of ISBN books and DOI-indexed papers.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Glossary%E2%80%90of%E2%80%90Haryanvi%E2%80%90Prosodic%E2%80%90Terms" target="_blank"><b>Glossary of Haryanvi Prosodic Terms </b></a> – Glossary of Haryanvi Prosodic Terms (Pingal Shastra).</li> 
-    </ul>
+
+<div style="background-color:#f0f7ff;padding:20px;border-radius:8px;border:1px solid #d0e2ff;margin:30px 0;">
+
+<h3 style="margin-top:0;color:#0056b3;">
+📖 Technical Research Documentation
+</h3>
+
+<p>
+For detailed prosodic methodologies and extended bibliographic records, please visit the official project Wiki:
+</p>
+
+<ul style="line-height:1.8;">
+
+<li>
+<a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki" target="_blank">
+<b>Research Wiki Home</b>
+</a>
+– Mission and project overview.
+</li>
+
+<li>
+<a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Pingala-Shastra-Methodology-in-Haryanvi-Ragni" target="_blank">
+<b>Pingala Shastra Methodology</b>
+</a>
+– Technical framework for Haryanvi Ragni analysis.
+</li>
+
+<li>
+<a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Bibliography%E2%80%90and%E2%80%90Research" target="_blank">
+<b>Bibliography & Research Index</b>
+</a>
+– Complete list of ISBN books and DOI-indexed papers.
+</li>
+
+<li>
+<a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Glossary%E2%80%90of%E2%80%90Haryanvi%E2%80%90Prosodic%E2%80%90Terms" target="_blank">
+<b>Glossary of Haryanvi Prosodic Terms</b>
+</a>
+– Glossary of Haryanvi Prosodic Terms (Pingal Shastra).
+</li>
+
+</ul>
+
 </div>
+
+{% include footer.html %}
 
 ### **Availability**
 Most titles are available via **Avikavani Publishers** and can be found on **Google Play Books**, **Amazon**, and the **WorldCat Global Library Registry**.
