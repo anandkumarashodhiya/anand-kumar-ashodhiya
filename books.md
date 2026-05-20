@@ -60,7 +60,8 @@ last_modified_at: 2026-05-13
         { "@type": "ListItem", "position": 11, "item": { "@type": "Book", "name": "Prem Ke Sau Rang", "isbn": "9789334455267" }},
         { "@type": "ListItem", "position": 12, "item": { "@type": "Book", "name": "Avikavani Ragni Sangrah", "isbn": "9789334424034" }},
         { "@type": "ListItem", "position": 13, "item": { "@type": "Book", "name": "Kahaan Kahaan Paiband Lagau", "isbn": "9789355921789" }},
-        { "@type": "ListItem", "position": 14, "item": { "@type": "Book", "name": "Sain Samaj Ka Itihas", "isbn": "9789356550315" }}
+        { "@type": "ListItem", "position": 14, "item": { "@type": "Book", "name": "Sain Samaj Ka Itihas", "isbn": "9789356550315" }},
+        { "@type": "ListItem", "position": 15, "item": { "@type": "Book", "name": "Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya", "isbn": "9789359120621" }}
 
       ]
     }
@@ -108,6 +109,7 @@ Click on any title to view detailed information, cover, and availability.
 <tr><td><a href="books/avikavani-ragni-sangrah.html"><b>Avikavani Ragni Sangrah</b></a></td><td>Haryanvi</td><td>978-93-344-2403-4</td><td>Folk Collection</td></tr>
 <tr><td><a href="books/kahaan-kahaan-paiband-lagau.html"><b>Kahaan Kahaan Paiband Lagau</b></a></td><td>English</td><td>978-93-5592-178-9</td><td>Translation</td></tr>
 <tr><td><a href="books/sain-samaj-ka-itihas.html"><b>Sain Samaj Ka Itihas</b></a></td><td>Hindi</td><td>978-93-5655-031-5</td><td>History</td></tr>
+<tr><td><a href="books/haryanvi-bole-se-bhasha.html"><b>Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya</b></a></td><td>Hindi</td><td>978-93-5912-062-1</td><td>Linguistic Study</td></tr>
 
 </tbody>
 </table>
@@ -219,6 +221,13 @@ Most titles are available via **Avikavani Publishers** and can be found on **Goo
    ![Sain Samaj History](sain-samaj-ka-gauravshali-itihas-cover.jpg)
    * **ISBN Proof:** ![Sain Samaj ISBN](sain-samaj-ka-gauravshali-itihas-isbn.jpg) 
    * [Buy on Amazon](https://www.amazon.in/dp/B0GGZ63W3Z) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%85%E0%A4%A5-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%89%E0%A4%B5%E0%A4%BE%E0%A4%9A/)
+
+### A Study of Linguistic Capacity & Socio Linguistic Works
+14. **हरयाणवी: बोली से भाषा तक का भाषाई सामर्थ्य** (2026)
+   * ISBN: 9789359120621 | Publisher: Self Published by Anand Kumar Ashodhiya 
+   ![Haryanvi Boli Se Bhasha Cover](haryanvi-boli-se-bhasha-cover.jpg)
+   * **ISBN Proof:** ![Haryanvi Boli Se Bhasha ISBN](haryanvi-boli-se-bhasha-isbn.jpg) 
+   * [Buy on Google](https://play.google.com/store/books/details?id=13DaEQAAQBAJ) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80-%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE-%E0%A4%A4%E0%A4%95-%E0%A4%95%E0%A4%BE-%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%88-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF/)
 
 [**Back to Home**](index.html)
 
