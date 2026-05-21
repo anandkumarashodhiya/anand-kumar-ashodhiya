@@ -1,27 +1,36 @@
-<div style="display:flex; align-items:center; gap:20px; margin-bottom:20px;"> 
-  <img src="{{ site.baseurl }}/anand-kumar-ashodhiya-profile-photo.jpg" 
-       alt="Anand Kumar Ashodhiya – Author, Poet, Researcher" 
-       loading="lazy"
-       style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex-shrink:0; border: 2px solid #007acc;">
-  
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:20px; flex-wrap:wrap;">
+
+  <img src="{{ site.baseurl }}/anand-kumar-ashodhiya-profile-photo.jpg"
+       alt="Anand Kumar Ashodhiya – Author, Poet, Researcher"
+       width="120"
+       height="120"
+       loading="eager"
+       fetchpriority="high"
+       style="border-radius:50%; object-fit:cover; flex-shrink:0; border:2px solid #007acc;">
+
   <div>
     <h2 style="margin:0; line-height:1.2;">
-      <a href="{{ site.baseurl }}/" style="text-decoration:none; color:inherit;">
-        Anand Kumar Ashodhiya
+      <a href="{{ site.baseurl }}/"
+         style="text-decoration:none; color:inherit;">
+         Anand Kumar Ashodhiya
       </a>
     </h2>
+
     <p style="margin:0; font-weight:bold; color:#555;">
       Author | Poet | Researcher
     </p>
   </div>
+
 </div>
 
 <hr>
 
 <!-- ================= GLOBAL NAVIGATION ================= -->
 
-<div style="margin:15px 0;">
+<nav aria-label="Primary Navigation" style="margin:15px 0;">
+
   <b>Quick Links:</b><br><br>
+
   <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
     <!-- HOME -->
@@ -33,7 +42,7 @@
        Home
     </a>
 
-    <!-- BOOKS (Updated logic to separate from Library) -->
+    <!-- BOOKS -->
     <a href="{{ site.baseurl }}/books.html"
        style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
        background:{% if page.url == '/books.html' %}#007acc{% else %}#ffffff{% endif %};
@@ -50,7 +59,7 @@
        font-weight:bold;">
        Books Library
     </a>
-  
+
     <!-- PUBLICATIONS -->
     <a href="{{ site.baseurl }}/publications.html"
        style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
@@ -60,7 +69,7 @@
        Publications
     </a>
 
-    <!-- ARTICLES (Check if your folder is named 'articles') -->
+    <!-- ARTICLES -->
     <a href="{{ site.baseurl }}/articles/"
        style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
        background:{% if page.url contains 'articles' %}#007acc{% else %}#ffffff{% endif %};
@@ -69,67 +78,62 @@
        Articles
     </a>
 
-<!-- CITATIONS -->
-<a href="{{ site.baseurl }}/citations.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'citations' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'citations' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Citations
-</a>
+    <!-- CITATIONS -->
+    <a href="{{ site.baseurl }}/citations.html"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url contains 'citations' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url contains 'citations' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Citations
+    </a>
 
-<!-- RESEARCH -->
-<a href="{{ site.baseurl }}/research/index.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'research' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'research' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Research
-</a>
-    
-<!-- PUBLISHERS -->
-<a href="{{ site.baseurl }}/publishers.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'publishers' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'publishers' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Publishers
-</a>
+    <!-- RESEARCH -->
+    <a href="{{ site.baseurl }}/research/"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url contains 'research' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url contains 'research' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Research
+    </a>
 
-<!-- GALLERY -->
-<a href="{{ site.baseurl }}/gallery.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'gallery' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'gallery' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Gallery
-</a>
+    <!-- PUBLISHERS -->
+    <a href="{{ site.baseurl }}/publishers.html"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url contains 'publishers' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url contains 'publishers' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Publishers
+    </a>
 
-<!-- AWARDS -->
-<a href="{{ site.baseurl }}/awards.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'awards' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'awards' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Awards
-</a>
+    <!-- GALLERY -->
+    <a href="{{ site.baseurl }}/gallery.html"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url contains 'gallery' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url contains 'gallery' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Gallery
+    </a>
 
-<!-- CONTACT -->
-<a href="{{ site.baseurl }}/contact.html"
-   style="padding:7px 14px; border-radius:6px; text-decoration:none;
-   border:1px solid #007acc;
-   background:{% if page.url contains 'contact' %}#007acc{% else %}#ffffff{% endif %};
-   color:{% if page.url contains 'contact' %}#ffffff{% else %}#007acc{% endif %};
-   font-weight:bold;">
-   Contact
-</a>
+    <!-- AWARDS -->
+    <a href="{{ site.baseurl }}/awards.html"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url contains 'awards' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url contains 'awards' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Awards
+    </a>
 
-</div>
-</div>
+    <!-- CONTACT -->
+    <a href="{{ site.baseurl }}/contact.html"
+       style="padding:7px 14px; border-radius:6px; text-decoration:none; border:1px solid #007acc;
+       background:{% if page.url contains 'contact' %}#007acc{% else %}#ffffff{% endif %};
+       color:{% if page.url contains 'contact' %}#ffffff{% else %}#007acc{% endif %};
+       font-weight:bold;">
+       Contact
+    </a>
+
+  </div>
+
+</nav>
 
 <hr>
