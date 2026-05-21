@@ -1,5 +1,5 @@
 - title: Home
-  url: /index.html
+  url: /
 
 - title: Books
   url: /books.html
@@ -11,13 +11,13 @@
   url: /publications.html
 
 - title: Articles
-  url: /articles/index.html
+  url: /articles/
 
 - title: Citations
   url: /citations.html
 
 - title: Research
-  url: /research/index.html
+  url: /research/
 
 - title: Publishers
   url: /publishers.html
