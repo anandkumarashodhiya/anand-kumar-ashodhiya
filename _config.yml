@@ -5,31 +5,47 @@ name: Anand Kumar Ashodhiya
 generator: "Anand Kumar Ashodhiya Official Site"
 
 description: "Official profile of Anand Kumar Ashodhiya – author, poet, and researcher specializing in Haryanvi Ragni, Pingal Shastra, and Indian folk literature."
-tagline: Author, Poet, Researcher & Cultural Envoy
+
+tagline: "Author, Poet, Researcher & Cultural Envoy"
 
 url: "https://anandkumarashodhiya.github.io"
 baseurl: "/anand-kumar-ashodhiya"
 
+timezone: Asia/Kolkata
+lang: en-IN
+
 show_downloads: false
 
-# Ensures the theme doesn't inject default technical styles/text
+markdown: kramdown
+
+# ================= KRAMDOWN =================
+
 kramdown:
+  input: GFM
   syntax_highlighter_opts:
     disable: true
+
+# ================= PLUGINS =================
 
 plugins:
   - jekyll-sitemap
 
-# Force the jekyll-sitemap plugin to output lastmod date tags
+# ================= SITEMAP =================
+
 jekyll-sitemap:
   lastmod: true
-  
+
+# ================= INCLUDE =================
+
 include:
   - articles
   - articles/*.pdf
   - google36447f783b790ee1.html
-  - _includes/head.html
-  - _includes/head-custom.html
+
+# ================= EXCLUDE =================
 
 exclude:
   - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
