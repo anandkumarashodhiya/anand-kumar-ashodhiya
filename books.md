@@ -304,7 +304,11 @@ For detailed prosodic methodologies and extended bibliographic records, please v
 ### **Availability**
 Most titles are available via **Avikavani Publishers** and can be found on **Google Play Books**, **Amazon**, and the **WorldCat Global Library Registry**.
 
-![Published Titles](published-titles-by-anand-kumar-ashodhiya.jpg)
+<p align="center">
+  <img src="published-titles-by-anand-kumar-ashodhiya.jpg" 
+       alt="Published Titles by Anand Kumar Ashodhiya"
+       style="max-width:100%; height:auto;">
+</p>
 
 ### Featured English Works
 1. **SĀKET — An English Trans-creation** (2025)
