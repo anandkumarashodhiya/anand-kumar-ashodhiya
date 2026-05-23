@@ -2,7 +2,7 @@
 layout: default
 title: "Anand Kumar Ashodhiya – Author, Poet, Researcher & Cultural Envoy | Official Biography"
 description: "Official website of Anand Kumar Ashodhiya, author and researcher of Haryanvi Ragni, Pingal Shastra, and Indian folk literature."
-last_modified_at: 2026-05-16
+last_modified_at: 2026-05-23
 ---
 
 {% include profile-header.html %}
@@ -119,6 +119,7 @@ A structured body of peer-reviewed research examining Haryanvi Ragni literature 
 <ul>
 <li><a href="{{ site.baseurl }}/articles/adharajan-1-8.html">Adharajan (Ragini 1–8) – Pingal Prosody Analysis</a></li>
 <li><a href="{{ site.baseurl }}/articles/adharajan-9-16.html">Adharajan (Ragini 9–16) – Pingal Prosody Analysis</a></li>
+<li><a href="{{ site.baseurl }}/articles/adharajan-9-16.html">Adharajan (Ragini 17–23) – Pingal Prosody Analysis</a></li>  
 <li><a href="{{ site.baseurl }}/articles/adharajan-24-30.html">Adharajan (Ragini 24–30) – Pingal Prosody Analysis</a></li>  
 <li><a href="{{ site.baseurl }}/articles/heer-ranjha-1-7.html">Heer–Ranjha (Ragnis 1–7) – Pingal Prosody Literary Review</a></li>
 <li><a href="{{ site.baseurl }}/articles/heer-ranjha-8-16.html">Heer–Ranjha (Ragnis 8–16) – Pingal Prosody Literary Review</a></li>
