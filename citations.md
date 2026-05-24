@@ -355,6 +355,52 @@ View Research Article
 
 <hr>
 
+<!-- ================= AVIKAVANI SERIES ================= -->
+
+<div style="background:#fff6f2; border:1px solid #f0c7b5; border-radius:10px; padding:24px; margin:35px 0;">
+
+<h2 style="margin-top:0;">📚 AVIKAVANI Literary & Scholarly Series</h2>
+
+<p style="line-height:1.9;">
+In addition to peer-reviewed journal publications, Anand Kumar Ashodhiya’s literary and research ecosystem is institutionally supported through <strong>AVIKAVANI Publishers</strong>, an independent publishing initiative dedicated to Haryanvi literature, Pingal studies, folk narratives, and regional literary preservation.
+</p>
+
+<ul style="line-height:1.9;">
+
+<li>
+<a href="{{ site.baseurl }}/books/adharajan.html">
+<strong>Adhirājan</strong>
+</a>
+— Haryanvi Saang-Shaili epic and foundational primary text for the Adhirājan research series.
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/books/heer-ranjha.html">
+<strong>Heer–Ranjha</strong>
+</a>
+— Folk-literary Ragni collection analysed through Pingal Shastra methodology.
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/books/kissa-bhagat-puranmal.html">
+<strong>Kissa Bhagat Puranmal</strong>
+</a>
+— Ethical and devotional folk narrative corpus used in critical literary studies.
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/books.html">
+<strong>Complete AVIKAVANI Bibliography</strong>
+</a>
+— ISBN-indexed books, literary editions, and scholarly publications.
+</li>
+
+</ul>
+
+</div>
+
+<hr>
+
 <!-- ================= INDEXING ================= -->
 
 <div style="background:#f0f7ff; border:1px solid #d0e2ff; padding:22px; border-radius:8px; margin:35px 0;">
