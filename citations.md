@@ -1,182 +1,615 @@
 ---
 layout: default
-title: Citations & Academic Impact | Anand Kumar Ashodhiya
-description: "Official scholarly citations, DOI-indexed research, and academic impact of Anand Kumar Ashodhiya's work in Haryanvi Ragni, Pingal Shastra, and Indian folklore studies."
+title: "Citations & Academic Impact | Anand Kumar Ashodhiya"
+description: "Official citations, DOI-indexed publications, scholarly indexing, and academic impact of Anand Kumar Ashodhiya’s research on Haryanvi Ragni, Pingal Shastra, and Indian folk literary traditions."
 permalink: /citations.html
-last_modified_at: 2026-05-23
+last_modified_at: 2026-05-24
 ---
+
+<link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/citations.html">
+
+<meta name="robots" content="index, follow">
+<meta name="citation_author" content="Anand Kumar Ashodhiya">
+<meta name="citation_public_url" content="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/citations.html">
 
 {% include profile-header.html %}
 
-<!-- ================= SCHEMA ================= -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "WebPage",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/citations.html",
-      "name": "Citations & Academic Impact",
-      "about": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
-      }
-    },
-    {
-      "@type": "Person",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person",
-      "name": "Anand Kumar Ashodhiya"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "name": "Heer–Ranjha: Cultural Analysis (Ragnis 1–7)",
-      "identifier": "https://doi.org/10.5281/zenodo.19542794"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "name": "Heer–Ranjha: Cultural Analysis (Ragnis 8–16)",
-      "identifier": "https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "name": "Heer–Ranjha: Cultural Analysis (Ragnis 17–22)",
-      "identifier": "https://doi.org/10.5281/zenodo.20127288"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "name": "Heer–Ranjha: Cultural Analysis (Ragnis 23–28)",
-      "identifier": "https://doi.org/10.31305/rrijm.2026.v11.n04.002"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "name": "Adhirājan: Saang-Shaili Analysis (Ragni 1–8)",
-      "identifier": "https://doi.org"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "name": "Adhirājan: Saang-Shaili Analysis (Ragni 9–16)",
-      "identifier": "https://doi.org"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "name": "Adhirājan: Saang-Shaili Analysis (Ragni 24–30)",
-      "identifier": "https://doi.org"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "name": "Bhagat Puranmal: Critical Study (Ragni 1–8)",
-      "identifier": "https://doi.org"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "name": "Bhagat Puranmal: Critical Study (Ragni 9–18)",
-      "identifier": "https://doi.org"
-    }
-  ]
-}
-</script>
+<h1>📊 Citations & Academic Impact</h1>
 
-# 📊 Citations & Academic Impact
+<p>
+This page documents the scholarly visibility, DOI-indexed research corpus, citation infrastructure, and academic preservation ecosystem associated with the works of <b>Anand Kumar Ashodhiya</b>.
+</p>
 
-This page presents the **scholarly reach, DOI-indexed research, and academic engagement** of the works of **Anand Kumar Ashodhiya**. As an independent researcher and IAF veteran, his work bridges oral folk traditions with formal literary criticism through **Pingal Shastra** analysis.
-
----
-
-## 🔬 Research Publications (Citable Works)
-
-### 1. Heer–Ranjha Series (Haryanvi Ragni Tradition)
-
-- **Ragnis 1–7: Cultural Analysis**  
-  👉 <a href="https://doi.org/10.5281/zenodo.19542794" target="_blank">DOI: 10.5281/zenodo.19542794</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 1–7).* Zenodo.
-
-- **Ragnis 8–16: Prosodic Review**  
-  👉 <a href="https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689" target="_blank">DOI: 10.70558/SPIJSH.2026.v3.i4.45689</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 8–16).* SPIJSH.
-
-  - **Ragnis 17–22: Cultural Analysis**  
-  👉 <a href="https://doi.org/10.5281/zenodo.20127288" target="_blank">DOI: 10.5281/zenodo.20127288</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *हीर–राँझा की हरियाणवी रागणी परंपरा (रागणी 17–22).* Zenodo.
-
-- **Ragnis 23–28: Technical Evaluation**  
-  👉 <a href="https://doi.org/10.31305/rrijm.2026.v11.n04.002" target="_blank">DOI: 10.31305/rrijm.2026.v11.n04.002</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *Heer–Ranjha: Cultural Analysis (Ragnis 23–28).* RRIJM.
-
----
-
-### 2. Adhirājan Series (Saang-Shaili Analysis)
-
-- **Ragni 1–8: Folk-Cultural Hermeneutics**  
-  👉 <a href="https://doi.org" target="_blank">DOI: 10.5281/zenodo.20079163</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *Adhirājan Ki Saang-Shaili Raganian (1–8).* IJCRT.
-
-- **Ragni 9–16: Pingal & Social Consciousness**  
-  👉 <a href="https://doi.org" target="_blank">DOI: 10.5281/zenodo.20082058</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *Adhirājan Ki Saang-Shaili Raganian (9–16).* JETIR.
-
-- **Ragni 17–23: Pingal & Social Consciousness**  
-  👉 <a href="https://doi.org" target="_blank">DOI: 10.31305/rrijm.2026.v11.n05.003</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *Adhirājan Ki Saang-Shaili Raganian (17–23).* RRIJM.
-
-  - **Ragni 24–30: Pingal & Social Consciousness**  
-  👉 <a href="https://doi.org" target="_blank">DOI: 10.70558/SPIJSH.2026.v3.i5.45731</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *Adhirājan Ki Saang-Shaili Raganian (24–30).* SPIJSH.
-
----
-
-### 3. Kissa Bhagat Puranmal (Bhakti & Moral Resistance)
-
-- **Ragni 1–8: Critical Scholarly Review**  
-  👉 <a href="https://doi.org" target="_blank">DOI: 10.5281/zenodo.20084154</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *किस्सा भगत पूरणमल का समालोचनात्मक अध्ययन (1–8).* IJHR.
-
-- **Ragni 9–18: Spiritual Sainthood Analysis**  
-  👉 <a href="https://doi.org" target="_blank">DOI: 10.5281/zenodo.20086241</a>  
-  *Citation:* Ashodhiya, A. K. (2026). *किस्सा भगत पूरणमल का समालोचनात्मक अध्ययन (9–18).* IJRAR.
-
----
-
-## 📈 Academic Indexing
-
-These works are monitored and traceable through the following research platforms:
-
-- <a href="https://scholar.google.com/citations?user=mO9WCuIAAAAJ" target="_blank">Google Scholar Profile</a>  
-- <a href="https://orcid.org/0009-0005-1592-0592" target="_blank">ORCID Record</a>  
-- <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Ashodhiya,%20Anand%20Kumar%22" target="_blank">Zenodo Research Archive</a>
-
----
-
-## 🧭 Academic Contribution
-
-The research establishes a **structured Pingal-based analytical framework** for the study of Haryanvi Ragni literature. It contributes toward:
-- Bridging **oral folk traditions** with formal literary criticism.
-- Technical documentation of **Chhand-Vidhan** and **Matra-Santulan**.
-- Systematic scholarly engagement within the field of **Indian Folklore and Cultural Studies**.
-
----
+<p>
+The research programme focuses on <b>Haryanvi Ragni tradition</b>, <b>Pingal Shastra (Indian Prosody)</b>, <b>Saang-Shaili narrative systems</b>, and <b>Indian folk literary studies</b>. The publications collectively establish a structured analytical framework connecting oral literary traditions with modern academic criticism.
+</p>
 
 <hr>
 
-<h3>📚 Primary Source Texts</h3>
-<ul>
-<li><a href="{{ site.baseurl }}/books/adhirajan.html"><b>Adhirājan — Original Epic</b></a></li>
-<li><a href="{{ site.baseurl }}/books/heer-ranjha.html"><b>Heer Ranjha — Folk Collection</b></a></li>
-<li><a href="{{ site.baseurl }}/books/kissa-bhagat-puranmal.html"><b>Kissa Bhagat Puranmal — Moral Legend</b></a></li>
+<!-- ================= RESEARCH IMPACT OVERVIEW ================= -->
+
+<div style="background:#f8f9fa; border:1px solid #ddd; padding:22px; border-radius:8px; margin:30px 0;">
+
+<h2 style="margin-top:0;">📈 Scholarly Impact Overview</h2>
+
+<ul style="line-height:1.9;">
+<li><b>Total Peer-Reviewed Research Papers:</b> 13</li>
+<li><b>DOI-Indexed Publications:</b> 13</li>
+<li><b>Research Languages:</b> Hindi & English</li>
+<li><b>Primary Research Area:</b> Haryanvi Ragni Literature & Pingal Shastra</li>
+<li><b>Core Research Domains:</b> Folk Literature, Oral Traditions, Saang-Shaili, Pingal Prosody, Cultural Studies</li>
+<li><b>Scholarly Platforms:</b> Google Scholar, ORCID, Zenodo, Academia.edu, OpenAIRE</li>
+<li><b>Archival Infrastructure:</b> DOI repositories, journal archives, GitHub Pages, WorldCat records</li>
+<li><b>Research Accessibility:</b> Open Access Scholarly Distribution</li>
 </ul>
 
-## 📌 Note on Scholarly Use
-
-Researchers and scholars are encouraged to cite these works using their respective **DOI links**. All research published here follows **Open Access** protocols. standard formats such as **APA, MLA, or Chicago** are recommended for scholarly attribution.
-
-<!-- ================= RESEARCH WIKI SECTION ================= -->
-<div style="background-color: #f0f7ff; padding: 20px; border-radius: 8px; border: 1px solid #d0e2ff; margin: 30px 0;">
-    <h3 style="margin-top: 0; color: #0056b3;">📖 Technical Research Documentation</h3>
-    <p>For detailed prosodic methodologies and extended bibliographic records, please visit the official project Wiki:</p>
-    <ul style="line-height: 1.8;">
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki" target="_blank"><b>Research Wiki Home</b></a> – Mission and project overview.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Pingala-Shastra-Methodology-in-Haryanvi-Ragni" target="_blank"><b>Pingala Shastra Methodology</b></a> – Technical framework for Haryanvi Ragni analysis.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Bibliography%E2%80%90and%E2%80%90Research" target="_blank"><b>Bibliography & Research Index</b></a> – Complete list of ISBN books and DOI-indexed papers.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Glossary%E2%80%90of%E2%80%90Haryanvi%E2%80%90Prosodic%E2%80%90Terms" target="_blank"><b>Glossary of Haryanvi Prosodic Terms </b></a> – Glossary of Haryanvi Prosodic Terms (Pingal Shastra).</li> 
-    </ul>
 </div>
+
+<hr>
+
+<!-- ================= HEER RANJHA ================= -->
+
+<h2>🔹 Heer–Ranjha Research Series</h2>
+
+<div style="margin-bottom:28px;">
+
+<h3>1. Heer–Ranjha (Ragnis 1–7)</h3>
+
+<p>
+<b>Title:</b> हीर-राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 1–7 के संदर्भ में)
+</p>
+
+<p>
+<b>Journal:</b> The Academic – International Journal of Multidisciplinary Research, 4(3), 2261–2265
+</p>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.19542794" target="_blank">
+https://doi.org/10.5281/zenodo.19542794
+</a>
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/heer-ranjha-1-7.html">
+View Internal Research Landing Page
+</a>
+</p>
+
+<p>
+<b>Suggested Citation (APA):</b><br>
+Ashodhiya, A. K. (2026). <i>हीर-राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 1–7 के संदर्भ में)</i>. The Academic.
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>2. Heer–Ranjha (Ragnis 8–16)</h3>
+
+<p>
+<b>Title:</b> हीर-राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 8–16 के संदर्भ में)
+</p>
+
+<p>
+<b>Journal:</b> ShodhPatra International Journal of Science and Humanities, 3(4), 154–159
+</p>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689" target="_blank">
+https://doi.org/10.70558/SPIJSH.2026.v3.i4.45689
+</a>
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/heer-ranjha-8-16.html">
+View Internal Research Landing Page
+</a>
+</p>
+
+<p>
+<b>Suggested Citation (APA):</b><br>
+Ashodhiya, A. K. (2026). <i>हीर-राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 8–16 के संदर्भ में)</i>. SPIJSH.
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>3. Heer–Ranjha (Ragnis 17–22)</h3>
+
+<p>
+<b>Title:</b> हीर-राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 17–22 के संदर्भ में)
+</p>
+
+<p>
+<b>Journal:</b> The Academic – International Journal of Multidisciplinary Research, 4(4), 2047–2056
+</p>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20127288" target="_blank">
+https://doi.org/10.5281/zenodo.20127288
+</a>
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/heer-ranjha-17-22.html">
+View Internal Research Landing Page
+</a>
+</p>
+
+<p>
+<b>Suggested Citation (APA):</b><br>
+Ashodhiya, A. K. (2026). <i>हीर-राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 17–22 के संदर्भ में)</i>. The Academic.
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>4. Heer–Ranjha (Ragnis 23–28)</h3>
+
+<p>
+<b>Title:</b> हीर-राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 23–28 के संदर्भ में)
+</p>
+
+<p>
+<b>Journal:</b> RESEARCH REVIEW International Journal of Multidisciplinary, 11(4), 14–20
+</p>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.31305/rrijm.2026.v11.n04.002" target="_blank">
+https://doi.org/10.31305/rrijm.2026.v11.n04.002
+</a>
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/heer-ranjha-23-28.html">
+View Internal Research Landing Page
+</a>
+</p>
+
+<p>
+<b>Suggested Citation (APA):</b><br>
+Ashodhiya, A. K. (2026). <i>हीर-राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 23–28 के संदर्भ में)</i>. RRIJM.
+</p>
+
+</div>
+
+<hr>
+
+<!-- ================= ADHARAJAN ================= -->
+
+<h2>🔹 Adharājan Research Series</h2>
+
+<div style="margin-bottom:28px;">
+
+<h3>1. Adharājan (Ragnis 1–8)</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20079163" target="_blank">
+https://doi.org/10.5281/zenodo.20079163
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Pingal Prosody, Folk Hermeneutics, Saang-Shaili Narrative Structure
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/adharajan-1-8.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>2. Adharājan (Ragnis 9–16)</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20081437" target="_blank">
+https://doi.org/10.5281/zenodo.20081437
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Social Consciousness, Prosodic Continuity, Folk Narrative Systems
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/adharajan-9-16.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>3. Adharājan (Ragnis 17–23)</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.31305/rrijm.2026.v11.n05.003" target="_blank">
+https://doi.org/10.31305/rrijm.2026.v11.n05.003
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Narrative Expansion, Folk Cultural Structures, Saang-Shaili Interpretation
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/adharajan-17-23.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>4. Adharājan (Ragnis 24–30)</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.70558/SPIJSH.2026.v3.i5.45731" target="_blank">
+https://doi.org/10.70558/SPIJSH.2026.v3.i5.45731
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Cultural Resolution, Folk Symbolism, Pingal-Based Literary Analysis
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/adharajan-24-30.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<!-- ================= BHAGAT PURANMAL ================= -->
+
+<h2>🔹 Kissa Bhagat Puranmal Research Series</h2>
+
+<div style="margin-bottom:28px;">
+
+<h3>1. Bhagat Puranmal (Ragnis 1–8)</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20082058" target="_blank">
+https://doi.org/10.5281/zenodo.20082058
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Bhakti, Ethical Resistance, Moral Narrative Structures
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/bhagat-puranmal-1-8.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>2. Bhagat Puranmal (Ragnis 9–18)</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20082696" target="_blank">
+https://doi.org/10.5281/zenodo.20082696
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Spirituality, Folk Ethics, Narrative Prosody, Devotional Performance Traditions
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/bhagat-puranmal-9-18.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<!-- ================= INDEXING ================= -->
+
+<div style="background:#f0f7ff; border:1px solid #d0e2ff; padding:22px; border-radius:8px; margin:35px 0;">
+
+<h2 style="margin-top:0; color:#0056b3;">🌐 Academic Indexing & Scholarly Profiles</h2>
+
+<ul style="line-height:1.9;">
+
+<li>
+<a href="https://scholar.google.com/citations?user=mO9WCuIAAAAJ" target="_blank">
+<b>Google Scholar Profile</b>
+</a>
+</li>
+
+<li>
+<a href="https://orcid.org/0009-0005-1592-0592" target="_blank">
+<b>ORCID Researcher Profile</b>
+</a>
+</li>
+
+<li>
+<a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Ashodhiya,%20Anand%20Kumar%22" target="_blank">
+<b>Zenodo Open Research Archive</b>
+</a>
+</li>
+
+<li>
+<a href="https://www.academia.edu/" target="_blank">
+<b>Academia.edu Research Repository</b>
+</a>
+</li>
+
+<li>
+<a href="https://search.worldcat.org/lists/e6a2d641-2e18-4299-aaff-7697fd62c8b1" target="_blank">
+<b>WorldCat Bibliographic Catalog</b>
+</a>
+</li>
+
+<li>
+<a href="https://isni.org/isni/0000000530187854" target="_blank">
+<b>ISNI International Author Identifier</b>
+</a>
+</li>
+
+</ul>
+
+</div>
+
+<!-- ================= CONTRIBUTION ================= -->
+
+<h2>🧭 Academic Contribution</h2>
+
+<p>
+The research corpus contributes toward the formal academic study of Haryanvi folk literature through a structured Pingal-based analytical methodology. The work aims to preserve, document, and critically interpret oral literary traditions within a contemporary research framework.
+</p>
+
+<ul style="line-height:1.9;">
+<li>Technical analysis of Chhand-Vidhan and Matra-Santulan</li>
+<li>Documentation of Haryanvi Ragni prosodic systems</li>
+<li>Critical interpretation of Saang-Shaili narrative traditions</li>
+<li>Bridging oral traditions with literary criticism</li>
+<li>Promotion of open-access folk literature research</li>
+<li>Development of structured folk-literary research methodology</li>
+</ul>
+
+<hr>
+
+<!-- ================= PRIMARY TEXTS ================= -->
+
+<h2>📚 Primary Source Texts</h2>
+
+<ul style="line-height:1.9;">
+
+<li>
+<a href="{{ site.baseurl }}/books/adhirajan-edition-2.html">
+<b>Adhirājan — Folk Epic (Revised Edition)</b>
+</a>
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/books/heer-ranjha.html">
+<b>Heer–Ranjha — Haryanvi Folk Narrative</b>
+</a>
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/books/kissa-bhagat-puranmal.html">
+<b>Kissa Bhagat Puranmal — Folk Moral Narrative</b>
+</a>
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/books/antaryatra.html">
+<b>Antaryātrā — Poetry & Reflective Literary Work</b>
+</a>
+</li>
+
+</ul>
+
+<hr>
+
+<!-- ================= WIKI ================= -->
+
+<div style="background-color:#f0f7ff; padding:22px; border-radius:8px; border:1px solid #d0e2ff; margin:35px 0;">
+
+<h2 style="margin-top:0; color:#0056b3;">📖 Technical Research Documentation</h2>
+
+<p>
+For detailed methodological documentation and extended scholarly resources, please visit the official project Wiki:
+</p>
+
+<ul style="line-height:1.9;">
+
+<li>
+<a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki" target="_blank">
+<b>Research Wiki Home</b>
+</a>
+</li>
+
+<li>
+<a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Pingala-Shastra-Methodology-in-Haryanvi-Ragni" target="_blank">
+<b>Pingala Shastra Methodology</b>
+</a>
+</li>
+
+<li>
+<a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Bibliography%E2%80%90and%E2%80%90Research" target="_blank">
+<b>Bibliography & Research Index</b>
+</a>
+</li>
+
+<li>
+<a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Glossary%E2%80%90of%E2%80%90Haryanvi%E2%80%90Prosodic%E2%80%90Terms" target="_blank">
+<b>Glossary of Haryanvi Prosodic Terms</b>
+</a>
+</li>
+
+</ul>
+
+</div>
+
+<!-- ================= MEDIUM ESSAYS ================= -->
+
+<hr style="border:2px solid #eee; margin:40px 0;">
+
+<div class="medium-essays-section">
+
+<h2>📝 Scholarly Commentary & Literary Essays</h2>
+
+<p>
+Supplementary scholarly essays and literary commentary authored by Anand Kumar Ashodhiya:
+</p>
+
+<ul style="line-height:1.9;">
+
+<li>
+<a href="https://medium.com/@ashodhiya68/structural-continuity-and-thematic-development-in-adharajan-ragnis-e2a5340225e8" target="_blank">
+<b>Structural Continuity and Thematic Development in Adharajan Ragnis</b>
+</a>
+</li>
+
+<li>
+<a href="https://medium.com/@ashodhiya68/climactic-resolution-and-metrical-closure-in-heer-ranjha-ragnis-b0e370f31165" target="_blank">
+<b>Climactic Resolution and Metrical Closure in Heer–Ranjha Ragnis</b>
+</a>
+</li>
+
+<li>
+<a href="https://medium.com/@ashodhiya68/expanding-narrative-complexity-in-heer-ranjha-a-prosodic-perspective-f4789340e755" target="_blank">
+<b>Expanding Narrative Complexity in Heer–Ranjha</b>
+</a>
+</li>
+
+<li>
+<a href="https://medium.com/@ashodhiya68/narrative-ethics-and-prosodic-form-in-bhagat-puranmal-ragnis-8e4393c4845b" target="_blank">
+<b>Narrative Ethics and Prosodic Form in Bhagat Puranmal</b>
+</a>
+</li>
+
+<li>
+<a href="https://medium.com/@ashodhiya68/reframing-haryanvi-ragni-through-pingal-prosody-insights-from-adharajan-d20e74b00145" target="_blank">
+<b>Reframing Haryanvi Ragni Through Pingal Prosody</b>
+</a>
+</li>
+
+<li>
+<a href="https://medium.com/@ashodhiya68/metrical-discipline-in-heer-ranjha-ragnis-a-pingal-based-reading-b8d594785db4" target="_blank">
+<b>Metrical Discipline in Heer–Ranjha Ragnis</b>
+</a>
+</li>
+
+</ul>
+
+</div>
+
+<hr>
+
+<p>
+🌍 <b>WorldCat Catalog:</b>
+<a href="https://search.worldcat.org/lists/e6a2d641-2e18-4299-aaff-7697fd62c8b1" target="_blank">
+The Complete Works of Anand Kumar Ashodhiya
+</a>
+</p>
+
+<!-- ================= SCHEMA ================= -->
+
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@graph":[
+
+{
+"@type":"CollectionPage",
+"name":"Citations and Academic Impact",
+"url":"https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/citations.html",
+"description":"Official scholarly citations and academic impact page for the research works of Anand Kumar Ashodhiya.",
+"inLanguage":"en"
+},
+
+{
+"@type":"Person",
+"name":"Anand Kumar Ashodhiya",
+"alternateName":[
+"आनन्द कुमार आशोधिया",
+"Kavi Anand Shahpur"
+],
+"url":"https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
+"jobTitle":"Author, Poet, Researcher, Cultural Envoy",
+"sameAs":[
+"https://orcid.org/0009-0005-1592-0592",
+"https://scholar.google.com/citations?user=mO9WCuIAAAAJ",
+"https://isni.org/isni/0000000530187854",
+"https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285"
+]
+},
+
+{
+"@type":"CreativeWork",
+"name":"Research Corpus on Haryanvi Ragni and Pingal Shastra",
+"creator":{
+"@type":"Person",
+"name":"Anand Kumar Ashodhiya"
+},
+"keywords":[
+"Haryanvi Ragni",
+"Pingal Shastra",
+"Indian Folk Literature",
+"Saang Tradition",
+"Prosody",
+"Oral Literature"
+]
+}
+
+]
+}
+</script>
 
 {% include footer.html %}
