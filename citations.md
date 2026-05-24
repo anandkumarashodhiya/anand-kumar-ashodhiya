@@ -355,6 +355,88 @@ View Research Article
 
 <hr>
 
+<!-- ================= AVIKAVANI Contemporary Haryanvi Ragni Studies Series (2026) ================= -->
+
+<h2>🔹 AVIKAVANI Contemporary Haryanvi Ragni Studies Series (2026)</h2>
+
+<div style="margin-bottom:28px;">
+
+<h3>1. War, Viraha, Folk Feminine Consciousness and Pingal Poetics in Contemporary Haryanvi Ragni Tradition</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20355987" target="_blank">
+https://doi.org/10.5281/zenodo.20355987
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Haryanvi Ragni, Pingal Shastra, Saang Tradition, Oral Literature, Folk Performance, Viraha, Veer Rasa, Feminist Folklore, Military Folk Culture, Cultural Semiotics, North Indian Folk Poetics, Regional Knowledge Systems, Oral Epistemology
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/war-viraha-folk-feminine-consciousness.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>1. Cultural Transition, Ecological Anxiety, and Digital Alienation in Contemporary Haryanvi Ragni Traditionon</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20355802" target="_blank">
+https://doi.org/10.5281/zenodo.20355802
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Haryanvi Ragni, Saang Tradition, Pingal Shastra, Folk Performance, Oral Tradition, Ecological Humanities, Digital Sociology, Cultural Memory, Folk Prosody, Cultural Transition, Regional Epistemology
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/cultural-transition-ecological-anxiety.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>1. Pedagogical Memorials, Vedantic Consciousness and Ethical Selfhood in Contemporary Haryanvi Ragni Tradition</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20355419" target="_blank">
+https://doi.org/10.5281/zenodo.20355419
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Haryanvi Ragni, Saang-Shaili, Pingal Shastra, Oral Tradition, Folk Performance, Cultural Memory, Folk Hermeneutics, North Indian Oral Literature, Vernacular Philosophy, Oral Poetics, Ethical Selfhood
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/pedagogical-memorials-vedantic-consciousness.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
 <!-- ================= AVIKAVANI SERIES ================= -->
 
 <div style="background:#fff6f2; border:1px solid #f0c7b5; border-radius:10px; padding:24px; margin:35px 0;">
