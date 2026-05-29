@@ -1,10 +1,5 @@
-```html
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <meta property="og:locale" content="en_IN">
 <meta name="theme-color" content="#ffffff">
-<meta name="generator" content="Anand Kumar Ashodhiya Official Site">
 
 <!-- ================= SEARCH ENGINE THUMBNAILS ================= -->
 <meta name="thumbnail" content="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/og-image.jpg">
@@ -44,6 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     allImages.forEach(function(img) {
 
+        // Keep top profile image eager-loaded
         if (!img.src.includes("anand-kumar-ashodhiya-profile-photo.jpg")) {
             img.setAttribute("loading", "lazy");
         }
@@ -52,4 +48,4 @@ document.addEventListener("DOMContentLoaded", function() {
 
 });
 </script>
-```
+
