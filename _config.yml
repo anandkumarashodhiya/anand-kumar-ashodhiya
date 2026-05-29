@@ -1,11 +1,11 @@
 theme: jekyll-theme-architect
 
-title: "Anand Kumar Ashodhiya – Author, Poet, Researcher & Cultural Envoy | Official Biography"
+title: "Anand Kumar Ashodhiya"
 
 name: "Anand Kumar Ashodhiya"
 
 author:
-name: "Anand Kumar Ashodhiya"
+  name: "Anand Kumar Ashodhiya"
 
 generator: "Anand Kumar Ashodhiya Official Site"
 
@@ -28,29 +28,25 @@ show_downloads: false
 markdown: kramdown
 
 kramdown:
-input: GFM
-syntax_highlighter_opts:
-disable: true
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
 
 plugins:
-
-- jekyll-sitemap
-- jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 jekyll-sitemap:
-lastmod: true
+  lastmod: true
 
 include:
-
-- articles
-- articles/*.pdf
-- google36447f783b790ee1.html
-
+  - articles
+  - articles/*.pdf
+  - google36447f783b790ee1.html
 
 exclude:
-
-- LICENSE
-- README.md
-- Gemfile
-- Gemfile.lock
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
