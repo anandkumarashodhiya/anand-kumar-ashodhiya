@@ -1,51 +1,83 @@
+```yaml
 theme: jekyll-theme-architect
 
-title: Anand Kumar Ashodhiya
-name: Anand Kumar Ashodhiya
+title: "Anand Kumar Ashodhiya – Author, Poet, Researcher & Cultural Envoy | Official Biography"
+
+name: "Anand Kumar Ashodhiya"
+
+author:
+  name: "Anand Kumar Ashodhiya"
+
 generator: "Anand Kumar Ashodhiya Official Site"
 
-description: "Official profile of Anand Kumar Ashodhiya – author, poet, and researcher specializing in Haryanvi Ragni, Pingal Shastra, and Indian folk literature."
+description: "Official website of Anand Kumar Ashodhiya, author, researcher and independent scholar of Haryanvi Ragni, Pingal Shastra, Indian folk poetics, oral traditions and North Indian performance literature."
 
 tagline: "Author, Poet, Researcher & Cultural Envoy"
 
+logo: "/anand-kumar-ashodhiya-profile-photo.jpg"
+
 url: "https://anandkumarashodhiya.github.io"
+
 baseurl: "/anand-kumar-ashodhiya"
 
 timezone: Asia/Kolkata
+
 lang: en-IN
 
 show_downloads: false
 
 markdown: kramdown
 
-# ================= KRAMDOWN =================
+# =========================
+# KRAMDOWN
+# =========================
 
 kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable: true
 
-# ================= PLUGINS =================
+# =========================
+# PLUGINS
+# =========================
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
-# ================= SITEMAP =================
+# =========================
+# SEO / SOCIAL
+# =========================
+
+twitter:
+  card: summary_large_image
+
+social:
+  name: "Anand Kumar Ashodhiya"
+
+# =========================
+# SITEMAP
+# =========================
 
 jekyll-sitemap:
   lastmod: true
 
-# ================= INCLUDE =================
+# =========================
+# INCLUDE
+# =========================
 
 include:
   - articles
   - articles/*.pdf
   - google36447f783b790ee1.html
 
-# ================= EXCLUDE =================
+# =========================
+# EXCLUDE
+# =========================
 
 exclude:
   - LICENSE
   - README.md
   - Gemfile
   - Gemfile.lock
+```
