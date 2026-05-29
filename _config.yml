@@ -42,13 +42,15 @@ lastmod: true
 
 include:
 
-* articles
-* articles/*.pdf
-* google36447f783b790ee1.html
+- articles
+- articles/*.pdf
+- google36447f783b790ee1.html
+
 
 exclude:
 
-* LICENSE
-* README.md
-* Gemfile
-* Gemfile.lock
+- LICENSE
+- README.md
+- Gemfile
+- Gemfile.lock
+
