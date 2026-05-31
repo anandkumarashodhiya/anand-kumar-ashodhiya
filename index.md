@@ -184,6 +184,20 @@ JETIR, Vol. 13, Issue 5 (2026)
 </a><br>
 IJCRT, Vol. 14, Issue 5 (2026)
 </li>
+
+<li>
+<a href="{{ site.baseurl }}/articles/social-resistance-ethical-consciousness.html">
+<b>Social Resistance, Ethical Consciousness and Pingal Prosody in Contemporary Haryanvi Ragni</b>
+</a><br>
+IJIRT, Vol. 12, Issue 12 (2026)
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/articles/feminine-trauma-cultural-resistance.html">
+<b>Feminine Trauma, Cultural Resistance, and Pingal-Structured Social Consciousness in Contemporary Haryanvi Ragni Tradition</b>
+</a><br>
+SPIJSH, Vol. 3, Issue 5 (2026)
+</li>
 </ul>
 
 <p>
