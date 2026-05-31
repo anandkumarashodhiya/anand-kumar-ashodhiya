@@ -2,7 +2,7 @@
 layout: default
 title: "Anand Kumar Ashodhiya – Author, Poet, Researcher & Cultural Envoy"
 description: "Official website of Anand Kumar Ashodhiya, author, researcher and independent scholar of Haryanvi Ragni, Pingal Shastra, Indian folk poetics, oral traditions and North Indian performance literature."
-last_modified_at: 2026-05-24
+last_modified_at: 2026-05-31
 ---
 
 {% include profile-header.html %}
@@ -237,6 +237,18 @@ War, Viraha, Folk Feminine Consciousness and Pingal Poetics in Contemporary Hary
 <li>
 <a href="{{ site.baseurl }}/articles/pedagogical-memorials-vedantic-consciousness.html">
 Pedagogical Memorials, Vedantic Consciousness and Ethical Selfhood in Contemporary Haryanvi Ragni Tradition
+</a>
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/articles/social-resistance-ethical-consciousness.html">
+Social Resistance, Ethical Consciousness and Pingal Prosody in Contemporary Haryanvi Ragni
+</a>
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/articles/feminine-trauma-cultural-resistance.html">
+Feminine Trauma, Cultural Resistance, and Pingal-Structured Social Consciousness in Contemporary Haryanvi Ragni Tradition
 </a>
 </li>
 </ul>
