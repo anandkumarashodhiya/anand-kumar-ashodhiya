@@ -3,7 +3,7 @@ layout: default
 title: "Citations & Academic Impact | Anand Kumar Ashodhiya"
 description: "Official citations, DOI-indexed publications, scholarly indexing, and academic impact of Anand Kumar Ashodhiya’s research on Haryanvi Ragni, Pingal Shastra, and Indian folk literary traditions."
 permalink: /citations.html
-last_modified_at: 2026-05-24
+last_modified_at: 2026-06-01
 ---
 
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/citations.html">
@@ -33,8 +33,8 @@ The research programme focuses on <b>Haryanvi Ragni tradition</b>, <b>Pingal Sha
 <h2 style="margin-top:0;">📈 Scholarly Impact Overview</h2>
 
 <ul style="line-height:1.9;">
-<li><b>Total Peer-Reviewed Research Papers:</b> 13</li>
-<li><b>DOI-Indexed Publications:</b> 13</li>
+<li><b>Total Peer-Reviewed Research Papers:</b> 15</li>
+<li><b>DOI-Indexed Publications:</b> 15</li>
 <li><b>Research Languages:</b> Hindi & English</li>
 <li><b>Primary Research Area:</b> Haryanvi Ragni Literature & Pingal Shastra</li>
 <li><b>Core Research Domains:</b> Folk Literature, Oral Traditions, Saang-Shaili, Pingal Prosody, Cultural Studies</li>
@@ -429,6 +429,58 @@ https://doi.org/10.5281/zenodo.20355419
 <p>
 <b>Article Page:</b><br>
 <a href="{{ site.baseurl }}/articles/pedagogical-memorials-vedantic-consciousness.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>1. Social Resistance, Ethical Consciousness and Pingal Prosody in Contemporary Haryanvi Ragni</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20411315" target="_blank">
+https://doi.org/10.5281/zenodo.20411315
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Cultural Semiotics, Folk Aesthetics, Folk Performance, Folk Prosody, Haryanvi Ragni, Institutional Critique, North Indian Folk Poetics, Oral Epistemology, Oral Tradition, Pingal Shastra, Saang Tradition, Social Resistance, Vernacular Ethics
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/social-resistance-ethical-consciousness.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>1. Feminine Trauma, Cultural Resistance, and Pingal-Structured Social Consciousness in Contemporary Haryanvi Ragni Tradition</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.70558/SPIJSH.2026.v3.i5.45755" target="_blank">
+https://zenodo.org/records/20412183
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Haryanvi Ragni, Pingal Shastra, Saang Tradition, Feminist Folk Discourse, Oral Tradition, Cultural Semiotics, Gendered Trauma, Folk Performance, Vernacular Ethics, North Indian Folk Poetics, Social Resistance
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/feminine-trauma-cultural-resistance.html">
 View Research Article
 </a>
 </p>
