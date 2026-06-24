@@ -2,7 +2,7 @@
 layout: default
 title: "Anand Kumar Ashodhiya – Author, Poet, Researcher & Cultural Envoy"
 description: "Official website of Anand Kumar Ashodhiya, author, researcher and independent scholar of Haryanvi Ragni, Pingal Shastra, Indian folk poetics, oral traditions and North Indian performance literature."
-last_modified_at: 2026-05-31
+last_modified_at: 2026-06-24
 ---
 
 {% include profile-header.html %}
@@ -92,6 +92,21 @@ last_modified_at: 2026-05-31
 "identifier": "https://doi.org/10.5281/zenodo.20355802",
 "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/articles/cultural-transition-ecological-anxiety.html"
 },
+,
+{
+"@type": "ScholarlyArticle",
+"name": "Cultural Anxiety and Ethical Selfhood in Contemporary Haryanvi Ragni Traditions",
+"author": {
+  "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#person"
+},
+"datePublished": "2026-06-10",
+"isPartOf": {
+  "@type": "Periodical",
+  "name": "The Academic: International Journal of Multidisciplinary Research"
+},
+"identifier": "https://doi.org/10.5281/zenodo.20583523",
+"url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/articles/cultural-anxiety-and-ethical-selfhood.html"
+},
 
 {
 "@type": "ScholarlyArticle",
@@ -160,7 +175,7 @@ The website functions as a continuously evolving research archive documenting pe
 <h3 style="margin-top:0;">📌 Featured Peer-Reviewed Research</h3>
 
 <p>
-Recent English-language research publications from the Avikavani corpus examine ecological anxiety, digital alienation, military folk consciousness, Viraha aesthetics, Vedantic ethics, oral epistemology and performative poetics within contemporary Haryanvi Ragni traditions.
+Recent English-language research publications from the Avikavani corpus examine ecological anxiety, digital alienation, military folk consciousness, Viraha aesthetics, feminine trauma, cultural resistance, cultural anxiety, ethical selfhood, vernacular ethics, oral epistemology and performative poetics within contemporary Haryanvi Ragni traditions.
 </p>
 
 <ul>
@@ -169,6 +184,13 @@ Recent English-language research publications from the Avikavani corpus examine 
 <b>Cultural Transition, Ecological Anxiety, and Digital Alienation in Contemporary Haryanvi Ragni Tradition</b>
 </a><br>
 IJRAR, Vol. 13, Issue 2 (2026)
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/articles/cultural-anxiety-and-ethical-selfhood.html">
+<b>Cultural Anxiety and Ethical Selfhood in Contemporary Haryanvi Ragni Traditions</b>
+</a><br>
+The Academic, Vol. 4, Issue 5 (2026)
 </li>
 
 <li>
@@ -225,6 +247,12 @@ The research corpus published on this website combines peer-reviewed literary cr
 <li>
 <a href="{{ site.baseurl }}/articles/cultural-transition-ecological-anxiety.html">
 Cultural Transition, Ecological Anxiety, and Digital Alienation in Contemporary Haryanvi Ragni Tradition
+</a>
+</li>
+
+<li>
+<a href="{{ site.baseurl }}/articles/cultural-anxiety-and-ethical-selfhood.html">
+Cultural Anxiety and Ethical Selfhood in Contemporary Haryanvi Ragni Traditions
 </a>
 </li>
 
@@ -292,6 +320,7 @@ Feminine Trauma, Cultural Resistance, and Pingal-Structured Social Consciousness
 <li>Oral Tradition & Folk Narratology</li>
 <li>Ecological Humanities</li>
 <li>Digital Sociology & Folk Modernity</li>
+<li>Cultural Anxiety & Ethical Selfhood Studies</li>
 <li>Feminist Folklore & Viraha Studies</li>
 <li>Vernacular Philosophy & Ethical Selfhood</li>
 <li>Cultural Semiotics & Regional Knowledge Systems</li>
