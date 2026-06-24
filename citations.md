@@ -3,7 +3,7 @@ layout: default
 title: "Citations & Academic Impact | Anand Kumar Ashodhiya"
 description: "Official citations, DOI-indexed publications, scholarly indexing, and academic impact of Anand Kumar Ashodhiya’s research on Haryanvi Ragni, Pingal Shastra, and Indian folk literary traditions."
 permalink: /citations.html
-last_modified_at: 2026-06-01
+last_modified_at: 2026-06-24
 ---
 
 <link rel="canonical" href="https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/citations.html">
@@ -33,8 +33,8 @@ The research programme focuses on <b>Haryanvi Ragni tradition</b>, <b>Pingal Sha
 <h2 style="margin-top:0;">📈 Scholarly Impact Overview</h2>
 
 <ul style="line-height:1.9;">
-<li><b>Total Peer-Reviewed Research Papers:</b> 15</li>
-<li><b>DOI-Indexed Publications:</b> 15</li>
+<li><b>Total Peer-Reviewed Research Papers:</b> 16</li>
+<li><b>DOI-Indexed Publications:</b> 16</li>
 <li><b>Research Languages:</b> Hindi & English</li>
 <li><b>Primary Research Area:</b> Haryanvi Ragni Literature & Pingal Shastra</li>
 <li><b>Core Research Domains:</b> Folk Literature, Oral Traditions, Saang-Shaili, Pingal Prosody, Cultural Studies</li>
@@ -377,6 +377,32 @@ https://doi.org/10.5281/zenodo.20355987
 <p>
 <b>Article Page:</b><br>
 <a href="{{ site.baseurl }}/articles/war-viraha-folk-feminine-consciousness.html">
+View Research Article
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div style="margin-bottom:28px;">
+
+<h3>1. Cultural Anxiety and Ethical Selfhood in Contemporary Haryanvi Ragni Traditions</h3>
+
+<p>
+<b>DOI:</b><br>
+<a href="https://doi.org/10.5281/zenodo.20583523" target="_blank">
+https://doi.org/10.5281/zenodo.20583523
+</a>
+</p>
+
+<p>
+<b>Research Focus:</b> Haryanvi Ragni, Pingal Shastra, Saang Tradition, Oral Literature, Folk Performance, Viraha, Veer Rasa, Feminist Folklore, Military Folk Culture, Haryanvi Ragni, Pingal Shastra, Oral Tradition, Folk Performance, Vernacular Ethics, Cultural Anxiety, Haryanvi Saang, Folk Prosody
+</p>
+
+<p>
+<b>Article Page:</b><br>
+<a href="{{ site.baseurl }}/articles/cultural-anxiety-and-ethical-selfhood.html">
 View Research Article
 </a>
 </p>
