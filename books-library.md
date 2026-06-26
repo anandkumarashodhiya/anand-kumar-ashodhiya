@@ -216,7 +216,7 @@ A curated visual catalogue of published works by **Anand Kumar Ashodhiya**.
 <!-- 16 -->
 <div class="card">
 <a href="{{ site.baseurl }}/books/haryanvi-grammar.html">
-<img src="{{ site.baseurl }}/haryanvi-boli-se-bhasha-cover.jpg" alt="Haryanvi Grammar: A Standard & Authentic Manual">
+<img src="{{ site.baseurl }}/haryanvi-grammar-cover.jpg" alt="Haryanvi Grammar: A Standard & Authentic Manual">
 <div class="card-body">
 <h3>Haryanvi Grammar: A Standard & Authentic Manual</h3>
 </div>
