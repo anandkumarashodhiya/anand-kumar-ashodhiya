@@ -3,7 +3,7 @@ layout: default
 title: Published Works | Anand Kumar Ashodhiya
 description: "Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research on Haryanvi Ragni, Pingal Shastra, and Indian folklore."
 permalink: /books.html
-last_modified_at: 2026-05-20
+last_modified_at: 2026-06-26
 ---
 
 {% include profile-header.html %}
@@ -232,6 +232,15 @@ Genre/Form
 <td style="padding:10px;border:1px solid #ddd;text-align:center;">Linguistic Study</td>
 </tr>
 
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/haryanvi-boli-se-bhasha.html"><b>Haryanvi Grammar: A Standard & Authentic Manual</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Hindi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5916-493-9</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi Grammar</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -391,6 +400,14 @@ Most titles are available via **Avikavani Publishers** and can be found on **Goo
    ![Haryanvi Boli Se Bhasha Cover](haryanvi-boli-se-bhasha-cover.jpg)
    * **ISBN Proof:** ![Haryanvi Boli Se Bhasha ISBN](haryanvi-boli-se-bhasha-isbn.jpg) 
    * [Buy on Google](https://play.google.com/store/books/details?id=13DaEQAAQBAJ) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80-%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE-%E0%A4%A4%E0%A4%95-%E0%A4%95%E0%A4%BE-%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%88-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF/)
+
+### A Study of Linguistic Capacity & Socio Linguistic Works
+14. **हरयाणवी व्याकरण : मानक एवं प्रमाणिक नियमावलीय** (2026)
+   * ISBN: 9789359164939 | Publisher: Self Published by Anand Kumar Ashodhiya 
+   ![Haryanvi Grammar Cover](haryanvi-grammar-cover.jpg)
+   * **ISBN Proof:** ![Haryanvi Grammar ISBN](haryanvi-grammar-isbn.jpg) 
+   * [Buy on Google](https://play.google.com/store/books/details?id=PkrmEQAAQBAJ) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%BF%E0%A4%95-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80/)
+
 
 [**Back to Home**](index.html)
 
