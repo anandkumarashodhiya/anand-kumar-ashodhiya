@@ -3,7 +3,7 @@ layout: default
 title: Books by Anand Kumar Ashodhiya | Complete Bibliography
 description: "Explore the visual collection and cover gallery of published literary works of Anand Kumar Ashodhiya."
 permalink: /books-library.html
-last_modified_at: 2026-05-20
+last_modified_at: 2026-06-26
 ---
 
 {% include profile-header.html %}
@@ -209,6 +209,16 @@ A curated visual catalogue of published works by **Anand Kumar Ashodhiya**.
 <img src="{{ site.baseurl }}/haryanvi-boli-se-bhasha-cover.jpg" alt="Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya">
 <div class="card-body">
 <h3>Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya</h3>
+</div>
+</a>
+</div>
+
+<!-- 16 -->
+<div class="card">
+<a href="{{ site.baseurl }}/books/haryanvi-grammar.html">
+<img src="{{ site.baseurl }}/haryanvi-boli-se-bhasha-cover.jpg" alt="Haryanvi Grammar: A Standard & Authentic Manual">
+<div class="card-body">
+<h3>Haryanvi Grammar: A Standard & Authentic Manual</h3>
 </div>
 </a>
 </div>
