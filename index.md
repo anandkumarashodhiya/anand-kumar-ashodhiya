@@ -92,7 +92,6 @@ last_modified_at: 2026-06-24
 "identifier": "https://doi.org/10.5281/zenodo.20355802",
 "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/articles/cultural-transition-ecological-anxiety.html"
 },
-,
 {
 "@type": "ScholarlyArticle",
 "name": "Cultural Anxiety and Ethical Selfhood in Contemporary Haryanvi Ragni Traditions",
