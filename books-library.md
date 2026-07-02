@@ -3,7 +3,7 @@ layout: default
 title: Books by Anand Kumar Ashodhiya | Complete Bibliography
 description: "Explore the visual collection and cover gallery of published literary works of Anand Kumar Ashodhiya."
 permalink: /books-library.html
-last_modified_at: 2026-06-26
+last_modified_at: 2026-07-02
 ---
 
 {% include profile-header.html %}
@@ -219,6 +219,16 @@ A curated visual catalogue of published works by **Anand Kumar Ashodhiya**.
 <img src="{{ site.baseurl }}/haryanvi-grammar-cover.jpg" alt="Haryanvi Grammar: A Standard & Authentic Manual">
 <div class="card-body">
 <h3>Haryanvi Grammar: A Standard & Authentic Manual</h3>
+</div>
+</a>
+</div>
+
+<!-- 17 -->
+<div class="card">
+<a href="{{ site.baseurl }}/books/haryanvi-idioms.html">
+<img src="{{ site.baseurl }}/haryanvi-idioms-cover.jpg" alt="Haryanvi Idioms & Phrases">
+<div class="card-body">
+<h3>Haryanvi Idioms & Phrases</h3>
 </div>
 </a>
 </div>
