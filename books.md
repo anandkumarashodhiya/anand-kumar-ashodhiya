@@ -3,7 +3,7 @@ layout: default
 title: Published Works | Anand Kumar Ashodhiya
 description: "Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research on Haryanvi Ragni, Pingal Shastra, and Indian folklore."
 permalink: /books.html
-last_modified_at: 2026-06-26
+last_modified_at: 2026-07-02
 ---
 
 {% include profile-header.html %}
@@ -241,6 +241,15 @@ Genre/Form
 <td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi Grammar</td>
 </tr>
 
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/haryanvi-grammar.html"><b>Haryanvi Idioms & Proverbs</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Hindi</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5996-886-5</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi Idioms & Proverbs</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -408,6 +417,13 @@ Most titles are available via **Avikavani Publishers** and can be found on **Goo
    * **ISBN Proof:** ![Haryanvi Grammar ISBN](haryanvi-grammar-isbn.jpg) 
    * [Buy on Google](https://play.google.com/store/books/details?id=PkrmEQAAQBAJ) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%BF%E0%A4%95-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80/)
 
+
+### A Bilingual Descriptive Lexicon of Haryanvi Idioms, Proverbs, Sayings and Folk Expressions
+15. **हरयाणवी मुहावरे और लोकोक्तियाँ** (2026)
+   * ISBN: 9789359968865 | Publisher: Self Published by Anand Kumar Ashodhiya 
+   ![Haryanvi Grammar Cover](haryanvi-idioms-cover.jpg)
+   * **ISBN Proof:** ![Haryanvi Grammar ISBN](haryanvi-idioms-isbn.jpg) 
+   * [Buy on Google](https://play.google.com/store/books/details?id=ZJDvEQAAQBAJ) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80-%E0%A4%AE%E0%A5%81%E0%A4%B9%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A5%87-%E0%A4%94%E0%A4%B0-%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A5%8B%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81/)
 
 [**Back to Home**](index.html)
 
