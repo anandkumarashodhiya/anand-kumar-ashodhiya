@@ -243,7 +243,7 @@ Genre/Form
 
 <tr>
 <td style="padding:10px;border:1px solid #ddd;">
-<a href="books/haryanvi-grammar.html"><b>Haryanvi Idioms & Proverbs</b></a>
+<a href="books/haryanvi-idioms.html"><b>Haryanvi Idioms & Proverbs</b></a>
 </td>
 <td style="padding:10px;border:1px solid #ddd;text-align:center;">Hindi</td>
 <td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-5996-886-5</td>
