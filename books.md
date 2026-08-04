@@ -252,7 +252,7 @@ Genre/Form
 
 <tr>
 <td style="padding:10px;border:1px solid #ddd;">
-<a href="books/haryanvi-idioms.html"><b>Haryanvi Dictionary (Haryanvi–Hindi–English)</b></a>
+<a href="books/haryanvi-dictionary.html"><b>Haryanvi Dictionary (Haryanvi–Hindi–English)</b></a>
 </td>
 <td style="padding:10px;border:1px solid #ddd;text-align:center;">Hindi</td>
 <td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-6013-896-7</td>
