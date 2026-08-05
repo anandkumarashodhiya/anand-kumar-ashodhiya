@@ -3,7 +3,7 @@ layout: default
 title: Books by Anand Kumar Ashodhiya | Complete Bibliography
 description: "Explore the visual collection and cover gallery of published literary works of Anand Kumar Ashodhiya."
 permalink: /books-library.html
-last_modified_at: 2026-07-02
+last_modified_at: 2026-08-05
 ---
 
 {% include profile-header.html %}
@@ -232,6 +232,17 @@ A curated visual catalogue of published works by **Anand Kumar Ashodhiya**.
 </div>
 </a>
 </div>
+
+<!-- 18 -->
+<div class="card">
+<a href="{{ site.baseurl }}/books/haryanvi-dictionary.html">
+<img src="{{ site.baseurl }}/haryanvi-dictionary-cover.jpg" alt="Haryanvi Dictionary (Haryanvi-Hindi-English)">
+<div class="card-body">
+<h3>Haryanvi Dictionary (Haryanvi-Hindi-English)</h3>
+</div>
+</a>
+</div>
+
 
 </div>
 
