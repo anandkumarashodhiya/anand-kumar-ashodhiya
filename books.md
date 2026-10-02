@@ -3,7 +3,7 @@ layout: default
 title: Published Works | Anand Kumar Ashodhiya
 description: "Complete bibliography of Anand Kumar Ashodhiya including ISBN-listed books and peer-reviewed research on Haryanvi Ragni, Pingal Shastra, and Indian folklore."
 permalink: /books.html
-last_modified_at: 2026-08-04
+last_modified_at: 2026-10-02
 ---
 
 {% include profile-header.html %}
@@ -259,6 +259,15 @@ Genre/Form
 <td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi Dictionary (Haryanvi–Hindi–English)</td>
 </tr>
 
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">
+<a href="books/haryanvi-dictionary.html"><b>Haryanvi Ragni Scholarly Digital Corpus (HRSDC) (Haryanvi–English)</b></a>
+</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">English</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-345-0651-8</td>
+<td style="padding:10px;border:1px solid #ddd;text-align:center;">Haryanvi Ragni Scholarly Digital Corpus (HRSDC) (Haryanvi–English)</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -440,6 +449,14 @@ Most titles are available via **Avikavani Publishers** and can be found on **Goo
    ![Haryanvi Dictionary Cover](haryanvi-dictionary-cover.jpg)
    * **ISBN Proof:** ![Haryanvi Dictionary ISBN](haryanvi-dictionary-isbn.jpg) 
    * [Buy on Amazon](https://www.amazon.in/s?k=9789360138967&tag=namyapress05-21) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80-%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A4%95%E0%A5%8B%E0%A4%B6-%E0%A4%B9%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%80%E2%80%93%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80%E2%80%93%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%80/)
+
+### Traditional Heritage, Contemporary Voices and Literary English Translations (HRSDC) - A Bilingual Scholarly Anthology of Haryanvi Ragni
+
+18. **HARYANVI RAGNI SCHOLARLY DIGITAL CORPUS (HRSDC)** (2026)
+   * ISBN: 9789334506518 | Publisher: Self Published by Anand Kumar Ashodhiya 
+   ![Haryanvi Ragni_Scholarly_Digital_Corpus Cover](haryanvi-ragni_scholarly_digital_corpus_cover.jpg)
+   * **ISBN Proof:** ![Haryanvi Dictionary ISBN](haryanvi-ragni_scholarly_digital_corpus_isbn.jpg) 
+   * [Buy on Amazon](https://www.amazon.com/dp/9334506512) | [Buy on Pothi](https://store.pothi.com/book/anand-kumar-ashodhiya-haryanvi-ragni-scholarly-digital-corpus-hrsdc/)
 
 [**Back to Home**](index.html)
 
