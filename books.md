@@ -261,7 +261,7 @@ Genre/Form
 
 <tr>
 <td style="padding:10px;border:1px solid #ddd;">
-<a href="books/haryanvi-dictionary.html"><b>Haryanvi Ragni Scholarly Digital Corpus (HRSDC) (Haryanvi–English)</b></a>
+<a href="books/haryanvi-ragni-scholarly-digital-corpus.html"><b>Haryanvi Ragni Scholarly Digital Corpus (HRSDC) (Haryanvi–English)</b></a>
 </td>
 <td style="padding:10px;border:1px solid #ddd;text-align:center;">English</td>
 <td style="padding:10px;border:1px solid #ddd;text-align:center;white-space:nowrap;font-family:monospace;font-size:13px;">978-93-345-0651-8</td>
