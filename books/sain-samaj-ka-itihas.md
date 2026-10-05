@@ -143,7 +143,7 @@ Ashodhiya, Anand Kumar. (2023). *Sain Samaj Ka Gauravshali Itihas*. Self-publish
   publisher = {Self-published},
   isbn      = {978-93-5655-031-5},
   language  = {Hindi},
-  url       = {{ page.url | absolute_url }}
+  url       = { {{ page.url | absolute_url }} }
 }</code></pre>
 
 ## संबंधित शोध प्रकाशन
