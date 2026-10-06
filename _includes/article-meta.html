@@ -1,9 +1,10 @@
 {%- assign c = page.citation -%}
+{%- assign img = page.image | default: '/og-image.jpg' -%}
 {%- if c -%}
 <!-- Google Scholar Meta Tags -->
 <meta name="citation_title" content="{{ c.title | escape }}">
 <meta name="citation_author" content="{{ site.author.name | default: 'Anand Kumar Ashodhiya' | escape }}">
-<meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
+<meta name="citation_publication_date" content="{{ c.published | date: '%Y/%m/%d' }}">
 <meta name="citation_journal_title" content="{{ c.journal | escape }}">
 <meta name="citation_volume" content="{{ c.volume }}">
 <meta name="citation_issue" content="{{ c.issue }}">
@@ -12,10 +13,10 @@
 <meta name="citation_language" content="{{ c.language | default: 'hi' }}">
 <meta name="citation_abstract_html_url" content="{{ page.url | absolute_url }}">
 <meta name="citation_pdf_url" content="{{ c.pdf | absolute_url }}">
-{%- if c.issn != blank %}
+{%- if c.issn.size > 0 %}
 <meta name="citation_issn" content="{{ c.issn }}">
 {%- endif %}
-{%- if c.doi != blank %}
+{%- if c.doi.size > 0 %}
 <meta name="citation_doi" content="{{ c.doi }}">
 {%- endif %}
 {%- for k in c.keywords %}
@@ -33,10 +34,11 @@
   "name": {{ c.title | jsonify }},
   "headline": {{ c.short_title | default: c.title | jsonify }},
   "description": {{ page.description | jsonify }},
+  "image": "{{ img | absolute_url }}",
   "inLanguage": {{ c.language | default: "hi" | jsonify }},
   "keywords": {{ c.keywords | join: ", " | jsonify }},
-  "datePublished": "{{ page.date | date: '%Y-%m-%d' }}",
-  "dateModified": "{{ page.last_modified_at | default: page.date | date: '%Y-%m-%d' }}",
+  "datePublished": "{{ c.published | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: c.published | date_to_xmlschema }}",
   "author": { "@id": "{{ '/' | absolute_url }}#person" },
   "pageStart": "{{ c.firstpage }}",
   "pageEnd": "{{ c.lastpage }}",
@@ -54,7 +56,7 @@
       "isPartOf": {
         "@type": "Periodical",
         "name": {{ c.journal | jsonify }}
-        {%- if c.issn != blank %},
+        {%- if c.issn.size > 0 %},
         "issn": "{{ c.issn }}"
         {%- endif %}
       }
@@ -65,10 +67,10 @@
     "encodingFormat": "application/pdf",
     "contentUrl": "{{ c.pdf | absolute_url }}"
   }
-  {%- if c.book != blank %},
+  {%- if c.book.size > 0 %},
   "isBasedOn": { "@id": "{{ c.book | absolute_url }}#book" }
   {%- endif %}
-  {%- if c.doi != blank %},
+  {%- if c.doi.size > 0 %},
   "sameAs": "https://doi.org/{{ c.doi }}"
   {%- endif %}
 }
