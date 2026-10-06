@@ -3,7 +3,7 @@ layout: default
 title: "Adharajan (Ragini 1–8): Pingal Prosody Research Article"
 description: "Analytical study of Adharajan Ragini 1–8 in the Haryanvi Saang tradition through Pingal Shastra, narrative poetics and folk-cultural discourse. IJCRT 14(4), 2026."
 permalink: /articles/adharajan-1-8.html
-date: 2026-04-29
+image: /og-image.jpg
 last_modified_at: 2026-10-06
 citation:
   title: "Adharajan ki Haryanvi Saang-Shaili Raginian: Pingal Shastra evam Lok-Sanskritik Pariprekshya mein ek Vishleshanatmak Adhyayan (Ragini 1–8 ke Sandarbh mein)"
@@ -14,12 +14,13 @@ citation:
   issn: "2320-2882"
   volume: 14
   issue: 4
+  published: 2026-04-29
   firstpage: 683
   lastpage: 691
   language: hi
   pdf: /articles/adharajan-1-8.pdf
   book: /books/adhirajan-edition-2.html
-  doi: ""
+  doi: "10.5281/zenodo.20079163"
   keywords:
     - Haryanvi Folk Poetry
     - Ragni Tradition
@@ -49,9 +50,10 @@ The study is based on the book [Adhirājan (Edition II) — Haryanvi Folk Epic](
 |---|---|
 | **Author** | Anand Kumar Ashodhiya |
 | **Journal** | {{ page.citation.journal }} ({{ page.citation.journal_abbr }}) |
-| **Volume / Issue / Year** | Volume {{ page.citation.volume }}, Issue {{ page.citation.issue }} ({{ page.date | date: "%Y" }}) |
+| **Volume / Issue / Year** | Volume {{ page.citation.volume }}, Issue {{ page.citation.issue }} ({{ page.citation.published | date: "%Y" }}) |
 | **Pages** | {{ page.citation.firstpage }}–{{ page.citation.lastpage }} |
 | **ISSN** | {{ page.citation.issn }} |
+| **DOI** | [https://doi.org/{{ page.citation.doi }}](https://doi.org/{{ page.citation.doi }}){:target="_blank" rel="noopener noreferrer"} |
 | **Language of Full Paper** | Hindi (हिन्दी) |
 | **Full Text Format** | PDF (Open Access) |
 
@@ -69,7 +71,7 @@ This article is part of a broader research series on Haryanvi Ragni literature, 
 
 ## Suggested Citation
 
-Ashodhiya, A. K. ({{ page.date | date: "%Y" }}). *{{ page.citation.title }}*. {{ page.citation.journal }} ({{ page.citation.journal_abbr }}), {{ page.citation.volume }}({{ page.citation.issue }}), {{ page.citation.firstpage }}–{{ page.citation.lastpage }}.
+Ashodhiya, A. K. ({{ page.citation.published | date: "%Y" }}). *{{ page.citation.title }}*. {{ page.citation.journal }} ({{ page.citation.journal_abbr }}), {{ page.citation.volume }}({{ page.citation.issue }}), {{ page.citation.firstpage }}–{{ page.citation.lastpage }}. https://doi.org/{{ page.citation.doi }}
 
 <p><button type="button" id="copy-btn">Copy BibTeX</button> <span id="copy-status" role="status" aria-live="polite"></span></p>
 
@@ -80,9 +82,10 @@ Ashodhiya, A. K. ({{ page.date | date: "%Y" }}). *{{ page.citation.title }}*. {{
   volume    = { {{ page.citation.volume }} },
   number    = { {{ page.citation.issue }} },
   pages     = { {{ page.citation.firstpage }}--{{ page.citation.lastpage }} },
-  year      = { {{ page.date | date: "%Y" }} },
+  year      = { {{ page.citation.published | date: "%Y" }} },
   issn      = { {{ page.citation.issn }} },
-  url       = { {{ page.url | absolute_url }} }
+  doi       = { {{ page.citation.doi }} },
+  url       = { https://doi.org/{{ page.citation.doi }} }
 }</code></pre>
 
 ## Full Paper
