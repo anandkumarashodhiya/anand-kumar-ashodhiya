@@ -1,0 +1,76 @@
+{%- assign c = page.citation -%}
+{%- if c -%}
+<!-- Google Scholar Meta Tags -->
+<meta name="citation_title" content="{{ c.title | escape }}">
+<meta name="citation_author" content="{{ site.author.name | default: 'Anand Kumar Ashodhiya' | escape }}">
+<meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
+<meta name="citation_journal_title" content="{{ c.journal | escape }}">
+<meta name="citation_volume" content="{{ c.volume }}">
+<meta name="citation_issue" content="{{ c.issue }}">
+<meta name="citation_firstpage" content="{{ c.firstpage }}">
+<meta name="citation_lastpage" content="{{ c.lastpage }}">
+<meta name="citation_language" content="{{ c.language | default: 'hi' }}">
+<meta name="citation_abstract_html_url" content="{{ page.url | absolute_url }}">
+<meta name="citation_pdf_url" content="{{ c.pdf | absolute_url }}">
+{%- if c.issn != blank %}
+<meta name="citation_issn" content="{{ c.issn }}">
+{%- endif %}
+{%- if c.doi != blank %}
+<meta name="citation_doi" content="{{ c.doi }}">
+{%- endif %}
+{%- for k in c.keywords %}
+<meta name="citation_keywords" content="{{ k | escape }}">
+{%- endfor %}
+
+<!-- Schema.org ScholarlyArticle JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "{{ page.url | absolute_url }}#article",
+  "mainEntityOfPage": "{{ page.url | absolute_url }}",
+  "url": "{{ page.url | absolute_url }}",
+  "name": {{ c.title | jsonify }},
+  "headline": {{ c.short_title | default: c.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "inLanguage": {{ c.language | default: "hi" | jsonify }},
+  "keywords": {{ c.keywords | join: ", " | jsonify }},
+  "datePublished": "{{ page.date | date: '%Y-%m-%d' }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date: '%Y-%m-%d' }}",
+  "author": { "@id": "{{ '/' | absolute_url }}#person" },
+  "pageStart": "{{ c.firstpage }}",
+  "pageEnd": "{{ c.lastpage }}",
+  "pagination": "{{ c.firstpage }}-{{ c.lastpage }}",
+  "publisher": { 
+    "@type": "Organization", 
+    "name": {{ c.publisher | jsonify }} 
+  },
+  "isPartOf": {
+    "@type": "PublicationIssue",
+    "issueNumber": "{{ c.issue }}",
+    "isPartOf": {
+      "@type": "PublicationVolume",
+      "volumeNumber": "{{ c.volume }}",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": {{ c.journal | jsonify }}
+        {%- if c.issn != blank %},
+        "issn": "{{ c.issn }}"
+        {%- endif %}
+      }
+    }
+  },
+  "encoding": {
+    "@type": "MediaObject",
+    "encodingFormat": "application/pdf",
+    "contentUrl": "{{ c.pdf | absolute_url }}"
+  }
+  {%- if c.book != blank %},
+  "isBasedOn": { "@id": "{{ c.book | absolute_url }}#book" }
+  {%- endif %}
+  {%- if c.doi != blank %},
+  "sameAs": "https://doi.org/{{ c.doi }}"
+  {%- endif %}
+}
+</script>
+{%- endif -%}
