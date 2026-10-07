@@ -1,37 +1,37 @@
 ---
 layout: default
-title: "Bhagat Puranmal (Ragni 9–18): Bhakti, Ethical Resistance and Pingal Prosody"
-description: "Analytical study of Bhagat Puranmal Ragini 9–18 in the Haryanvi Ragni tradition focusing on spiritual transformation, moral conflict, and Pingal prosody. IJRAR 13(2), 2026."
-permalink: /articles/bhagat-puranmal-9-18.html
+title: "Adharajan (Ragini 9–16): Pingal Prosody Research Article"
+description: "Analytical study of Adharajan Ragini 9–16 in the Haryanvi Saang tradition through Pingal Shastra, narrative poetics, gendered agency and socio-cultural discourse. JETIR 13(4), 2026."
+permalink: /articles/adharajan-9-16.html
 image: /og-image.jpg
 last_modified_at: 2026-10-07
 citation:
-  title: "भक्ति, नैतिक प्रतिरोध और पिंगल छंद: हरियाणवी रागणी परंपरा में ‘किस्सा भगत पूरणमल’ का समालोचनात्मक अध्ययन (रागणी 9–18 के संदर्भ में)"
-  short_title: "किस्सा भगत पूरणमल: भक्ति, नैतिक प्रतिरोध और पिंगल छंद (रागणी 9–18)"
-  journal: "International Journal of Research and Analytical Reviews"
-  journal_abbr: "IJRAR"
-  publisher: "IJRAR"
-  issn: "2349-5138"
+  title: "Adharajan ki Haryanvi Saang-Shaili Raganian: Pingal Shastra evam Lok-Sanskritik Pariprekshya mein ek Vishleshanatmak Adhyayan (Ragni 9–16 ke Sandarbh mein)"
+  short_title: "Adharajan ki Haryanvi Saang-Shaili Raganian (Ragni 9–16)"
+  journal: "International Journal of Emerging Technologies and Innovative Research"
+  journal_abbr: "JETIR"
+  publisher: "IJ Publication"
+  issn: "2349-5162"
   volume: 13
-  issue: 2
-  published: 2026-04-20
-  firstpage: 173
-  lastpage: 181
-  paper_id: "IJRAR26B1789"
+  issue: 4
+  published: 2026-05-02
+  firstpage: k341
+  lastpage: k356
+  paper_id: "JETIR260A451"
   language: hi
-  pdf: /articles/bhagat-puranmal-9-18.pdf
-  book: /books/kissa-bhagat-puranmal.html
-  doi: "10.5281/zenodo.20082696"
+  pdf: /articles/adharajan-9-16.pdf
+  book: /books/adhirajan-edition-2.html
+  doi: "10.5281/zenodo.20081437"
   keywords:
-    - भक्ति
-    - भगत पूरणमल
-    - हरियाणवी रागनी
-    - पिंगल शास्त्र
-    - लोकसाहित्य
-    - छंद-विधान
-    - Spirituality
-    - Folk Ethics
-    - Devotional Performance Traditions
+    - Haryanvi Saang
+    - Ragni Tradition
+    - Pingal Prosody
+    - Folk Poetics
+    - Oral Performance
+    - Metrical Analysis
+    - Gender and Power
+    - Social Consciousness
+    - Folk Narrative Systems
 ---
 
 {% include profile-header.html %}
@@ -39,13 +39,13 @@ citation:
 {%- if doi contains "10.5281/zenodo" -%}{%- assign doi_label = "DOI (Zenodo archive)" -%}{%- else -%}{%- assign doi_label = "DOI (journal)" -%}{%- endif -%}
 {%- assign bib_slug = page.url | split: "/" | last | remove: ".html" | replace: "-", "_" -%}
 
-# भक्ति, नैतिक प्रतिरोध और पिंगल छंद: हरियाणवी रागणी परंपरा में ‘किस्सा भगत पूरणमल’ का समालोचनात्मक अध्ययन (रागणी 9–18 के संदर्भ में)
+# Adharajan ki Haryanvi Saang-Shaili Raganian: Pingal Shastra evam Lok-Sanskritik Pariprekshya mein ek Vishleshanatmak Adhyayan (Ragni 9–16 ke Sandarbh mein)
 
 **Author:** Anand Kumar Ashodhiya (कवि आनन्द शाहपुर)
 
-**Summary:** This research examines raginis 9–18 of the Bhagat Puranmal narrative, focusing on moral conflict, spiritual transformation, and prosodic discipline. It demonstrates the synthesis of folk narrative and classical Pingal metrics in shaping ethical discourse within Haryanvi performance traditions.
+**Summary:** This article analyzes the middle raginis (9–16) of the Adharajan narrative, focusing on the interplay of Pingal metrics, performative rhythm, and socio-political themes. It highlights evolving narrative intensity, female agency, and structural poetics within the Haryanvi Saang tradition.
 
-The study is based on the book [किस्सा भगत पूरणमल — हरयाणवी लोक रागनी संग्रह (समीक्षा सहित)]({{ page.citation.book | relative_url }}).
+The study is based on the book [Adhirājan (Edition II) — Haryanvi Folk Epic]({{ page.citation.book | relative_url }}).
 
 ## Article Details
 
@@ -56,30 +56,27 @@ The study is based on the book [किस्सा भगत पूरणमल 
 | **Volume / Issue / Year** | Volume {{ page.citation.volume }}, Issue {{ page.citation.issue }} ({{ page.citation.published | date: "%B %Y" }}) |
 | **Pages** | {{ page.citation.firstpage }}–{{ page.citation.lastpage }} |
 {%- if page.citation.issn.size > 0 %}
-| **eISSN / pISSN** | 2348-1269 / {{ page.citation.issn }} |
+| **ISSN** | {{ page.citation.issn }} |
 {%- endif %}
-| **Paper ID** | {{ page.citation.paper_id }} |
 {%- if doi.size > 0 %}
 | **{{ doi_label }}** | [https://doi.org/{{ doi }}](https://doi.org/{{ doi }}){:target="_blank" rel="noopener noreferrer"} |
 {%- endif %}
 | **Language of Full Paper** | {% if page.citation.language == "hi" %}Hindi (हिन्दी){% else %}English{% endif %} |
 | **Full Text Format** | PDF (Open Access) |
 
-## मुख्य शब्द / Keywords
+## Keywords
 
 {{ page.citation.keywords | join: ", " }}
 
-## सार (Abstract)
+## Abstract
 
-यह शोध-पत्र किस्सा भगत पूरणमल की रागणी 9–18 का हरियाणवी रागणी परंपरा के संदर्भ में समालोचनात्मक अध्ययन प्रस्तुत करता है। अध्ययन का उद्देश्य यह स्पष्ट करना है कि लोक-कथा, भक्ति, नैतिक संघर्ष, वैराग्य और सामाजिक उत्तरदायित्व जैसे तत्व रागणी के माध्यम से किस प्रकार एक सशक्त साहित्यिक और सांस्कृतिक अभिव्यक्ति का रूप ग्रहण करते हैं। विशेष रूप से पूरणमल के चरित्र-विकास को एक राजकुमार से संन्यासी और अंततः लोक-आध्यात्मिक आदर्श के रूप में विश्लेषित किया गया है।
+This study presents a focused analytical examination of the Haryanvi Saang-style Rāgaṇīs in the poetic work *Adharājan* by Anand Kumar Ashodhiya, interpreted through the dual frameworks of Pingal prosody and folk-cultural hermeneutics. Concentrating on Rāgaṇīs 9–16, the research explores how indigenous metrical structures, performative conventions, and socio-political narratives converge to generate a distinctive literary-oral aesthetic within North Indian folk traditions. Situated within the Haryanvi Saang tradition—a performative folk theatre integrating music, dialogue, and narrative—the study employs a qualitative, text-centric methodology to analyse *mātrā*-structure, *yati*-division, and *tukānt* patterns.
 
-यह अध्ययन गुणात्मक शोध-पद्धति पर आधारित है, जिसमें पाठ-विश्लेषण, सांस्कृतिक-आलोचनात्मक दृष्टिकोण तथा पिंगल एवं छंदात्मक विश्लेषण का समन्वित प्रयोग किया गया है। रागणी 9–18 के चयनित पदों और पंक्तियों का संदर्भानुसार अध्ययन करते हुए उनके कथात्मक, प्रतीकात्मक और भावात्मक आयामों की व्याख्या की गई है। साथ ही मात्रा-विन्यास, यति, तुकांत-योजना और ध्वनि-अलंकारों का विश्लेषण किया गया है।
-
-अध्ययन के निष्कर्ष यह दर्शाते हैं कि ये रागनियाँ केवल लोककथा का विस्तार नहीं हैं, बल्कि भक्ति, नैतिक प्रतिरोध, सामाजिक पुनर्संयोजन और सांस्कृतिक मूल्यों की जटिल संरचना को अभिव्यक्त करती हैं। पूरणमल का वैराग्य, सुंदरादे का समर्पण, इच्छरादे का मातृत्व और सुलेभान का पश्चाताप मिलकर एक ऐसे नैतिक तंत्र का निर्माण करते हैं, जिसमें व्यक्तिगत अनुभव सामूहिक चेतना से जुड़ जाते हैं। यह अध्ययन हरियाणवी रागणी परंपरा को एक संगठित साहित्यिक, सांस्कृतिक और छंदात्मक प्रणाली के रूप में स्थापित करता है।
+The findings reveal a flexible yet systematic adherence to Pingal principles, characterized by metrical ranges of 24–30 *mātrās* and dominant *yati* patterns such as 6+6+6+6 and 6+8+8+6. Unlike rigid classical metrics, these compositions demonstrate adaptive prosody aligned with performative delivery and audience engagement. Thematically, the selected Rāgaṇīs foreground the interplay of power, gender, morality, and राजनीति through historically inflected narratives. The character of Raskapoor exemplifies emergent female agency within feudal structures, while Krishna Kunwari and Fateh Kanwar articulate contrasting paradigms of sacrifice and सत्ता-संघर्ष. The study further highlights the role of refrain (*tek*) as a rhythmic and semantic anchor, alongside the use of *anuprāsa*, *rūpaka*, and layered imagery that enhance mnemonic retention and performative impact. It concludes that the Rāgaṇīs of *Adharājan* represent a dynamic confluence of classical prosody and folk poetics, functioning as repositories of cultural memory and contributing significantly to Indian literary, folkloric, and performance studies.
 
 ## Scholarly Context
 
-This article completes the two-part critical study of the Bhagat Puranmal cycle within the author's broader research on vernacular prosody and folk literature. Parallel investigations into *Heer–Ranjha* and *Adharajan* provide comparative paradigms for metric scansion, gendered resistance, and ethical selfhood in North Indian performance traditions.
+This article forms an integral part of the author's broader research series on Haryanvi Ragni literature, examined through the lens of Pingal Shastra and cultural poetics. Complementary studies on *Heer–Ranjha* and *Bhagat Puranmal* provide comparative insights into metric scansion, gendered resistance, and ethical selfhood in vernacular folk traditions.
 
 ## Suggested Citation
 
@@ -106,7 +103,7 @@ Ashodhiya, A. K. ({{ page.citation.published | date: "%Y" }}). *{{ page.citation
 
 ## Full Paper
 
-👉 **[Download Full Paper (PDF)]({{ page.citation.pdf | relative_url }})** *(Click to view or save the complete research paper)* | **[View on Journal (IJRAR)](http://ijrar.org/viewfull.php?&p_id={{ page.citation.paper_id }}){:target="_blank" rel="noopener noreferrer"}**
+👉 **[Download Full Paper (PDF)]({{ page.citation.pdf | relative_url }})** *(Click to view or save the complete research paper)* | **[View on Publisher (JETIR)](https://www.jetir.org/view?paper={{ page.citation.paper_id }}){:target="_blank" rel="noopener noreferrer"}**
 
 <div>
   <iframe src="{{ page.citation.pdf | relative_url }}" title="Full text PDF: {{ page.citation.short_title }}" width="100%" height="800" loading="lazy"></iframe>
@@ -114,15 +111,18 @@ Ashodhiya, A. K. ({{ page.citation.published | date: "%Y" }}). *{{ page.citation
 
 ## Related Research in this Series
 
-- [Bhagat Puranmal (Ragni 1–8)]({{ '/articles/bhagat-puranmal-1-8.html' | relative_url }}) — Bhakti, ethical resistance and narrative initiation
-- [Adharajan (Ragini 9–16)]({{ '/articles/adharajan-9-16.html' | relative_url }}) — Prosodic continuity and socio-political intensification
+- [Adharajan (Ragini 1–8)]({{ '/articles/adharajan-1-8.html' | relative_url }}) — Narrative initiation and Pingal prosody analysis
+- [Adharajan (Ragini 17–23)]({{ '/articles/adharajan-17-23.html' | relative_url }}) — Dramatic conflict and climax structuring
+- [Adharajan (Ragini 24–30)]({{ '/articles/adharajan-24-30.html' | relative_url }}) — Philosophical resolution and tragic closure
 - [Heer–Ranjha (Ragnis 8–16)]({{ '/articles/heer-ranjha-8-16.html' | relative_url }}) — Structural and cultural study in ragni tradition
+- [Bhagat Puranmal (Ragni 9–18)]({{ '/articles/bhagat-puranmal-9-18.html' | relative_url }}) — Renunciation, ethical trial, and spiritual symbolism
 
 ## Related Books
 
-- [किस्सा भगत पूरणमल — हरयाणवी लोक रागनी संग्रह]({{ page.citation.book | relative_url }})
-- [Adhirājan (Edition II)]({{ '/books/adhirajan-edition-2.html' | relative_url }})
+- [Adhirājan (Edition II)]({{ page.citation.book | relative_url }})
+- [Adhirājan (Edition I)]({{ '/books/adhirajan-edition-1.html' | relative_url }})
 - [Heer Ranjha — Haryanvi Ragni Collection]({{ '/books/heer-ranjha.html' | relative_url }})
+- [Kissa Bhagat Puranmal]({{ '/books/kissa-bhagat-puranmal.html' | relative_url }})
 
 ## Cited Research & Impact
 
