@@ -36,6 +36,9 @@ citation:
 ---
 
 {% include profile-header.html %}
+{%- assign doi = page.citation.doi -%}
+{%- if doi contains "10.5281/zenodo" -%}{%- assign doi_label = "DOI (Zenodo archive)" -%}{%- else -%}{%- assign doi_label = "DOI (journal)" -%}{%- endif -%}
+{%- assign bib_slug = page.url | split: "/" | last | remove: ".html" | replace: "-", "_" -%}
 
 # हीर-राँझा की हरियाणवी रागणी परंपरा: पिंगल शास्त्र के आलोक में एक सांस्कृतिक विश्लेषण (रागणी 17–22 के संदर्भ में)
 
@@ -53,9 +56,13 @@ The study is based on the book [हीर-राँझा — हरयाणव
 | **Journal** | {{ page.citation.journal }} ({{ page.citation.journal_abbr }}) |
 | **Volume / Issue / Year** | Volume {{ page.citation.volume }}, Issue {{ page.citation.issue }} ({{ page.citation.published | date: "%B %Y" }}) |
 | **Pages** | {{ page.citation.firstpage }}–{{ page.citation.lastpage }} |
+{%- if page.citation.issn.size > 0 %}
 | **ISSN** | {{ page.citation.issn }} |
-| **DOI** | [https://doi.org/{{ page.citation.doi }}](https://doi.org/{{ page.citation.doi }}){:target="_blank" rel="noopener noreferrer"} |
-| **Language of Full Paper** | Hindi (हिन्दी) |
+{%- endif %}
+{%- if doi.size > 0 %}
+| **{{ doi_label }}** | [https://doi.org/{{ doi }}](https://doi.org/{{ doi }}){:target="_blank" rel="noopener noreferrer"} |
+{%- endif %}
+| **Language of Full Paper** | {% if page.citation.language == "hi" %}Hindi (हिन्दी){% else %}English{% endif %} |
 | **Full Text Format** | PDF (Open Access) |
 
 ## मुख्य शब्द / Keywords
@@ -76,11 +83,11 @@ This article constitutes the third segment of the analytical tetralogy on the *H
 
 ## Suggested Citation
 
-Ashodhiya, A. K. ({{ page.citation.published | date: "%Y" }}). *{{ page.citation.title }}*. {{ page.citation.journal }} ({{ page.citation.journal_abbr }}), {{ page.citation.volume }}({{ page.citation.issue }}), {{ page.citation.firstpage }}–{{ page.citation.lastpage }}. https://doi.org/{{ page.citation.doi }}
+Ashodhiya, A. K. ({{ page.citation.published | date: "%Y" }}). *{{ page.citation.title }}*. {{ page.citation.journal }} ({{ page.citation.journal_abbr }}), {{ page.citation.volume }}({{ page.citation.issue }}), {{ page.citation.firstpage }}–{{ page.citation.lastpage }}.{% if doi.size > 0 %} https://doi.org/{{ doi }}{% endif %}
 
 <p><button type="button" id="copy-btn">Copy BibTeX</button> <span id="copy-status" role="status" aria-live="polite"></span></p>
 
-<pre><code id="bibtex-code">@article{ashodhiya2026heerranjha17_22,
+<pre><code id="bibtex-code">@article{ashodhiya{{ page.citation.published | date: "%Y" }}_{{ bib_slug }},
   title     = { {{ page.citation.title }} },
   author    = {Ashodhiya, Anand Kumar},
   journal   = { {{ page.citation.journal }} },
@@ -88,17 +95,21 @@ Ashodhiya, A. K. ({{ page.citation.published | date: "%Y" }}). *{{ page.citation
   number    = { {{ page.citation.issue }} },
   pages     = { {{ page.citation.firstpage }}--{{ page.citation.lastpage }} },
   year      = { {{ page.citation.published | date: "%Y" }} },
+{%- if page.citation.issn.size > 0 %}
   issn      = { {{ page.citation.issn }} },
-  doi       = { {{ page.citation.doi }} },
-  url       = { https://doi.org/{{ page.citation.doi }} }
+{%- endif %}
+{%- if doi.size > 0 %}
+  doi       = { {{ doi }} },
+  url       = { https://doi.org/{{ doi }} }
+{%- endif %}
 }</code></pre>
 
 ## Full Paper
 
 👉 **[Download Full Paper (PDF)]({{ page.citation.pdf | relative_url }})** *(Click to view or save the complete research paper)* | **[View on Zenodo](https://doi.org/{{ page.citation.doi }}){:target="_blank" rel="noopener noreferrer"}**
 
-<div style="margin: 20px 0;">
-  <iframe src="{{ page.citation.pdf | relative_url }}" title="Full text PDF: Heer–Ranjha (Ragnis 17–22)" width="100%" height="800" loading="lazy"></iframe>
+<div>
+  <iframe src="{{ page.citation.pdf | relative_url }}" title="Full text PDF: {{ page.citation.short_title }}" width="100%" height="800" loading="lazy"></iframe>
 </div>
 
 ## Related Research in this Series
