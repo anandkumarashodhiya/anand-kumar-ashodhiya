@@ -1,0 +1,63 @@
+- series: "Adharajan Research Series"
+  intro: "A critical examination of the Haryanvi Saang-Shaili Ragni corpus Adharajan through Pingal prosody, folk-performance aesthetics, oral narrative systems and socio-cultural interpretation."
+  items:
+    - slug: adharajan-1-8
+      title: "Adharajan ki Haryanvi Saang-Shaili Raginian (Ragini 1–8)"
+      summary: "Pingal Shastra and folk-cultural analytical study."
+    - slug: adharajan-9-16
+      title: "Adharajan ki Haryanvi Saang-Shaili Raginian (Ragini 9–16)"
+      summary: "Narrative continuity, thematic expansion and prosodic architecture."
+    - slug: adharajan-17-23
+      title: "Adharajan ki Haryanvi Saang-Shaili Raginian (Ragini 17–23)"
+      summary: "Advanced structural analysis of oral-performance and metrical systems."
+    - slug: adharajan-24-30
+      title: "Adharajan ki Haryanvi Saang-Shaili Raginian (Ragini 24–30)"
+      summary: "Late-stage narrative closure, oral rhythm and cultural symbolism."
+
+- series: "Heer–Ranjha Research Series"
+  intro: "An investigation of the Haryanvi Ragni adaptation of the Heer–Ranjha narrative through Pingal prosody, oral aesthetics, folk emotionality and cultural symbolism."
+  items:
+    - slug: heer-ranjha-1-7
+      title: "Heer–Ranjha (Ragnis 1–7)"
+      summary: "Foundational cultural and prosodic analysis of the narrative corpus."
+    - slug: heer-ranjha-8-16
+      title: "Heer–Ranjha (Ragnis 8–16)"
+      summary: "Expansion of narrative complexity through Pingal-based literary interpretation."
+    - slug: heer-ranjha-17-22
+      title: "Heer–Ranjha (Ragnis 17–22)"
+      summary: "Oral cadence, folk dramaturgy and performative emotional structure."
+    - slug: heer-ranjha-23-28
+      title: "Heer–Ranjha (Ragnis 23–28)"
+      summary: "Climactic resolution, metrical closure and symbolic narrative synthesis."
+
+- series: "Bhagat Puranmal Critical Studies"
+  intro: "Studies of the Bhagat Puranmal Ragni tradition through ethical criticism, devotional aesthetics, resistance discourse and Pingal Chhand systems."
+  items:
+    - slug: bhagat-puranmal-1-8
+      title: "Bhagat Puranmal (Ragni 1–8)"
+      summary: "Bhakti consciousness, moral resistance and Pingal-based poetic analysis."
+    - slug: bhagat-puranmal-9-18
+      title: "Bhagat Puranmal (Ragni 9–18)"
+      summary: "Narrative ethics, folk spirituality and oral-literary structure."
+
+- series: "AVIKAVANI: Contemporary Haryanvi Ragni Studies (2026)"
+  intro: "Studies of Vedantic consciousness, pedagogical memory, spiritual symbolism, ethical selfhood and philosophical discourse within Haryanvi folk-poetic traditions."
+  items:
+    - slug: pedagogical-memorials-vedantic-consciousness
+      title: "Pedagogical Memorials, Vedantic Consciousness and Ethical Selfhood in Contemporary Haryanvi Ragni Tradition"
+      summary: "Interdisciplinary study of guru-veneration, cultural memory, Vedantic ontology, performative spirituality, Bhakti aesthetics and oral philosophical discourse."
+    - slug: cultural-anxiety-and-ethical-selfhood
+      title: "Cultural Anxiety and Ethical Selfhood in Contemporary Haryanvi Ragni Traditions"
+      summary: "Haryanvi folk literature, Pingal Shastra, oral traditions, folk performance studies, rural cultural consciousness."
+    - slug: cultural-transition-ecological-anxiety
+      title: "Cultural Transition, Ecological Anxiety, and Digital Alienation in Contemporary Haryanvi Ragni Tradition"
+      summary: "Ecological humanities, digital sociology, cultural memory, folk prosody, cultural transition, regional epistemology."
+    - slug: war-viraha-folk-feminine-consciousness
+      title: "War, Viraha, Folk Feminine Consciousness and Pingal Poetics in Contemporary Haryanvi Ragni Tradition"
+      summary: "Viraha, Veer Rasa, feminist folklore, military folk culture, cultural semiotics, oral epistemology."
+    - slug: social-resistance-ethical-consciousness
+      title: "Social Resistance, Ethical Consciousness and Pingal Prosody in Contemporary Haryanvi Ragni Tradition"
+      summary: "Cultural semiotics, folk aesthetics, institutional critique, social resistance, vernacular ethics, oral epistemology."
+    - slug: feminine-trauma-cultural-resistance
+      title: "Feminine Trauma, Cultural Resistance, and Pingal-Structured Social Consciousness in Contemporary Haryanvi Ragni Tradition"
+      summary: "Feminist folk discourse, gendered trauma, cultural semiotics, vernacular ethics, social resistance."
