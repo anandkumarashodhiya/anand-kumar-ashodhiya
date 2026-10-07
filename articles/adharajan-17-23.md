@@ -4,7 +4,7 @@ title: "Adharajan (Ragini 17–23): Pingal Prosody Research Article"
 description: "Analytical study of Adharajan Ragini 17–23 in the Haryanvi Saang tradition through Pingal Shastra, oral performance, and folk-cultural perspectives. RRIJM 11(5), 2026."
 permalink: /articles/adharajan-17-23.html
 image: /og-image.jpg
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-07
 citation:
   title: "Adharajan’s Haryanvi Saang-Style Raginis: An Analytical Study in the Context of Pingal Prosody and Folk-Cultural Perspectives (With Reference to Raginis 17–23)"
   short_title: "Adharajan’s Haryanvi Saang-Style Raginis (Raginis 17–23)"
@@ -34,6 +34,9 @@ citation:
 ---
 
 {% include profile-header.html %}
+{%- assign doi = page.citation.doi -%}
+{%- if doi contains "10.5281/zenodo" -%}{%- assign doi_label = "DOI (Zenodo archive)" -%}{%- else -%}{%- assign doi_label = "DOI (journal)" -%}{%- endif -%}
+{%- assign bib_slug = page.url | split: "/" | last | remove: ".html" | replace: "-", "_" -%}
 
 # Adharajan’s Haryanvi Saang-Style Raginis: An Analytical Study in the Context of Pingal Prosody and Folk-Cultural Perspectives (With Reference to Raginis 17–23)
 
@@ -51,8 +54,12 @@ The study is based on the book [Adhirājan (Edition II) — Haryanvi Folk Epic](
 | **Journal** | {{ page.citation.journal }} ({{ page.citation.journal_abbr }}) |
 | **Volume / Issue / Year** | Volume {{ page.citation.volume }}, Issue {{ page.citation.issue }} ({{ page.citation.published | date: "%B %Y" }}) |
 | **Pages** | {{ page.citation.firstpage }}–{{ page.citation.lastpage }} |
+{%- if page.citation.issn.size > 0 %}
 | **ISSN** | {{ page.citation.issn }} |
-| **DOI** | [https://doi.org/{{ page.citation.doi }}](https://doi.org/{{ page.citation.doi }}){:target="_blank" rel="noopener noreferrer"} |
+{%- endif %}
+{%- if doi.size > 0 %}
+| **{{ doi_label }}** | [https://doi.org/{{ doi }}](https://doi.org/{{ doi }}){:target="_blank" rel="noopener noreferrer"} |
+{%- endif %}
 | **Language of Full Paper** | English / Hindi |
 | **Full Text Format** | PDF (Open Access) |
 
@@ -71,7 +78,7 @@ The role of refrain (*tek*) and popular melodic templates (*tarz*) is also exami
 
 ## सारांश (Hindi Summary)
 
-यह शोध-पत्र अधराजण की हरियाणवी सांग-शैली की रागणियों (17–23) का पिंगल शास्त्र तथा लोक-सास्कृतिक परिप्रेक्ष्य में विश्लेषण प्रस्तुत करता है। अध्ययन का उद्देश्य यह स्पष्ट करना है कि ये रागणियाँ शास्त्रीय छंद-विधान और लोक-परंपरागत अभिव्यक्ति के बीच एक सशक्त सेतु निर्मित करती हैं। गुणात्मक, पाठ-आधारित पद्धति के अंतर्गत निकट-पाठ और छंद-विश्लेषण के माध्यम से यह दर्शाया गया है कि मात्रा-विन्यास, यति-संरचना, तुकांत योजना और टेक की पुनरावृत्ति केवल काव्य-शिल्प तक सीमित नहीं रहती, बल्कि भाव-संप्रेषण, नाटकीयता और मंचीय प्रभाव के प्रमुख साधन बनती हैं।
+यह शोध-पत्र अधराजण की हरियाणवी सांग-शैली की रागणियों (17–23) का पिंगल शास्त्र तथा लोक-सांस्कृतिक परिप्रेक्ष्य में विश्लेषण प्रस्तुत करता है। अध्ययन का उद्देश्य यह स्पष्ट करना है कि ये रागणियाँ शास्त्रीय छंद-विधान और लोक-परंपरागत अभिव्यक्ति के बीच एक सशक्त सेतु निर्मित करती हैं। गुणात्मक, पाठ-आधारित पद्धति के अंतर्गत निकट-पाठ और छंद-विश्लेषण के माध्यम से यह दर्शाया गया है कि मात्रा-विन्यास, यति-संरचना, तुकांत योजना और टेक की पुनरावृत्ति केवल काव्य-शिल्प तक सीमित नहीं रहती, बल्कि भाव-संप्रेषण, नाटकीयता और मंचीय प्रभाव के प्रमुख साधन बनती हैं।
 
 लोकप्रिय तर्जों के प्रयोग से रचनाएँ श्रवण-सुलभ बनती हैं और दर्शक-भागीदारी को सुदृढ़ करती हैं। चयनित रागणियाँ, जिनका केंद्र रसकपूर का चरित्र है, प्रेम, षड्यंत्र, सत्ता और स्त्री-अस्मिता जैसे विषयों को संवादात्मक और एकालापीय विन्यास में प्रस्तुत करती हैं। राधा–केशव रूपक, दरबारी षड्यंत्र और कारावास जैसी स्थितियाँ कथ्य को बहुस्तरीय बनाते हुए मध्यकालीन सामंती मानसिकता और स्त्री-विमर्श के अंतर्संबंधों को उद्घाटित करती हैं।
 
@@ -81,11 +88,11 @@ This article forms an integral part of the author's continuing research series o
 
 ## Suggested Citation
 
-Ashodhiya, A. K. ({{ page.citation.published | date: "%Y" }}). *{{ page.citation.title }}*. {{ page.citation.journal }} ({{ page.citation.journal_abbr }}), {{ page.citation.volume }}({{ page.citation.issue }}), {{ page.citation.firstpage }}–{{ page.citation.lastpage }}. https://doi.org/{{ page.citation.doi }}
+Ashodhiya, A. K. ({{ page.citation.published | date: "%Y" }}). *{{ page.citation.title }}*. {{ page.citation.journal }} ({{ page.citation.journal_abbr }}), {{ page.citation.volume }}({{ page.citation.issue }}), {{ page.citation.firstpage }}–{{ page.citation.lastpage }}.{% if doi.size > 0 %} https://doi.org/{{ doi }}{% endif %}
 
 <p><button type="button" id="copy-btn">Copy BibTeX</button> <span id="copy-status" role="status" aria-live="polite"></span></p>
 
-<pre><code id="bibtex-code">@article{ashodhiya2026adharajan17_23,
+<pre><code id="bibtex-code">@article{ashodhiya{{ page.citation.published | date: "%Y" }}_{{ bib_slug }},
   title     = { {{ page.citation.title }} },
   author    = {Ashodhiya, Anand Kumar},
   journal   = { {{ page.citation.journal }} },
@@ -93,17 +100,21 @@ Ashodhiya, A. K. ({{ page.citation.published | date: "%Y" }}). *{{ page.citation
   number    = { {{ page.citation.issue }} },
   pages     = { {{ page.citation.firstpage }}--{{ page.citation.lastpage }} },
   year      = { {{ page.citation.published | date: "%Y" }} },
+{%- if page.citation.issn.size > 0 %}
   issn      = { {{ page.citation.issn }} },
-  doi       = { {{ page.citation.doi }} },
-  url       = { https://doi.org/{{ page.citation.doi }} }
+{%- endif %}
+{%- if doi.size > 0 %}
+  doi       = { {{ doi }} },
+  url       = { https://doi.org/{{ doi }} }
+{%- endif %}
 }</code></pre>
 
 ## Full Paper
 
 👉 **[Download Full Paper (PDF)]({{ page.citation.pdf | relative_url }})** *(Click to view or save the complete research paper)* | **[View on Publisher (RRIJM)](https://rrjournals.com/index.php/rrijm/article/view/214){:target="_blank" rel="noopener noreferrer"}**
 
-<div style="margin: 20px 0;">
-  <iframe src="{{ page.citation.pdf | relative_url }}" title="Full text PDF: Adharajan (Ragini 17–23)" width="100%" height="800" loading="lazy"></iframe>
+<div>
+  <iframe src="{{ page.citation.pdf | relative_url }}" title="Full text PDF: {{ page.citation.short_title }}" width="100%" height="800" loading="lazy"></iframe>
 </div>
 
 ## Related Research in this Series
