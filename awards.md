@@ -1,209 +1,77 @@
 ---
 layout: default
-title: Awards & Recognitions | Anand Kumar Ashodhiya
-description: Awards and Recognitions of Anand Kumar Ashodhiya.
-last_modified_at: 2026-08-05
+title: "Awards and Recognitions"
+description: "Literary honours and recognitions received by Anand Kumar Ashodhiya for contributions to Indian literature, from 2020 to 2026, with certificates, conferring bodies and locations."
+image: /og-image.jpg
+last_modified_at: 2026-10-08
 ---
 
 {% include profile-header.html %}
+{%- assign awards = site.data.awards | where_exp: "x", "x.kind != 'other'" -%}
+{%- assign others = site.data.awards | where: "kind", "other" -%}
 
-<h1 style="text-align: center; color: #2c3e50;">Awards & Recognitions</h1>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 50px; font-family: sans-serif;">
-  <div style="border: 1px solid #e0e0e0; padding: 15px; border-radius: 10px; width: 300px; background: #fafafa; text-align: center;">
-    <h3 style="font-size: 16px; color: #2c3e50; min-height: 40px;">Kavi Shiromani Samman 2026</h3>
-    <img src="awards-gallery/kavi-shiromani-2026.jpg" alt="Kavi Shiromani Samman 2026" style="width: 100%; height: 200px; object-fit: contain;">
-  </div>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 50px; font-family: sans-serif;">
-  <div style="border: 1px solid #e0e0e0; padding: 15px; border-radius: 10px; width: 300px; background: #fafafa; text-align: center;">
-    <h3 style="font-size: 16px; color: #2c3e50; min-height: 40px;">Indian Literature Award 2026</h3>
-    <img src="awards-gallery/indian-literature-award-2026.jpg" alt="Indian Literature Award 2026" style="width: 100%; height: 200px; object-fit: contain;">
-  </div>
-  <div style="border: 1px solid #e0e0e0; padding: 15px; border-radius: 10px; width: 300px; background: #fafafa; text-align: center;">
-    <h3 style="font-size: 16px; color: #2c3e50; min-height: 40px;">Haryanvi Sahitya Ratna Samman</h3>
-    <img src="awards-gallery/haryanvi-sahitya-ratna-samman-2025.jpg" alt="Haryanvi Sahitya Ratna Samman" style="width: 100%; height: 200px; object-fit: contain;">
-  </div>
-</div>
-
-<hr>
-
-<h2 style="color: #2c3e50;">Detailed Honors List</h2>
-<div style="overflow-x: auto;">
-<table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 14px; font-family: sans-serif;">
-  <tr style="background-color: #2c3e50; color: white; text-align: left;">
-    <th style="padding: 12px; border: 1px solid #ddd;">S.No.</th>
-    <th style="padding: 12px; border: 1px solid #ddd;">Year/Date</th>
-    <th style="padding: 12px; border: 1px solid #ddd;">Award Title</th>
-    <th style="padding: 12px; border: 1px solid #ddd;">Conferred By</th>
-    <th style="padding: 12px; border: 1px solid #ddd;">Location</th>
-  </tr>
- <tr><td style="padding: 10px; border: 1px solid #ddd;">1</td><td style="padding: 10px; border: 1px solid #ddd;">26 Jul 2026</td><td style="padding: 10px; border: 1px solid #ddd;">Kavi Shiromani Samman 2026</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Haryanvi Samooh Dhana</td><td style="padding: 10px; border: 1px solid #ddd;">MDU Rohtak</td></tr>
- <tr><td style="padding: 10px; border: 1px solid #ddd;">1</td><td style="padding: 10px; border: 1px solid #ddd;">31 Mar 2026</td><td style="padding: 10px; border: 1px solid #ddd;">Indian Literature Award 2026</td><td style="padding: 10px; border: 1px solid #ddd;">ILAS</td><td style="padding: 10px; border: 1px solid #ddd;">Online</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">2</td><td style="padding: 10px; border: 1px solid #ddd;">16 Dec 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Pak Sena Atmsamarpan Smriti Samman 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Haryanvi Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">3</td><td style="padding: 10px; border: 1px solid #ddd;">07 Dec 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Sashastra Sena Jhanda Divas Samman 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Rashtriya Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">4</td><td style="padding: 10px; border: 1px solid #ddd;">15 Aug 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Swatantrata Divas Smriti Samman 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Desh Bhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">5</td><td style="padding: 10px; border: 1px solid #ddd;">29 Jun 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Haryanvi Sahitya Ratna Samman</td><td style="padding: 10px; border: 1px solid #ddd;">Haryanvi Sahitya Manch Rohtak</td><td style="padding: 10px; border: 1px solid #ddd;">Rohtak</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">6</td><td style="padding: 10px; border: 1px solid #ddd;">2025</td><td style="padding: 10px; border: 1px solid #ddd;">Bharat Ratn Srijak Sammaj 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Haryanvi Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">7</td><td style="padding: 10px; border: 1px solid #ddd;">2025</td><td style="padding: 10px; border: 1px solid #ddd;">Nau Sena Kavya Srijan Samman 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Desh Bhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">8</td><td style="padding: 10px; border: 1px solid #ddd;">2025</td><td style="padding: 10px; border: 1px solid #ddd;">Nav Samvatvar Sahitya Samman 2025</td><td style="padding: 10px; border: 1px solid #ddd;">DD Bharti Network</td><td style="padding: 10px; border: 1px solid #ddd;">Jaipur</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">9</td><td style="padding: 10px; border: 1px solid #ddd;">2025</td><td style="padding: 10px; border: 1px solid #ddd;">Swarnim Sahitya Shiromani Samman 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Arya Publication</td><td style="padding: 10px; border: 1px solid #ddd;">Lucknow</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">10</td><td style="padding: 10px; border: 1px solid #ddd;">2025</td><td style="padding: 10px; border: 1px solid #ddd;">Swaranim Shikshak Gaurav Ratna Award 2025</td><td style="padding: 10px; border: 1px solid #ddd;">Arya Publication</td><td style="padding: 10px; border: 1px solid #ddd;">Lucknow</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">11</td><td style="padding: 10px; border: 1px solid #ddd;">2024</td><td style="padding: 10px; border: 1px solid #ddd;">Amar Shaheed Smriti Samman</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Deshbhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">12</td><td style="padding: 10px; border: 1px solid #ddd;">10 Nov 2024</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Sanjha Sankalan Shilpkar Samman 2024</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Sanjha Sanklan Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">13</td><td style="padding: 10px; border: 1px solid #ddd;">2024</td><td style="padding: 10px; border: 1px solid #ddd;">Co Author Publication Certificate</td><td style="padding: 10px; border: 1px solid #ddd;">Sjain Publication</td><td style="padding: 10px; border: 1px solid #ddd;">New Delhi</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">14</td><td style="padding: 10px; border: 1px solid #ddd;">2024</td><td style="padding: 10px; border: 1px solid #ddd;">Kargil Vijay Shree Samman</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Desh Bhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">15</td><td style="padding: 10px; border: 1px solid #ddd;">15 Aug 2023</td><td style="padding: 10px; border: 1px solid #ddd;">Kargil Vijay Sena Ki Jay Samman 2023</td><td style="padding: 10px; border: 1px solid #ddd;">Forever Star World Records</td><td style="padding: 10px; border: 1px solid #ddd;">Maharashtra</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">16</td><td style="padding: 10px; border: 1px solid #ddd;">06 Aug 2023</td><td style="padding: 10px; border: 1px solid #ddd;">Swatantarta Parva Samman 2023</td><td style="padding: 10px; border: 1px solid #ddd;">Hindi Kavya Sarita Manch</td><td style="padding: 10px; border: 1px solid #ddd;">Bhiwani</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">17</td><td style="padding: 10px; border: 1px solid #ddd;">26 Jul 2023</td><td style="padding: 10px; border: 1px solid #ddd;">Kargil Vijay Samman 2023</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Desh Bhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">18</td><td style="padding: 10px; border: 1px solid #ddd;">04 Jun 2023</td><td style="padding: 10px; border: 1px solid #ddd;">Saraswati Samman 2023</td><td style="padding: 10px; border: 1px solid #ddd;">Hindi Kavya Sarita Manch</td><td style="padding: 10px; border: 1px solid #ddd;">Bhiwani</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">19</td><td style="padding: 10px; border: 1px solid #ddd;">16 Dec 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Vijay Divas Smriti Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Desh Bhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">20</td><td style="padding: 10px; border: 1px solid #ddd;">31 Jul 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Shaheed Udham Singh Smriti Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Rashtriya Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">21</td><td style="padding: 10px; border: 1px solid #ddd;">26 Jul 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Kargil Gaurav Vijay Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Divyalay Sahityik Parivaar</td><td style="padding: 10px; border: 1px solid #ddd;">Patna</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">22</td><td style="padding: 10px; border: 1px solid #ddd;">26 Jun 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Pautr Prasang Kawyanjali Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">23</td><td style="padding: 10px; border: 1px solid #ddd;">22 Jun 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Vatan Premi Kalam Prahari Samman</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Desh Bhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">24</td><td style="padding: 10px; border: 1px solid #ddd;">Jun 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Ati Sakriya Lekhak Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Sahitya Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">25</td><td style="padding: 10px; border: 1px solid #ddd;">21 May 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Sadbhaav Smriti Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Desh Bhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">26</td><td style="padding: 10px; border: 1px solid #ddd;">13 Apr 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Jaliwala Baag Shaheed Smriti Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Desh Bhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">27</td><td style="padding: 10px; border: 1px solid #ddd;">27 Feb 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Chandrashekhar Azad Smriti Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Deshbhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">28</td><td style="padding: 10px; border: 1px solid #ddd;">23 Jan 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Azad Hind Sena Smriti Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Deshbhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">29</td><td style="padding: 10px; border: 1px solid #ddd;">2022</td><td style="padding: 10px; border: 1px solid #ddd;">Kargil Vijay Smriti Samman 2022</td><td style="padding: 10px; border: 1px solid #ddd;">Niswarthi Desh Bhakti Samooh</td><td style="padding: 10px; border: 1px solid #ddd;">Dhana Jhajjhar</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">30</td><td style="padding: 10px; border: 1px solid #ddd;">2022</td><td style="padding: 10px; border: 1px solid #ddd;">Floral Tribute to Netaji Subhash Chandra Bose</td><td style="padding: 10px; border: 1px solid #ddd;">Media Coverage</td><td style="padding: 10px; border: 1px solid #ddd;">Sonipat</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">31</td><td style="padding: 10px; border: 1px solid #ddd;">09 Sep 2020</td><td style="padding: 10px; border: 1px solid #ddd;">Veterans India President Haryana (Appointed)</td><td style="padding: 10px; border: 1px solid #ddd;">Veterans India New Delhi</td><td style="padding: 10px; border: 1px solid #ddd;">New Delhi</td></tr>
-  <tr><td style="padding: 10px; border: 1px solid #ddd;">32</td><td style="padding: 10px; border: 1px solid #ddd;">16 Jul 2020</td><td style="padding: 10px; border: 1px solid #ddd;">Meeting with Haryana Vidhan Sabha Adhyaksh</td><td style="padding: 10px; border: 1px solid #ddd;">Haryana Vidhan Sabha</td><td style="padding: 10px; border: 1px solid #ddd;">Chandigarh</td></tr>
-</table>
-</div>
-
+{::nomarkdown}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "Awards and Recognitions of Anand Kumar Ashodhiya",
-  "itemListElement": [
-    { "@type": "ListItem", "position": 1, "item": { "@type": "Thing", "name": "Kavi Shiromani Samman 2026" } },
-    { "@type": "ListItem", "position": 2, "item": { "@type": "Thing", "name": "Indian Literature Award 2026" } },
-    { "@type": "ListItem", "position": 3, "item": { "@type": "Thing", "name": "Pak Sena Atmsamarpan Smriti Samman 2025" } },
-    { "@type": "ListItem", "position": 4, "item": { "@type": "Thing", "name": "Sashastra Sena Jhanda Divas Samman 2025" } },
-    { "@type": "ListItem", "position": 5, "item": { "@type": "Thing", "name": "Swatantrata Divas Smriti Samman 2025" } },
-    { "@type": "ListItem", "position": 6, "item": { "@type": "Thing", "name": "Haryanvi Sahitya Ratna Samman" } },
-    { "@type": "ListItem", "position": 7, "item": { "@type": "Thing", "name": "Bharat Ratn Srijak Sammaj 2025" } },
-    { "@type": "ListItem", "position": 8, "item": { "@type": "Thing", "name": "Nau Sena Kavya Srijan Samman 2025" } },
-    { "@type": "ListItem", "position": 9, "item": { "@type": "Thing", "name": "Nav Samvatvar Sahitya Samman 2025" } },
-    { "@type": "ListItem", "position": 10, "item": { "@type": "Thing", "name": "Swarnim Sahitya Shiromani Samman 2025" } },
-    { "@type": "ListItem", "position": 11, "item": { "@type": "Thing", "name": "Swaranim Shikshak Gaurav Ratna Award 2025" } },
-    { "@type": "ListItem", "position": 12, "item": { "@type": "Thing", "name": "Amar Shaheed Smriti Samman" } },
-    { "@type": "ListItem", "position": 13, "item": { "@type": "Thing", "name": "Niswarthi Sanjha Sankalan Shilpkar Samman 2024" } },
-    { "@type": "ListItem", "position": 14, "item": { "@type": "Thing", "name": "Co Author Publication Certificate" } },
-    { "@type": "ListItem", "position": 15, "item": { "@type": "Thing", "name": "Kargil Vijay Shree Samman" } },
-    { "@type": "ListItem", "position": 16, "item": { "@type": "Thing", "name": "Kargil Vijay Sena Ki Jay Samman 2023" } },
-    { "@type": "ListItem", "position": 17, "item": { "@type": "Thing", "name": "Swatantarta Parva Samman 2023" } },
-    { "@type": "ListItem", "position": 18, "item": { "@type": "Thing", "name": "Kargil Vijay Samman 2023" } },
-    { "@type": "ListItem", "position": 19, "item": { "@type": "Thing", "name": "Saraswati Samman 2023" } },
-    { "@type": "ListItem", "position": 20, "item": { "@type": "Thing", "name": "Vijay Divas Smriti Samman 2022" } },
-    { "@type": "ListItem", "position": 21, "item": { "@type": "Thing", "name": "Shaheed Udham Singh Smriti Samman 2022" } },
-    { "@type": "ListItem", "position": 22, "item": { "@type": "Thing", "name": "Kargil Gaurav Vijay Samman 2022" } },
-    { "@type": "ListItem", "position": 23, "item": { "@type": "Thing", "name": "Pautr Prasang Kawyanjali Samman 2022" } },
-    { "@type": "ListItem", "position": 24, "item": { "@type": "Thing", "name": "Vatan Premi Kalam Prahari Samman" } },
-    { "@type": "ListItem", "position": 25, "item": { "@type": "Thing", "name": "Ati Sakriya Lekhak Samman 2022" } },
-    { "@type": "ListItem", "position": 26, "item": { "@type": "Thing", "name": "Sadbhaav Smriti Samman 2022" } },
-    { "@type": "ListItem", "position": 27, "item": { "@type": "Thing", "name": "Jaliwala Baag Shaheed Smriti Samman 2022" } },
-    { "@type": "ListItem", "position": 28, "item": { "@type": "Thing", "name": "Chandrashekhar Azad Smriti Samman 2022" } },
-    { "@type": "ListItem", "position": 29, "item": { "@type": "Thing", "name": "Azad Hind Sena Smriti Samman 2022" } },
-    { "@type": "ListItem", "position": 30, "item": { "@type": "Thing", "name": "Kargil Vijay Smriti Samman 2022" } },
-    { "@type": "ListItem", "position": 31, "item": { "@type": "Thing", "name": "Floral Tribute to Netaji Subhash Chandra Bose" } },
-    { "@type": "ListItem", "position": 32, "item": { "@type": "Thing", "name": "Veterans India President Haryana" } },
-    { "@type": "ListItem", "position": 33, "item": { "@type": "Thing", "name": "Meeting with Haryana Vidhan Sabha Adhyaksh" } }
-  ]
+  "@type": "CollectionPage",
+  "@id": "{{ page.url | absolute_url }}#collection",
+  "url": "{{ page.url | absolute_url }}",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "inLanguage": "en",
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+  "about": { "@id": "{{ '/' | absolute_url }}#person" },
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Awards of Anand Kumar Ashodhiya",
+    "numberOfItems": {{ awards.size }},
+    "itemListElement": [
+{%- for x in awards %}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "item": {
+          "@type": "Thing",
+          "name": {{ x.title | jsonify }},
+          "description": {{ x.by | append: ", " | append: x.place | append: ", " | append: x.date | jsonify }}
+        }
+      }{% unless forloop.last %},{% endunless -%}
+{%- endfor %}
+    ]
+  }
 }
 </script>
+{:/nomarkdown}
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
+# Awards and Recognitions
 
-    {
-      "@type": "ProfilePage",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/awards.html",
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/awards.html",
-      "name": "Awards & Recognitions | Anand Kumar Ashodhiya",
-      "mainEntity": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
-      }
-    },
+Literary honours (sammans) and recognitions received by **Anand Kumar Ashodhiya** for contributions to Indian literature. {{ awards.size }} honours are listed below, newest first.
 
-    {
-      "@type": "Person",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author",
-      "name": "Anand Kumar Ashodhiya",
-      "alternateName": ["Kavi Anand Shahpur", "आनन्द कुमार आशोधिया"],
-      "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-      "sameAs": [
-        "https://isni.org/isni/0000000530187854",
-        "https://orcid.org/0009-0005-1592-0592",
-        "https://scholar.google.com/citations?user=mO9WCuIAAAAJ",
-        "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
-        "https://www.youtube.com/@anandragnipoint",
-        "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
-        "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
-        "https://www.amazon.com/author/anandkumarashodhiya",
-        "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya",
-        "https://www.crunchbase.com/person/anand-kumar-ashodhiya",
-        "https://www.behance.net/anandkumarashodhiya",
-        "https://www.facebook.com/ashodhiya",
-        "https://medium.com/@ashodhiya68",
-        "https://filmfreeway.com/AnandKumarAshodhiya"
-      ],
+## Featured honours
 
-      "award": [
-        "Kavi Shiromani Samman 2026",
-        "Indian Literature Award 2026",
-        "Haryanvi Sahitya Ratna Samman",
-        "Kargil Vijay Samman",
-        "Pak Sena Atmsamarpan Smriti Samman 2025"
-      ]
-    },
+| Kavi Shiromani Samman 2026 | Indian Literature Award 2026 | Haryanvi Sahitya Ratna Samman |
+|:-:|:-:|:-:|
+| ![Kavi Shiromani Samman 2026]({{ '/awards-gallery/kavi-shiromani-2026.jpg' | relative_url }}) | ![Indian Literature Award 2026]({{ '/awards-gallery/indian-literature-award-2026.jpg' | relative_url }}) | ![Haryanvi Sahitya Ratna Samman]({{ '/awards-gallery/haryanvi-sahitya-ratna-samman-2025.jpg' | relative_url }}) |
 
-    {
-      "@type": "ItemList",
-      "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#awards",
-      "name": "Awards and Recognitions of Anand Kumar Ashodhiya",
-      "about": {
-        "@id": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/#author"
-      },
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "item": { "@type": "Thing", "name": "Kavi Shiromani Samman 2026" }},
-        { "@type": "ListItem", "position": 2, "item": { "@type": "Thing", "name": "Indian Literature Award 2026" }},
-        { "@type": "ListItem", "position": 3, "item": { "@type": "Thing", "name": "Haryanvi Sahitya Ratna Samman" }},
-        { "@type": "ListItem", "position": 4, "item": { "@type": "Thing", "name": "Pak Sena Atmsamarpan Smriti Samman 2025" }},
-        { "@type": "ListItem", "position": 5, "item": { "@type": "Thing", "name": "Sashastra Sena Jhanda Divas Samman 2025" }},
-        { "@type": "ListItem", "position": 6, "item": { "@type": "Thing", "name": "Swatantrata Divas Smriti Samman 2025" }},
-        { "@type": "ListItem", "position": 7, "item": { "@type": "Thing", "name": "Bharat Ratn Srijak Sammaj 2025" }},
-        { "@type": "ListItem", "position": 8, "item": { "@type": "Thing", "name": "Nau Sena Kavya Srijan Samman 2025" }},
-        { "@type": "ListItem", "position": 9, "item": { "@type": "Thing", "name": "Nav Samvatvar Sahitya Samman 2025" }},
-        { "@type": "ListItem", "position": 10, "item": { "@type": "Thing", "name": "Swarnim Sahitya Shiromani Samman 2025" }},
-        { "@type": "ListItem", "position": 11, "item": { "@type": "Thing", "name": "Swaranim Shikshak Gaurav Ratna Award 2025" }}
-      ]
-    }
+## Honours list
 
-  ]
-}
-</script>
-<div style="text-align: center; margin-top: 30px;">
- 
-</div>
+| No. | Date | Award | Conferred by | Location |
+|---|---|---|---|---|
+{% for x in awards -%}
+| {{ forloop.index }} | {{ x.date }} | {{ x.title }} | {{ x.by }} | {{ x.place }} |
+{% endfor %}
 
-<!-- ================= RESEARCH WIKI SECTION ================= -->
-<div style="background-color: #f0f7ff; padding: 20px; border-radius: 8px; border: 1px solid #d0e2ff; margin: 30px 0;">
-    <h3 style="margin-top: 0; color: #0056b3;">📖 Technical Research Documentation</h3>
-    <p>For detailed prosodic methodologies and extended bibliographic records, please visit the official project Wiki:</p>
-    <ul style="line-height: 1.8;">
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki" target="_blank"><b>Research Wiki Home</b></a> – Mission and project overview.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Pingala-Shastra-Methodology-in-Haryanvi-Ragni" target="_blank"><b>Pingala Shastra Methodology</b></a> – Technical framework for Haryanvi Ragni analysis.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Bibliography%E2%80%90and%E2%80%90Research" target="_blank"><b>Bibliography & Research Index</b></a> – Complete list of ISBN books and DOI-indexed papers.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Glossary%E2%80%90of%E2%80%90Haryanvi%E2%80%90Prosodic%E2%80%90Terms" target="_blank"><b>Glossary of Haryanvi Prosodic Terms </b></a> – Glossary of Haryanvi Prosodic Terms (Pingal Shastra).</li> 
-    </ul>
-</div>
+## Appointments, certificates and other recognitions
 
- [**Back to Home**](index.html)
+| No. | Date | Recognition | Issued by | Location |
+|---|---|---|---|---|
+{% for x in others -%}
+| {{ forloop.index }} | {{ x.date }} | {{ x.title }} | {{ x.by }} | {{ x.place }} |
+{% endfor %}
+
+[← Back to Home]({{ '/' | relative_url }})
+
+{% include wiki-links.md %}
 
 {% include footer.html %}
