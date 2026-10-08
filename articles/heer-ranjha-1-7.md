@@ -20,7 +20,7 @@ citation:
   language: hi
   pdf: /articles/heer-ranjha-1-7.pdf
   book: /books/heer-ranjha.html
-  doi: "10.5281/zenodo.19542794"
+  doi: "10.5281/zenodo.20365580"
   keywords:
     - हीर-राँझा
     - हरियाणवी रागणी
