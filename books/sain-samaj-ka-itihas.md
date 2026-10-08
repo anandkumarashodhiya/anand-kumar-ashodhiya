@@ -116,7 +116,7 @@ editions:
 | अंग्रेज़ी शीर्षक | Sain Samaj Ka Gauravshali Itihas |
 | लेखक | आनन्द कुमार आशोधिया (कवि आनन्द शाहपुर) |
 | भाषा | हिन्दी |
-| प्रकाशन वर्ष | 2023 |
+| प्रकाशन वर्ष | 2026 |
 | ISBN | 978-93-5655-031-5 |
 | विधा | समुदाय का इतिहास · सांस्कृतिक अध्ययन · इतिहास-लेखन |
 | शैक्षणिक क्षेत्र | सामाजिक इतिहास, सामुदायिक अध्ययन, भारतीय इतिहास-लेखन, सांस्कृतिक विकास, पारंपरिक विरासत, सामाजिक-सांस्कृतिक नृविज्ञान |
@@ -132,14 +132,14 @@ editions:
 
 ## उद्धरण कैसे दें
 
-Ashodhiya, Anand Kumar. (2023). *Sain Samaj Ka Gauravshali Itihas*. Self-published.
+Ashodhiya, Anand Kumar. (2026). *Sain Samaj Ka Gauravshali Itihas*. Self-published.
 
 <p><button type="button" id="copy-btn">BibTeX कॉपी करें</button> <span id="copy-status" role="status" aria-live="polite"></span></p>
 
-<pre><code id="bibtex-code">@book{ashodhiya2023sain,
+<pre><code id="bibtex-code">@book{ashodhiya2026sain,
   title     = {Sain Samaj Ka Gauravshali Itihas},
   author    = {Ashodhiya, Anand Kumar},
-  year      = {2023},
+  year      = {2026},
   publisher = {Self-published},
   isbn      = {978-93-5655-031-5},
   language  = {Hindi},
