@@ -42,7 +42,9 @@ To discuss publishing opportunities or literary transcreations, contact the Avik
 
 ## Location and languages
 
-**Based in:** Sonipat, Haryana, India
+**Native place:** Sonipat, Haryana, India
+
+**Currently based in:** Navi Mumbai, Maharashtra, India
 
 **Languages:** Hindi, English and Haryanvi
 
