@@ -55,7 +55,7 @@ The central aim is the scholarly preservation of Haryanvi oral literary traditio
 | Designation | Independent Researcher, former Warrant Officer, Indian Air Force |
 | Research domains | Haryanvi Ragni, Pingal Shastra, folk literature, oral traditions |
 | Languages of publication | Haryanvi, Hindi, English |
-| Research base | Navi Mumbai, Maharashtra, India |
+| Native place / current base | Sonipat, Haryana / Navi Mumbai, Maharashtra |
 
 ## Academic profiles
 
