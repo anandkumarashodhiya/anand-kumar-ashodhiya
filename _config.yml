@@ -50,3 +50,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+sitemap:
+  exclude:
+    - 'google*.html'
