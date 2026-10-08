@@ -98,7 +98,7 @@ These are supported by GitHub-based digital infrastructure, metadata indexing, r
 
 ## Independent research status
 
-He works as an **independent researcher** outside conventional university structures, and takes part in scholarly life through journal publications, digital indexing, research archiving and literary documentation. His research base is Navi Mumbai, Maharashtra, India.
+He works as an **independent researcher** outside conventional university structures, and takes part in scholarly life through journal publications, digital indexing, research archiving and literary documentation. He is a native of Sonipat, Haryana, and currently lives and works in Navi Mumbai, Maharashtra, India.
 
 ## Academic profiles
 
