@@ -3,14 +3,14 @@
 - { slug: ath-marjarika-uvaach, title: "Ath Marjarika Uvaach", language: "Hindi", isbn: "978-93-5619-397-0", genre: "Historical Epic", cover: "/ath-marjrika-uvaach-cover.jpg" }
 - { slug: saket, title: "SĀKET", language: "English", isbn: "978-93-5469-845-3", genre: "Transcreation", cover: "/saket-cover.jpg" }
 - { slug: antaryatra, title: "Antaryātrā", language: "English", isbn: "978-93-5626-749-7", genre: "Poetry", cover: "/antaryatra-cover.jpg" }
-- { slug: heer-ranjha, title: "Heer Ranjha", language: "Haryanvi", isbn: "978-81-989952-9-2", genre: "Ragni & Review", cover: "/heer-ranjha-book-isbn.jpg" }
-- { slug: kissa-bhagat-puranmal, title: "Kissa Bhagat Puranmal", language: "Haryanvi", isbn: "978-81-989952-8-5", genre: "Ragni & Review", cover: "/bhagat-puranmal-isbn.jpg" }
-- { slug: niswarthi-udyoga-parva, title: "Niswarthi Udyoga Parva", language: "English", isbn: "978-93-5525-694-2", genre: "Translation", cover: "/niswarthi-udhyoga-parva-book-isbn.jpg" }
-- { slug: draupadi-ek-lok-chetna, title: "Draupadi: Ek Lok Chetna", language: "Haryanvi", isbn: "978-93-344-4058-4", genre: "Ragni & Review", cover: "/dropadi-book-isbn.jpg" }
-- { slug: thara-mudda-thari-baat, title: "Thara Mudda Thari Baat", language: "Haryanvi", isbn: "978-81-989952-2-3", genre: "Modern Poetry", cover: "/thara-mudda-thari-baat-isbn.jpg" }
+- { slug: heer-ranjha, title: "Heer Ranjha", language: "Haryanvi", isbn: "978-81-989952-9-2", genre: "Ragni & Review", cover: "/heer-ranjha-cover.jpeg" }
+- { slug: kissa-bhagat-puranmal, title: "Kissa Bhagat Puranmal", language: "Haryanvi", isbn: "978-81-989952-8-5", genre: "Ragni & Review", cover: "/bhagat-puranmal-cover.png" }
+- { slug: niswarthi-udyoga-parva, title: "Niswarthi Udyoga Parva", language: "English", isbn: "978-93-5525-694-2", genre: "Translation", cover: "/niswarthi-udyoga-parva-cover.png" }
+- { slug: draupadi-ek-lok-chetna, title: "Draupadi: Ek Lok Chetna", language: "Haryanvi", isbn: "978-93-344-4058-4", genre: "Ragni & Review", cover: "/draupadi-ek-lok-chetna-cover.jpg" }
+- { slug: thara-mudda-thari-baat, title: "Thara Mudda Thari Baat", language: "Haryanvi", isbn: "978-81-989952-2-3", genre: "Modern Poetry", cover: "/thara-mudda-thari-baat-front-cover.jpeg" }
 - { slug: prem-ke-sau-rang, title: "Prem Ke Sau Rang", language: "Hindi", isbn: "978-93-344-5526-7", genre: "Short Poetry", cover: "/prem-ke-sau-rang-cover.png" }
 - { slug: avikavani-ragni-sangrah, title: "Avikavani Ragni Sangrah", language: "Haryanvi", isbn: "978-93-344-2403-4", genre: "Folk Collection", cover: "/avikavani-cover.jpg" }
-- { slug: kahaan-kahaan-paiband-lagau, title: "Kahaan Kahaan Paiband Lagau", language: "English", isbn: "978-93-5592-178-9", genre: "Translation", cover: "/kahaan-kahaan-paiband-lagau-isbn.jpg" }
+- { slug: kahaan-kahaan-paiband-lagau, title: "Kahaan Kahaan Paiband Lagau", language: "English", isbn: "978-93-5592-178-9", genre: "Translation", cover: "/kahaan-kahaan-paiband-lagau-Cover.jpg" }
 - { slug: sain-samaj-ka-itihas, title: "Sain Samaj Ka Gauravshali Itihas", language: "Hindi", isbn: "978-93-5655-031-5", genre: "History", cover: "/sain-samaj-ka-gauravshali-itihas-cover.jpg" }
 - { slug: haryanvi-boli-se-bhasha, title: "Haryanvi: Boli Se Bhasha Tak Ka Bhashai Samarthya", language: "Hindi", isbn: "978-93-5912-062-1", genre: "Linguistic Study", cover: "/haryanvi-boli-se-bhasha-cover.jpg" }
 - { slug: haryanvi-grammar, title: "Haryanvi Grammar: A Standard & Authentic Manual", language: "Hindi", isbn: "978-93-5916-493-9", genre: "Grammar", cover: "/haryanvi-grammar-cover.jpg" }
