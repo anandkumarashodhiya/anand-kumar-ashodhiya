@@ -25,7 +25,7 @@ editions:
   - label: "Amazon Kindle Edition"
     format: EBook
     price: "$5.99"
-    url: "https://www.amazon.com/dp/B0DXXXXXXX"
+    url: "https://www.amazon.com/dp/9356267499"
 ---
 
 {% include profile-header.html %}
