@@ -20,7 +20,7 @@ citation:
   language: en
   pdf: /articles/cultural-anxiety-and-ethical-selfhood.pdf
   book: /books/avikavani-ragni-sangrah.html
-  doi: "10.5281/zenodo.20583523"
+  doi: "10.5281/zenodo.20827357"
   keywords:
     - Haryanvi Ragni
     - Pingal Shastra
