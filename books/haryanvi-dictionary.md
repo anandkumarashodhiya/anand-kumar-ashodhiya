@@ -16,7 +16,7 @@ editions:
     format: Paperback
     isbn: "9789360138967"
     price: "1,255"
-    url: "https://www.amazon.in/dp/9360138965"
+    url: "https://www.amazon.in/dp/B0H8DCK386"
   - label: "Pothi.com प्रिंट संस्करण"
     format: Paperback
     isbn: "9789360138967"
@@ -30,7 +30,7 @@ editions:
   - label: "Amazon किंडल ई-बुक"
     format: EBook
     price: "599"
-    url: "https://www.amazon.in/dp/B0D98KXXXX"
+    url: "https://www.amazon.in/dp/B0H8DCK386"
 ---
 
 {% include profile-header.html %}
