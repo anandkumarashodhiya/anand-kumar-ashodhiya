@@ -1,111 +1,63 @@
 ---
 layout: default
-title: Gallery & IAF Legacy | Anand Kumar Ashodhiya
-description: Recent accolades and literary sammans received by Anand Kumar Ashodhiya for contributions to Indian literature to preserve classical Indian folk traditions.
-last_modified_at: 2026-05-13
+title: "Gallery and Indian Air Force Legacy"
+description: "Photographs from the 32-year Indian Air Force service of Warrant Officer Anand Kumar Ashodhiya, with literary honours and patriotic images."
+image: /awards-gallery/anand-kumar-ashodhiya-in-uniform.jpg
+last_modified_at: 2026-10-08
 ---
 
 {% include profile-header.html %}
 
-<h1 style="text-align: center; color: #2c3e50;">🇮🇳 Indian Air Force (IAF) Legacy</h1>
-<p style="text-align: center; font-style: italic;">Honoring 32 years of dedicated service to the Nation.</p>
-
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 40px;">
-
-  <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; width: 250px; text-align: center; background: #f9f9f9;">
-    <img src="awards-gallery/anand-in-jungle-dress.jpg" alt="Warrant Officer Anand Kumar Ashodhiya in Jungle Dress" style="width: 100%; border-radius: 5px; height: 300px; object-fit: cover;">
-    <p style="font-size: 13px; margin-top: 8px; font-weight: bold;">Field Service Attire</p>
-  </div>
-
-  <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; width: 250px; text-align: center; background: #f9f9f9;">
-    <img src="awards-gallery/anand-in-uniform.jpg" alt="Anand Kumar Ashodhiya IAF Uniform" style="width: 100%; border-radius: 5px; height: 300px; object-fit: cover;">
-    <p style="font-size: 13px; margin-top: 8px; font-weight: bold;">IAF Service Uniform</p>
-  </div>
-
-  <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; width: 250px; text-align: center; background: #f9f9f9;">
-    <img src="awards-gallery/anand-kumar-ashodhiya-in-uniform.jpg" alt="Warrant Officer Anand Kumar Ashodhiya" style="width: 100%; border-radius: 5px; height: 300px; object-fit: cover;">
-    <p style="font-size: 13px; margin-top: 8px; font-weight: bold;">Official Portrait</p>
-  </div>
-
-  <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; width: 250px; text-align: center; background: #f9f9f9;">
-    <img src="awards-gallery/anand-kumar-ashodhiya-uniform.jpg" alt="Anand Kumar Ashodhiya IAF Legacy" style="width: 100%; border-radius: 5px; height: 300px; object-fit: cover;">
-    <p style="font-size: 13px; margin-top: 8px; font-weight: bold;">32 Years of Service</p>
-  </div>
-
-</div>
-
-<div style="max-width: 800px; margin: 0 auto; line-height: 1.6; text-align: justify; font-family: sans-serif; padding: 0 15px;">
-  <p><strong>Warrant Officer Anand Kumar Ashodhiya</strong> dedicated 32 distinguished years to the Indian Air Force. His journey from the village of Shahpur Turk in Sonipat to serving the nation remains a cornerstone of his discipline and literary inspiration.</p>
-</div>
-
+{::nomarkdown}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ProfilePage",
-  "mainEntity": {
-    "@type": "Person",
-    "@id": "https://anandkumarashodhiya.github.io/#person",
-    "url": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya/",
-    "name": "Anand Kumar Ashodhiya",
-    "alternateName": "Kavi Anand Shahpur",
-    "description": "Retired Warrant Officer of the Indian Air Force with 32 years of service, also a renowned Haryanvi and Hindi litterateur.",
-    "image": "https://anandkumarashodhiya.github.io/anand-kumar-ashodhiya.jpg",
-    "sameAs": [
-      "https://isni.org/isni/0000000530187854",
-      "https://orcid.org/0009-0005-1592-0592",
-      "https://musicbrainz.org/artist/5026d6a7-cbca-4c54-b663-8673e0f10149",
-      "https://www.youtube.com/@anandragnipoint",
-      "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
-      "https://play.google.com/store/info/name/ANAND_KUMAR_ASHODHIYA?id=11ymyz5yjr",
-      "https://www.amazon.com/author/anandkumarashodhiya",
-      "https://www.goodreads.com/author/show/58492536.Anand_Kumar_Ashodhiya"
-    ],
-    "hasOccupation": {
-      "@type": "Occupation",
-      "name": "Warrant Officer"
-    },
-    "affiliation": {
-      "@type": "Organization",
-      "name": "Indian Air Force"
-    },
-    "hasCredential": {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "Military Rank",
-      "name": "Warrant Officer, Indian Air Force"
-    }
-  }
+  "@type": "ImageGallery",
+  "@id": "{{ page.url | absolute_url }}#gallery",
+  "url": "{{ page.url | absolute_url }}",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "inLanguage": "en",
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+  "about": { "@id": "{{ '/' | absolute_url }}#person" },
+  "hasPart": [
+    { "@type": "ImageObject", "contentUrl": "{{ '/awards-gallery/anand-in-jungle-dress.jpg' | absolute_url }}", "name": "Field service attire", "caption": "Warrant Officer Anand Kumar Ashodhiya in jungle dress" },
+    { "@type": "ImageObject", "contentUrl": "{{ '/awards-gallery/anand-in-uniform.jpg' | absolute_url }}", "name": "IAF service uniform", "caption": "Anand Kumar Ashodhiya in IAF service uniform" },
+    { "@type": "ImageObject", "contentUrl": "{{ '/awards-gallery/anand-kumar-ashodhiya-in-uniform.jpg' | absolute_url }}", "name": "Official portrait", "caption": "Official portrait of Warrant Officer Anand Kumar Ashodhiya" },
+    { "@type": "ImageObject", "contentUrl": "{{ '/awards-gallery/anand-kumar-ashodhiya-uniform.jpg' | absolute_url }}", "name": "32 years of service", "caption": "Anand Kumar Ashodhiya, Indian Air Force legacy" }
+  ]
 }
 </script>
+{:/nomarkdown}
 
-<div style="text-align: center; margin-top: 50px;">
-  
-</div>
+# Indian Air Force (IAF) Legacy
 
-## 🏆 Honours & Recognitions
-Recent accolades and literary sammans received for contributions to Indian literature.
+*Honouring 32 years of dedicated service to the nation.*
 
+| Field service attire | IAF service uniform |
+|:-:|:-:|
+| ![Warrant Officer Anand Kumar Ashodhiya in jungle dress]({{ '/awards-gallery/anand-in-jungle-dress.jpg' | relative_url }}) | ![Anand Kumar Ashodhiya in IAF service uniform]({{ '/awards-gallery/anand-in-uniform.jpg' | relative_url }}) |
+
+| Official portrait | 32 years of service |
+|:-:|:-:|
+| ![Official portrait of Warrant Officer Anand Kumar Ashodhiya]({{ '/awards-gallery/anand-kumar-ashodhiya-in-uniform.jpg' | relative_url }}) | ![Anand Kumar Ashodhiya, Indian Air Force legacy]({{ '/awards-gallery/anand-kumar-ashodhiya-uniform.jpg' | relative_url }}) |
+
+**Warrant Officer Anand Kumar Ashodhiya** dedicated 32 distinguished years to the Indian Air Force. His journey from the village of Shahpur Turk in Sonipat to serving the nation remains a cornerstone of his discipline and literary inspiration.
+
+## Honours and recognitions
+
+Recent honours received for contributions to Indian literature. The full list is on the [Awards page]({{ '/awards.html' | relative_url }}).
 
 | Haryanvi Sahitya Ratna | Nav Samvatsar Samman |
-| :---: | :---: |
-| ![Haryanvi Sahitya Ratna](haryanvi-sahitya-ratna.jpg) | ![Nav Samvatsar Samman](nav-samvatsar-samman.jpg) |
+|:-:|:-:|
+| ![Haryanvi Sahitya Ratna certificate]({{ '/haryanvi-sahitya-ratna.jpg' | relative_url }}) | ![Nav Samvatsar Samman certificate]({{ '/nav-samvatsar-samman.jpg' | relative_url }}) |
 
----
+## Patriotic spirit
 
-## 🇮🇳 Patriotic Spirit
-![Anand Tricolor](anand-tricolor.jpg)
+![Anand Kumar Ashodhiya with the Indian tricolour]({{ '/anand-tricolor.jpg' | relative_url }})
 
-[**Back to Home**](index.html)
+[← Back to Home]({{ '/' | relative_url }})
 
-<!-- ================= RESEARCH WIKI SECTION ================= -->
-<div style="background-color: #f0f7ff; padding: 20px; border-radius: 8px; border: 1px solid #d0e2ff; margin: 30px 0;">
-    <h3 style="margin-top: 0; color: #0056b3;">📖 Technical Research Documentation</h3>
-    <p>For detailed prosodic methodologies and extended bibliographic records, please visit the official project Wiki:</p>
-    <ul style="line-height: 1.8;">
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki" target="_blank"><b>Research Wiki Home</b></a> – Mission and project overview.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Pingala-Shastra-Methodology-in-Haryanvi-Ragni" target="_blank"><b>Pingala Shastra Methodology</b></a> – Technical framework for Haryanvi Ragni analysis.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Bibliography%E2%80%90and%E2%80%90Research" target="_blank"><b>Bibliography & Research Index</b></a> – Complete list of ISBN books and DOI-indexed papers.</li>
-        <li><a href="https://github.com/anandkumarashodhiya/anand-kumar-ashodhiya/wiki/Glossary%E2%80%90of%E2%80%90Haryanvi%E2%80%90Prosodic%E2%80%90Terms" target="_blank"><b>Glossary of Haryanvi Prosodic Terms </b></a> – Glossary of Haryanvi Prosodic Terms (Pingal Shastra).</li> 
-    </ul>
-</div>
+{% include wiki-links.md %}
 
 {% include footer.html %}
