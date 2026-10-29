@@ -18,3 +18,4 @@
 - { slug: haryanvi-dictionary, title: "Haryanvi Dictionary (Haryanvi–Hindi–English)", language: "Hindi", isbn: "978-93-6013-896-7", genre: "Dictionary", cover: "/haryanvi-dictionary-cover.jpg" }
 - { slug: haryanvi-ragni-scholarly-digital-corpus, title: "Haryanvi Ragni Scholarly Digital Corpus (HRSDC) (Haryanvi–English)", language: "English", isbn: "978-93-345-0651-8", genre: "Scholarly Anthology", cover: "/haryanvi-ragni_scholarly_digital_corpus_cover.jpg" }
 - { slug: antarman-ki-yatra, title: "Antarman Ki Yatra (Hindi)", language: "Hindi", isbn: "978-93-345-4990-4", genre: "Poetry", cover: "/antarman_ki_yatra_cover.jpg" }
+- { slug: dhoop-ke-paanv, title: "Dhoop Ke Paanv (Hindi)", language: "Hindi", isbn: "978-93-345-7574-3", genre: "Modern Poetry", cover: "/ dhoop_ke_paanv_cover.jpg" }
