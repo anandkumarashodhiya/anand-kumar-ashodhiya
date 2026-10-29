@@ -78,6 +78,7 @@ Pingal Shastra and Indian prosody · Haryanvi Ragni tradition · Saang-Shaili or
 - [**Adhirājan — Folk Epic (Revised Edition)**]({{ '/books/adhirajan-edition-2.html' | relative_url }})
 - [**Kissa Bhagat Puranmal — Folk Narrative & Analysis**]({{ '/books/kissa-bhagat-puranmal.html' | relative_url }})
 - [**Antaryātrā — Poetry Collection**]({{ '/books/antaryatra.html' | relative_url }})
+- [**अन्तर्मन की यात्रा — हिन्दी काव्य संग्रह**]({{ '/books/antarman-ki-yatra.html' | relative_url }})
 
 The books and research papers on this website form a growing archive dedicated to Haryanvi Ragni literature, oral poetics, Pingal Shastra and vernacular folk-performance traditions.
 
