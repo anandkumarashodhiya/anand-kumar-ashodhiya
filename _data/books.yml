@@ -17,3 +17,4 @@
 - { slug: haryanvi-idioms, title: "Haryanvi Idioms & Proverbs", language: "Hindi", isbn: "978-93-5996-886-5", genre: "Idioms & Proverbs", cover: "/haryanvi-idioms-cover.jpg" }
 - { slug: haryanvi-dictionary, title: "Haryanvi Dictionary (Haryanvi–Hindi–English)", language: "Hindi", isbn: "978-93-6013-896-7", genre: "Dictionary", cover: "/haryanvi-dictionary-cover.jpg" }
 - { slug: haryanvi-ragni-scholarly-digital-corpus, title: "Haryanvi Ragni Scholarly Digital Corpus (HRSDC) (Haryanvi–English)", language: "English", isbn: "978-93-345-0651-8", genre: "Scholarly Anthology", cover: "/haryanvi-ragni_scholarly_digital_corpus_cover.jpg" }
+- { slug: antarman-ki-yatra, title: "Antarman Ki Yatra (Hindi)", language: "Hindi", isbn: "978-93-345-4990-4", genre: "Poetry", cover: "/antarman_ki_yatra_cover.jpg" }
