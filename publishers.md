@@ -63,6 +63,7 @@ These notable works are published under the Avikavani Publishers imprint:
 | [**Adhirājan**]({{ '/books/adhirajan-edition-2.html' | relative_url }}) | Folk epic (Ragni) | Haryanvi |
 | **Ath Marjarika Uvaach** | Historical epic | Hindi |
 | [**Heer Ranjha**]({{ '/books/heer-ranjha.html' | relative_url }}) | Folk collection | Haryanvi |
+| [**अन्तर्मन की यात्रा**]({{ '/books/antarman-ki-yatra.html' | relative_url }}) | Poetry | Hindi |
 | **Draupadi** | Ragni and review | Haryanvi |
 
 ## About the founder
