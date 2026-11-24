@@ -10,19 +10,62 @@
   "@type": "Person",
   "@id": "{{ '/' | absolute_url }}#person",
   "name": "Anand Kumar Ashodhiya",
-  "alternateName": ["Kavi Anand Shahpur", "आनन्द कुमार आशोधिया"],
+  "givenName": "Anand Kumar",
+  "familyName": "Ashodhiya",
+  "alternateName": [
+    "Kavi Anand Shahpur",
+    "Anand Shahpur",
+    "आनन्द कुमार आशोधिया",
+    "कवि आनन्द शाहपुर"
+  ],
   "url": "{{ '/' | absolute_url }}",
   "image": "{{ '/anand-kumar-ashodhiya-profile-photo.jpg' | absolute_url }}",
-  "jobTitle": "Author, Poet, Researcher and Cultural Envoy",
-  "alumniOf": { "@type": "CollegeOrUniversity", "name": "Annamalai University" },
-  "description": "Indian author, independent researcher and scholar of Haryanvi Ragni, Pingal Shastra, folk poetics, oral traditions and North Indian performance literature.",
+  "jobTitle": "Author, Poet, Independent Researcher, Lexicographer and Cultural Envoy",
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Shahpur Turk, Sonipat, Haryana, India"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Annamalai University"
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Avikavani Publishers"
+  },
+  "award": [
+    "Haryanvi Sahitya Ratna (2025)",
+    "Haryana Sanskriti Gaurav Ratna",
+    "Kargil Vijay Samman",
+    "Paramveer Samman",
+    "Rajbhasha Protsahan Samman"
+  ],
+  "description": "Indian author, poet, lexicographer, translator, and independent researcher specializing in Haryanvi Ragni, Pingal Shastra, descriptive lexicography, oral traditions, and North Indian performance literature.",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Navi Mumbai",
     "addressRegion": "Maharashtra",
     "addressCountry": "IN"
   },
-  "knowsAbout": ["Haryanvi Ragni", "Pingal Shastra", "Indian Prosody", "Oral Tradition Studies", "Saang Tradition", "Folk Performance Studies", "North Indian Folk Literature", "Ecological Humanities", "Digital Sociology", "Folk Hermeneutics", "Vernacular Philosophy", "Cultural Semiotics"],
+  "knowsLanguage": ["Hindi", "Haryanvi", "English"],
+  "knowsAbout": [
+    "Haryanvi Ragni",
+    "Pingal Shastra",
+    "Indian Prosody",
+    "Haryanvi Lexicography",
+    "Haryanvi Grammar",
+    "Sociolinguistics",
+    "Oral Tradition Studies",
+    "Saang Tradition",
+    "Folk Performance Studies",
+    "North Indian Folk Literature",
+    "Literary Transcreation",
+    "Ecological Humanities",
+    "Digital Sociology",
+    "Folk Hermeneutics",
+    "Vernacular Philosophy",
+    "Cultural Semiotics"
+  ],
   "sameAs": [
     "https://orcid.org/0009-0005-1592-0592",
     "https://scholar.google.com/citations?user=mO9WCuIAAAAJ",
@@ -34,6 +77,8 @@
     "https://www.youtube.com/@anandragnipoint",
     "https://www.linkedin.com/in/anand-kumar-ashodhiya-599248285",
     "https://independent.academia.edu/AAshodhiya",
+    "https://github.com",
+    "https://worldcat.org",
     "https://www.crunchbase.com/person/anand-kumar-ashodhiya",
     "https://www.behance.net/anandkumarashodhiya",
     "https://www.facebook.com/ashodhiya",
@@ -52,15 +97,15 @@
     { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ '/' | absolute_url }}" }
 {%- if page.url contains '/books/' %},
     { "@type": "ListItem", "position": 2, "name": "Books", "item": "{{ '/books.html' | absolute_url }}" },
-    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
+    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }
 {%- elsif page.url contains '/articles/' and page.url != '/articles/' %},
     { "@type": "ListItem", "position": 2, "name": "Research Articles", "item": "{{ '/articles/' | absolute_url }}" },
-    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
+    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }
 {%- elsif page.url contains '/research/' and page.url != '/research/' %},
     { "@type": "ListItem", "position": 2, "name": "Research", "item": "{{ '/research/' | absolute_url }}" },
-    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
+    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }
 {%- else %},
-    { "@type": "ListItem", "position": 2, "name": {{ page.title | jsonify }} }
+    { "@type": "ListItem", "position": 2, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }
 {%- endif %}
   ]
 }
